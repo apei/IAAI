@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch05"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+	<title>Los programas y planes, su evaluación y marketing</title>
+	<para>
+		Acabamos de plantear un debate sobre cuáles son las competencias que abarcan el concepto de ALFIN. En ocasiones se consideran determinadas 
+		actividades como ALFIN. En este sentido Felicidad Campal &lt;<link xl:href="http://www.slideshare.net/manarea/alfin-alfabetizacin-informacional-presentation"/>&gt; 
+		nos indica <emphasis role="strong">qué no es ALFIN:</emphasis>
+	</para>
+	<itemizedlist>
+		<listitem>
+			<para>Ni un servicio esporádico</para>
+		</listitem>
+		<listitem>
+			<para>Ni un fin en sí mismo</para>
+		</listitem>
+		<listitem>
+			<para>No es extensión bibliotecaria</para>
+		</listitem>
+		<listitem>
+			<para>No son campañas o talleres de animación a la lectura (en todo caso animación a la información)</para>
+		</listitem>
+		<listitem>
+			<para>No es el servicio de información y referencia</para>
+		</listitem>
+		<listitem>
+			<para>No es marketing</para>
+		</listitem>
+		<listitem>
+			<para>No sólo para niños</para>
+		</listitem>
+		<listitem>
+			<para>No trabaja individualmente</para>
+		</listitem>
+		<listitem>
+			<para>No un mismo programa estático para todos los usuarios: es necesario adaptarse a ellos, darles protagonismo y conocer sus necesidades</para>
+		</listitem>
+	</itemizedlist>
+	<para>
+		El planteamiento de Felicidad Campal no busca desilusionar a aquellos que dan sus primeros pasos con los medios que tienen, ya que algunos elementos tomados 
+		aisladamente pueden ser el germen de lo que luego será una buena formación en competencias. Lo que defiende sobre todo es que no se trata de hacer por hacer 
+		sino que es necesaria una planificación que integre todos los elementos y los haga perdurables y sistemáticos. Ella piensa que debemos hacer esa planificación 
+		desde dos puntos de vista, el de la gestión de un servicio (para quién, qué contenidos, con qué difusión y con qué resultados) y el didáctico (para qué 
+		objetivos, con qué estrategias y modelos, con qué recursos y qué técnicas), contando con el bibliotecario formador.
+	</para>
+	<para>
+		Pero no es la única que piensa así. Por ejemplo, Manuel Area (2009), sobre el punto de vista didáctico, cree que hay que tener en cuenta unos principios 
+		metodológicos, unas estrategias de enseñanza y unos recursos didácticos que determinarán cuáles son las actividades de aprendizaje concretas.
+	</para>
+	<para>
+		José Antonio Gómez<footnote><para>Véase &lt;<link xl:href="http://www.um.es/gtiweb/jgomez/hei/intranet/tema1y2.pdf"/>&gt;.</para></footnote> piensa que un 
+		programa de este tipo debe contemplar:
+	</para>
+	<itemizedlist>
+		<listitem>
+			<para>
+				Los objetivos, que tendrán en cuenta las competencias que se quieren enseñar, el contexto de aprendizaje (conocimientos previos de los formados) 
+				y los fines de la formación.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Los contenidos que se impartirán, que pueden ser conceptos, procedimientos o actitudes.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				El diseño de la formación, determinando actividades didácticas (métodos verbales, técnicas grupales, motivación).
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				La evaluación de la enseñanza.
+			</para>
+		</listitem>
+	</itemizedlist>
+	<para>
+		Jesús Lau (2006; p. 6-8) determina cuáles son los elementos que deben contemplarse en un plan de ALFIN:
+	</para>
+	<itemizedlist>
+		<listitem>
+			<para>Es conveniente que esté incluido en un plan estratégico</para>
+		</listitem>
+		<listitem>
+			<para>La misión establecerá las metas y se relacionará con la misión de la biblioteca</para>
+		</listitem>
+		<listitem>
+			<para>La visión, que concreta lo que se busca conseguir en el medio y largo plazo</para>
+		</listitem>
+		<listitem>
+			<para>Una justificación que incluya razones, necesidades y beneficios para convencer a los que tienen el poder de decisión y a los que estén 
+				implicados en el proceso</para>
+		</listitem>
+		<listitem>
+			<para>Análisis DAFO: debilidades, amenazas, fortalezas y oportunidades</para>
+		</listitem>
+		<listitem>
+			<para>Las estrategias que se van a seguir para su implantación</para>
+		</listitem>
+		<listitem>
+			<para>Los objetivos y metas, que pueden desarrollarse tanto como se quiera</para>
+		</listitem>
+		<listitem>
+			<para>Las principales tareas que se realizarán con cada uno de esos objetivos</para>
+		</listitem>
+		<listitem>
+			<para>Los recursos, tanto materiales como humanos que se necesitarán</para>
+		</listitem>
+		<listitem>
+			<para>Una estimación presupuestaria de lo que conllevará el plan</para>
+		</listitem>
+		<listitem>
+			<para>Y un cronograma de cumplimiento del plan, que también servirá para su evaluación.</para>
+		</listitem>
+	</itemizedlist>
+	<para>
+		La ACRL publicó en 2003 un documento sobre las características de los programas de alfabetización en información que sirven como ejemplo de buenas 
+		prácticas &lt;<link xl:href="http://www.aab.es/pdfs/baab70/70a4.PDF"/>&gt; en el que (aunque la planificación aparece como uno de los puntos) contempla 
+		varios de los aspectos mencionados por Lau con un desarrollo mayor. En concreto hacen referencia a: la misión, las metas y objetivos, la planificación, 
+		el apoyo administrativo e institucional, la articulación con el plan de estudios, la colaboración, la pedagogía, el personal, el marketing y la valoración/evaluación.
+	</para>
+	<para>
+		Hay propuestas sobre cómo diseñar cursos específicos<footnote><para>Félix Benito, por ejemplo, propone en Brecha digital y nuevas alfabetizaciones 
+		(p. 159-160) el diseño de un curso presencial en la biblioteca.</para></footnote> pero para mostrar la aplicación práctica de estas ideas nos vamos 
+		a limitar a mencionar dos ejemplos de planes de formación en bibliotecas universitarias: el de la Universidad de Sevilla y el de la UOC. Además 
+		consideramos interesante mencionar los estudios de casos que aparecen en SCONUL (2004) donde se aprecia cómo un mismo modelo (el de los 7 pilares) 
+		se aplica de diferentes maneras y se adapta también a otros proyectos, como el ILIAD que resalta las competencias digitales (estudio de caso de la 
+		Universidad de York). Hacemos esta cita porque en realidad buena parte de los casos lo que hacen es exponer el plan de formación.
+	</para>
+	<para>
+		El de la <emphasis role="strong">Biblioteca de la Universidad de Sevilla (2010)</emphasis> se denomina I Plan de acción. Programa CI (competencias 
+		en gestión de la información) en la BUS.
+	</para>
+	<para>
+		Establece un <emphasis role="strong">objetivo general:</emphasis> garantizar la formación en competencias informacionales en la comunidad universitaria 
+		de Sevilla.
+	</para>
+	<para>
+		Al que le acompañan unos <emphasis role="strong">objetivos específicos</emphasis>:
+	</para>
+	<itemizedlist>
+		<listitem>
+			<para>Crear un clima de opinión favorable en la comunidad universitaria</para>
+		</listitem>
+		<listitem>
+			<para>Integrar la formación en CI en los planes de estudio</para>
+		</listitem>
+		<listitem>
+			<para>Formar a los bibliotecarios en habilidades y planificación docente</para>
+		</listitem>
+		<listitem>
+			<para>Crear un conjunto documental y buenas prácticas que apoyen la programación</para>
+		</listitem>
+	</itemizedlist>
+	<informalfigure xreflabel="Fig 26">
+		<mediaobject>
+			<imageobject fileref="resource/INF-5-030.jpg"/>
+		</mediaobject>
+		<caption><para>Propuesta de Integración ALFIN en Titulaciones Universidad de Sevilla, 2009</para></caption>
+	</informalfigure>
+	<para>
+		Después establece una serie de <emphasis role="strong">acciones</emphasis> a desarrollar para conseguir cada uno de los objetivos. Determina los elementos 
+		fundamentales que intervienen en la formación en CI y describe los diferentes niveles en que se impartirán con sus contenidos (mínimos y máximos) y los 
+		recursos materiales a utilizar. Hace un diagnóstico de la situación de la Universidad y establece qué acciones se realizarán en cada uno de los niveles. 
+		Se detiene en la formación de formadores con las habilidades que deben reunir (contenidos temáticos, práctica docente, gestión docente) y cómo se conseguirán. 
+		Por último, determina cómo se creará el conjunto documental y las buenas prácticas y donde se mantendrán. En anexos menciona la situación del nivel de integración 
+		de las CI en cada una de las titulaciones de la Universidad de Sevilla y en diferentes universidades españolas.
+	</para>
+	<para>
+		El <emphasis role="strong">Plan de formación de la Biblioteca de la UOC (2009-2012)</emphasis> &lt;<link xl:href="http://medina-psicologia.ugr.es/biblioteca/mod/resource/view.php?id=6338"/>&gt;, 
+		por su parte, establece en primer lugar una misión (formar a los miembros de la comunidad UOC en las capacidades informacionales básicas para ser autónomos en 
+		el acceso a la información y su gestión y uso), seguida de unos objetivos específicos de formación. Determina quiénes son los destinatarios y cuál el tipo de 
+		formación, diferenciando entre virtual y presencial y estableciendo itinerarios con diferentes niveles. A continuación establece cómo se dará acceso y difusión 
+		a los materiales y cómo se evaluará la formación (interna y externa, cuantitativa y cualitativa). Se detallan, para finalizar, las características y funciones 
+		que tendrá el grupo de formadores, así como su formación.
+	</para>
+	<section xml:id="ch05a">
+		<title>La evaluación de la ALFIN</title>
+		<para>
+			Hemos hablado en otro lugar de evaluación; pero referida a la información. Ahora cambiamos el foco y nos dirigimos al propio programa de formación. La 
+			evaluación siempre tiene un objetivo clave: detectar problemas, deficiencias, lagunas, errores para poder superarlos y conseguir más eficientemente los 
+			objetivos buscados.
+		</para>
+		<para>
+			¿Qué componentes entran en juego a la hora de evaluar? Manuel Area (2009) nos proporciona un esquema sencillo y completo, que vamos a seguir, sobre qué 
+			preguntas debemos responder:
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>
+					<emphasis role="strong">¿Para qué evaluar?</emphasis>: para obtener acreditación, para mejorar una institución, para diagnosticar un proyecto
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">¿Qué evaluar?</emphasis>: Aprendizaje del estudiante (conocimiento conceptual, aplicación de procedimientos, resolución 
+					de problemas, actitudes) el proceso de enseñanza, las opiniones de los usuarios
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">¿A quién evaluar?</emphasis>: Al alumno, al profesor, al curso, a la institución
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">¿Qué criterios utilizar para evaluar?</emphasis>: logro de competencias u objetivos, comparación con criterios estándar 
+					(ej. PISA), progreso, mejora (comparar con el propio alumno)
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">¿Cómo evaluar?</emphasis>: Pruebas test, exámenes, cumplimentación de actividades, realización de proyectos, observaciones, 
+					encuestas...
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">¿Cuándo evaluar?</emphasis>: Inicial (diagnóstico), continua, final.
+				</para>
+			</listitem>
+		</itemizedlist>
+		<section xml:id="ch05a1">
+			<title>¿Para qué evaluar?</title>
+			<para>
+				Desde el punto de vista de los profesores (Moro y De la Mano) “el profesorado necesita instrumentos que faciliten la evaluación de los resultados obtenidos 
+				por el estudiante en el logro de las competencias”.
+			</para>
+			<para>
+				Gabriela Sonntag<footnote><para>SONNTAG, Gabriela: Los resultados de los programas de alfabetización informacional: la evaluación. En Brecha digital y 
+				nuevas alfabetizaciones...(2008, p. 119-145).</para></footnote> (2008) apunta que permite a los educadores “refinar y desarrollar nuestra pedagogía, 
+				comunicar con más eficacia nuestra labor y sobre todo, mejorar el aprendizaje del estudiante”. Permite adoptar una postura proactiva que conlleve la 
+				mejora de las actividades tomando “decisiones basadas en evidencias, hacia una práctica reflexiva dentro de una organización que aprende”. Además 
+				considera que “asegura la responsabilidad, cuantifica la eficacia, permite comparaciones entre las instituciones, y aumenta la sensibilidad de quienes 
+				toman decisiones”.
+			</para>
+			<para>
+				Judith Licea (2007) por su parte cree que conlleva la mejora del programa de ALFIN, sirve para fines administrativos y contribuye a tomar decisiones 
+				con la comunidad en la que se utiliza.
+			</para>
+		</section>
+		<section xml:id="ch05a2">
+			<title>¿Qué evaluar?</title>
+			<para>
+				Buena parte de los autores mencionan los 3 ámbitos del aprendizaje que plantea Lindauer (2004):
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						Entorno de aprendizaje (el plan de estudios, las oportunidades de aprendizaje independiente y las extracurriculares)
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Componentes del programa de ALFIN (instrucción formal o informal incluyendo las oportunidades para instrucción individual o los servicios de 
+						referencia con componentes de instrucción)
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Resultados de aprendizaje del alumno (medidas de rendimiento, trabajos, las carpetas o portafolios, las evaluaciones estandarizadas, 
+						autoevaluaciones, estudio de actitudes sobre el entorno de aprendizaje, etc.).
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				Gabriela Sonntag (2008), no obstante, piensa que estos tres espacios se superponen y deben ser vistos en el contexto más amplio de la institución 
+				e integrarse con otras evaluaciones institucionales, por lo que un plan de evaluación debe juntar evidencias de las tres áreas para asegurar una 
+				evaluación completa del Programa de ALFIN.
+			</para>
+			<para>
+				Grizly Meneses (2008)<footnote><para>MENESES PLACERES, Grizly (2008): Aproximaciones teóricas a la evaluación de la alfabetización informacional 
+				en la educación superior. En ACIMED (18), 1. [Consulta: 12 de junio de 2010]. Disponible en: &lt;<link xl:href="http://bvs.sld.cu/revistas/aci/vol18_1_08/aci06708.htm"/>&gt;.</para></footnote> 
+				defiende que hay que evaluar 4 aspectos: las sesiones de trabajo, los bibliotecarios como parte del proceso, los programas 
+				de ALFIN y el aprendizaje de los estudiantes (aspecto en el que suele centrarse la evaluación). Pero también habría que valorar cuestiones como la 
+				calidad de los materiales didácticos empleados.
+			</para>
+			<para>
+				En las Directrices de la IFLA se incluye la valoración del logro de los objetivos y metas del programa. Por su parte la ACRL añade un elemento más, 
+				que es la transferibilidad, que puede asociarse con quienes defienden pruebas estandarizadas.
+			</para>
+		</section>
+		<section xml:id="ch05a3">
+			<title>¿A quién evaluar?</title>
+			<para>
+				En cierto modo se ha respondido en el apartado anterior al defender la evaluación de todos los elementos implicados en el proceso. Está claro que 
+				a quien hay que evaluar fundamentalmente es a quien está aprendiendo, y también a quienes enseñan, al profesional encargado del proceso, lo que 
+				supone la necesidad de una formación específica y especializada. En este sentido Sontang (2008) argumenta que una de las razones que hace compleja 
+				la evaluación es que los bibliotecarios están algo alejados del proceso de enseñanza-aprendizaje.
+			</para>
+		</section>
+		<section xml:id="ch05a4">
+			<title>¿Qué criterios utilizar para evaluar?</title>
+			<para>
+				A la hora de analizar los criterios es necesario diferenciar si la manera de evaluar va a seguir unos preestablecidos como son todos los que 
+				responden a unas pruebas estándar como las de PISA, algunas de las que enumera Sontang en el apartado siguiente, los certificados similares al 
+				European/Internacional Computer Driving Licence (E/ICDL)<footnote><para>Puede consultarse en 
+				&lt;<link xl:href="http://www.ecdl.com/ecdlspanish/index.jsp?&amp;p=979&amp;n=1036"/>&gt;.</para></footnote> , la existencia de un certificado 
+				específico de ALFIN como el que defendiera Cristóbal Pasadas<footnote><para>Disponible en 
+				&lt;<link xl:href="http://medina-psicologia.ugr.es/biblioteca/mod/resource/view.php?id=5617"/>&gt;.</para></footnote> , el conjunto de 
+				indicadores establecidos en una norma, o aquellos que responden a la educación formal, como así exponen Moro y De la Mano al indicar que “los 
+				criterios de evaluación [son] definidos por el propio enunciado y detalle de la competencia” aunque “se necesitan escalas de medida que objetiven 
+				y jerarquicen los resultados del aprendizaje; indicadores que permitan comparar en el estudiante el logro real obtenido de la competencia con el 
+				nivel de conocimiento y dominio de la misma previamente establecido”
+			</para>
+			<para>
+				También se pueden confrontar con los objetivos y las metas del programa y sobre todo preguntarse qué han aprendido los estudiantes.
+			</para>
+			<para>
+				Judith Licea cree que para que la evaluación sea factible hay que contemplar el tiempo con que se cuenta, el tiempo del aprendiz, los recursos, 
+				la validez, la confiabilidad y el objetivo.
+			</para>
+			<para>
+				Sonntag considera que hay que contemplar la observación y el análisis del desempeño estudiantil, su capacidad para aplicar los conceptos a 
+				situaciones o problemas nuevos, de la vida real, el aprendizaje de estudiante; pero también su motivación. Es conveniente que el programa tenga 
+				claramente descritos los resultados de aprendizaje de los alumnos y que los resultados les sean distribuidos ampliamente y comunicados a los alumnos.
+			</para>
+			<para>
+				Además se hace algunas preguntas interesantes:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						¿Sabemos bastante sobre las necesidades de nuestros estudiantes tanto en su comportamiento en las búsquedas de información como en sus 
+						tareas o deberes específicos?
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						¿Podemos usar la tecnología para recrear el camino que un estudiante toma buscando la información de tal modo que podamos medir sus 
+						habilidades de ALFIN, hacer un mapa de su aprendizaje y ser capaces de declarar cuándo ellos se han alfabetizado en el uso de la información?
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						¿Entendemos realmente los aspectos complejos de ALFIN como para poder identificarlos y medirlos o evaluarlos?
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				Añade una reflexión de otro autor (Troll Covey) que sugiere que se necesita un cambio en la cultura de la organización para asegurar que 
+				la evaluación sea una rutina diaria.
+			</para>
+		</section>
+		<section xml:id="ch05a5">
+			<title>¿Cómo evaluar?</title>
+			<para>
+				Este es el apartado para el que se cuenta con más información y con más métodos posibles. Por ejemplo, Judith Licea menciona una buena cantidad, 
+				entre los que se encuentran métodos y técnicas comunes a otras disciplinas:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>Observación</para>
+				</listitem>
+				<listitem>
+					<para>Retroalimentación de los usuarios</para>
+				</listitem>
+				<listitem>
+					<para>Cuestionarios <emphasis>in situ</emphasis></para>
+				</listitem>
+				<listitem>
+					<para>Deberes</para>
+				</listitem>
+				<listitem>
+					<para>Monitoreo</para>
+				</listitem>
+				<listitem>
+					<para>Cuestionarios</para>
+				</listitem>
+				<listitem>
+					<para>Evaluación por colegas</para>
+				</listitem>
+				<listitem>
+					<para>Reflexiones personales</para>
+				</listitem>
+				<listitem>
+					<para>Método del incidente crítico</para>
+				</listitem>
+				<listitem>
+					<para>Pensando en voz alta (videocámaras o grabadoras)</para>
+				</listitem>
+				<listitem>
+					<para>Paneles de usuario</para>
+				</listitem>
+				<listitem>
+					<para>Diarios (portafolios)</para>
+				</listitem>
+				<listitem>
+					<para>Triangulación (varios métodos)</para>
+				</listitem>
+				<listitem>
+					<para>Tests: fáciles aunque menos fiables</para>
+				</listitem>
+				<listitem>
+					<para>Evaluación en línea</para>
+				</listitem>
+				<listitem>
+					<para>La autoevaluación</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				Gabriela Sonntag (2008; p. 130) diferencia entre métodos directos e indirectos y métodos cualitativos y cuantitativos:
+			</para>
+			<informalfigure xreflabel="Fig 27">
+				<mediaobject>
+					<imageobject fileref="resource/INF-5-031.jpg"/>
+				</mediaobject>
+			</informalfigure>
+			<para>
+				Unos métodos son más efectivos que otros. La mayor parte de los autores consideran que los <emphasis role="strong">test</emphasis>
+				(pruebas de respuesta múltiple) aunque son herramientas sencillas no pueden medir realmente las habilidades de ALFIN. 
+			</para>
+			<para>
+				Seguramente el método más completo es el <emphasis role="strong">portafolio</emphasis> que consiste en recoger de manera sistemática 
+				cada una de las actividades realizadas por una persona en el proceso de aprendizaje construyendo una especie de expediente personal. 
+				De esta manera, en cualquier momento puede verse cuál ha sido su evolución y su aportación. Por lógica, este método no sirve cuando 
+				la formación que debe evaluarse es puntual y no se dilata en el tiempo.
+			</para>
+			<para>
+				La <emphasis role="strong">triangulación</emphasis> puede ser una buena solución evaluativa porque combina varios métodos al mismo 
+				tiempo; consiguiendo aunar las ventajas de cada uno de ellos.
+			</para>
+			<para>
+				También existen <emphasis role="strong">pruebas estandarizadas</emphasis>  (salvando las distancia serían como las que se realizan 
+				por PISA). Sontang (2008) habla con cierta profundidad sobre ellas a pesar de que considera que no debemos hacernos sobredependientes 
+				de ellas. Ejemplos de este tipo de pruebas son: iSkills (ahora iCritical Thinking<footnote><para>Véase 
+				&lt;<link xl:href="http://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/icritical_thinking.htm"/>&gt;</para></footnote>),
+				SAILS<footnote><para>Véase &lt;<link xl:href="https://www.projectsails.org/sails/aboutSAILS.php?page=aboutSAILS"/>&gt;</para></footnote> o 
+				TRAILS<footnote><para>Véase &lt;<link xl:href="http://www.trails-9.org/"/></para></footnote>. 
+			</para>
+			<para>
+				Un sistema de evaluación alternativo es el de la inclusión de programas de instrucción ALFIN en el proceso de evaluación de los 
+				<emphasis role="strong">programas académicos de una institución</emphasis>, con lo que seguiría las mismas pautas que las demás asignaturas.
+			</para>
+			<para>
+				Es también interesante considerar la evaluación entre iguales<footnote><para>DURÁN, David (2009): Aprender a cooperar: del grupo al equipo. 
+				En Psicología del aprendizaje...; p. 192-195.</para></footnote> que contribuye a destacar la importancia de la cooperación como objetivo 
+				educativo en sí mismo, da valor al aprendizaje entre iguales y reconoce el esfuerzo de los que trabajan en equipo. Pero para que tenga éxito 
+				debe estar bien planificada, ya que puede inhibir otros aspectos como la autoevaluación, el intercambio de ayudas o la comunicación oral.
+			</para>
+			<informalfigure xreflabel="Fig 28">
+				<mediaobject>
+					<imageobject fileref="resource/INF-5-032.jpg"/>
+				</mediaobject>
+				<caption>
+					<para>
+						Mueller, J. Assessing critical skills (2008) Cap. 8 Assessing Information Literacy Skills
+					</para>
+				</caption>
+			</informalfigure>
+			<para>
+				Sania Cisneros (2010)<footnote><para>CISNEROS VELÁZQUEZ, Sania (2010): Evaluación de la alfabetización informacional en el sector salud. 
+				En Anales de Documen- tación, v. 13, p. 41-51. [Consulta: 10 de junio de 2010]. Disponible en 
+				&lt;<link xl:href="http://eprints.rclis.org/18551/1/Ad1303_Sania_Cisneros.pdf"/>&gt;.</para></footnote>, nos muestra la <emphasis role="strong">herramienta</emphasis>
+				que utilizaron para evaluar la formación de un Taller de ALFIN. En concreto utilizaron la herramienta HotPotatoes para generar 43 preguntas que abarcaban las tres 
+				fases de la evaluación del aprendizaje: la diagnóstica, la formativa y la que busca conocer el logro de los objetivos y las metas. En su artículo menciona otras 
+				herramientas útiles para crear ejercicios docentes como <citetitle pubwork="article">DiscoverySchool, MaxAuthor, Interactive Exercise Marlers, Quia, Quizstar y WebPractest.</citetitle> 
+			</para>
+			<para>
+				<citetitle pubwork="webpage">Assessments of Information Literacy</citetitle> &lt;<link xl:href="http://jonathan.mueller.faculty.noctrl.edu/infolitassessments.htm"/>&gt;
+				es una página web que recoge ejemplos de evaluación de la ALFIN.
+			</para>
+			<para>
+				Como conclusión podríamos decir que si realmente queremos llegar a medir las capacidades, las destrezas, las habilidades a la hora de resolver situaciones 
+				cotidianas en las que la información es fundamental, no podemos centrarnos exclusivamente en métodos cuantitativos ni dejarlo todo a expensas de encuestas y 
+				cuestionarios cumplimentados de manera individual y en un momento concreto.
+			</para>
+		</section>
+		<section xml:id="ch05a6">
+			<title>¿Cuándo evaluar?</title>
+			<para>
+				Casi todos coinciden en la existencia de 3 momentos fundamentales, que la IFLA recoge en sus directrices diferenciando la evaluación prescriptiva o diagnóstica 
+				(inicial, antes de empezar el programa de formación), formativa y sumativa (final, en la que se recogen los resultados finales.
+			</para>
+			<para>
+				Grizly Meneses (2008) considera que la diagnóstica o inicial es la piedra angular porque permite conocer las necesidades. La formativa enriquece la actividad; 
+				mientras que no considera como muy provechosa a la sumativa, o final, utilizada en los contextos educativos.
+			</para>
+			<para>
+				Sin embargo, si la evaluación inicial tiene como primer objetivo el diagnóstico del escenario de partida, hay que considerar que contrastándolo con el punto de 
+				llegada podremos comprobar cuál ha sido el cambio. Además permitirá determinar cuáles son los elementos que deben introducirse en la formación.
+			</para>
+			<para>
+				No menos importante es evaluar el propio proceso para conocer cómo aprenden y poder utilizar este conocimiento para mejorar la formación y el aprendizaje. Un 
+				ejemplo sobre cómo analizar el comportamiento ante el ordenador es la utilización de herramientas que captan todo lo que se hace en la pantalla y que son 
+				utilizadas también para crear tutoriales (como Camtasia, Captivate...). Este aspecto entraría dentro de los métodos del punto anterior.
+			</para>
+			<para>
+				Algunas previsiones de lo que nos traerán los años venideros apuntan a que “el desarrollo de la simulación nos llevará a desarrollar nuevas formas de 
+				alfabetización basadas en la simulación, de manera que permitan experimentar verdaderamente lo que se aprende<footnote><para>ESTALELLA, Adolfo (2008): 
+				Profecías del futuro. 2030, lo virtual y lo real se confunden. Ciberp@ís, n. 500, p. 53. En El País del 27 de marzo de 2008.</para></footnote>”.
+			</para>
+			<para>
+				Finalizamos este apartado con la última reflexión que hacía Sonntag (2008): “Establecer una cultura de evaluación requiere una vuelta a los nueve principios 
+				de las Buenas Practicas para la Evaluación de la Educación Superior (AAHE &lt;<link xl:href="http://www.aahea.org"/>&gt;). Seguir estos principios 
+				conscientemente nos permite poner en práctica un sistema para evaluar y transformar la cultura de nuestras instituciones para que las necesidades del 
+				estudiante sean lo principal y que el sistema de enseñanza/aprendizaje sea nuestra primera ocupación”.
+			</para>
+			<para><emphasis role="strong">¿Cuáles eran esos principios?</emphasis></para>
+			<informalfigure xreflabel="Fig 29">
+				<mediaobject>
+					<imageobject fileref="resource/INF-5-054.jpg"/>
+				</mediaobject>
+			</informalfigure>
+			<para>
+				Un buen programa de evaluación basado en las pautas establecidas en estos nueve principios y que incluya evidencias reunidas durante algún tiempo nos permitirá 
+				perfeccionar nuestro programa y tomar decisiones basadas en pruebas sólidas. Nos ayudará, asimismo, a recoger una respetable cantidad de recursos en una época 
+				de presupuestos limitados y demandas competitivas.
+			</para>
+		</section>
+	</section>
+	<section xml:id="ch05b">
+		<title>Marketing de la ALFIN</title>
+		<para>
+			Hemos realizado un gran esfuerzo: convencido a nuestros compañeros de todas las bondades de la ALFIN, implicado a nuestros superiores, conseguido aliados entre las 
+			autoridades institucionales y académicas; nos hemos devanado los sesos en conseguir un buen modelo, que incluso hemos tenido que crear desde 0 y todavía hemos 
+			sufrido más estableciendo una planificación que de tantas veces que la analizamos nos parece perfecta, en la que incluso hemos conseguido dotarnos de los mejores 
+			medios de evaluación posibles. Nos disponemos con toda la ilusión a iniciar la tarea práctica, la hora de la verdad ya está aquí... y nos encontramos solos, o casi.
+		</para>
+		<para>
+			¿Qué ha fallado? Nos damos cuenta que no hemos tenido en cuenta la promoción, el marketing (en realidad nuestro plan sólo se había olvidado de este pequeño detalle).
+		</para>
+		<para>
+			¿Qué podemos hacer? ¡Qué complicado es el marketing!
+		</para>
+		<para>
+			En realidad sus principios son elementales. Sólo hay que tener en cuenta:
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>Qué es lo que queremos promocionar</para>
+			</listitem>
+			<listitem>
+				<para>Ante quién queremos realizar esa promoción</para>
+			</listitem>
+			<listitem>
+				<para>Qué medios podemos utilizar para llevarla a cabo</para>
+			</listitem>
+			<listitem>
+				<para>Y combinarlo</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			La pregunta a la primera cuestión es sencilla: lo que queremos dar a conocer es el resultado de todo ese esfuerzo del que hablábamos: nuestro plan de formación.
+		</para>
+		<para>
+			Sabemos también <emphasis role="strong">a quién queremos dirigirlo</emphasis>:  a los que hemos definido como destinatarios de la misma.
+		</para>
+		<para>
+			¿Sólo a ellos? En realidad no. También queremos que la conozcan todos los que forman parte de la comunidad a la que pertenecemos, que es muy amplia: nuestros 
+			responsables jerárquicos en todos los ámbitos (biblioteca, autoridades institucionales y académicas), profesores (que deben ser nuestros aliados), compañeros 
+			de otros servicios (que algunos colaboran con nosotros o se verán beneficiados por nuestra actividad), los compañeros de la propia biblioteca (que contemplan 
+			con buenos ojos, o con recelo, nuestras iniciativas), los que pertenecen a otras instituciones (que están buscando conseguir hacer lo mismo, que ya lo llevan 
+			a cabo antes que nosotros, que nos miran con buenos ojos, o con recelo), autoridades de otras instituciones...
+		</para>
+		<para>
+			Bien, hemos conseguido delimitar quiénes pueden estar interesados. Pero ¿qué es lo que ellos piensan realmente? ¿Cuáles son sus necesidades reales? ¿Esperan 
+			algo de nosotros?
+		</para>
+		<para>
+			Primera cuestión importante: <emphasis role="strong">debemos conocer a nuestros “destinatarios”</emphasis>, para poderles ofrecer algo útil. Es posible que 
+			ellos no sean conscientes de la validez de lo que les proponemos; pero precisamente conocer sus expectativas nos permitirá, por un lado, crear un programa 
+			acorde con ellas y, por otro, incidir en ese aspecto cuando pretendamos promocionar nuestro producto. Si hemos conseguido que tenga un valor añadido, por 
+			ejemplo, un reconocimiento de créditos, tendremos una primera baza ganada.
+		</para>
+		<para>
+			No sólo hemos de conocer qué es lo que buscan y necesitan sino también qué hacen, dónde están, en qué momentos, cómo acceden a la información, con qué medios, 
+			en qué foros, cómo se comunican entre sí...
+		</para>
+		<para>
+			Hemos conseguido con un esfuerzo adicional importante contestar a toda esa serie de preguntas. Añadamos alguna más: <emphasis role="strong">¿Con qué medios 
+			cuento?</emphasis> ¿Medios? ¡Si no tenemos ni un duro!, ¿cómo voy a ser capaz de llegar a ellos?
+		</para>
+		<para>
+			Tenemos medios que cuestan dinero y otros que no (entendiendo que están incluidos en el trabajo diario).
+		</para>
+		<para>
+			Cuesta dinero hacer trípticos, <emphasis>merchandising</emphasis>, carteles, poner anuncios en periódicos, radios, televisiones<footnote><para>Aunque dependiendo 
+			de los ámbitos podría ser que no. Ver por ejemplo: Orden Alfabético en Radio Vallekas &lt;<link xl:href="http://www.radiovallekas.org/spip/spip.php?page=programa&amp;id=190"/>&gt;</para></footnote>
+		</para>
+		<para>
+			No cuesta dinero promocionarlo en los diferentes órganos de gobierno, grupos de trabajo interdisciplinares, comisiones de diferente tipo de la institución. No 
+			cuesta dinero contactar con Departamentos o profesores para que puedan hacer difusión. Ni dirigirse a asociaciones de alumnos, a las de antiguos alumnos, a 
+			los servicios de diferente tipo que trabajan en nuestra misma comunidad.
+		</para>
+		<para>
+			Y tampoco cuesta dinero promocionarlo en nuestra página web, en la de los centros de nuestra institución, en la plataforma de campus virtual, en los canales 
+			que hemos abierto en la red, en las redes sociales en las que participamos, en aquéllas que lo hacen los públicos a los que queremos dirigirnos.
+		</para>
+		<para>
+			Igual que funciona el boca a boca, lo hacen el Twitter a Twitter, el post a post, el ¿Qué estás pensando? de Facebook o similar..., las RSS que nos recolectan, 
+			la plataforma virtual, las jornadas a las que acudimos...
+		</para>
+		<para>
+			El uso de estos medios se tiene que combinar, como hemos dicho, con la información que hemos conseguido al identificar qué quieren, qué buscan, qué necesitan, y 
+			dónde están, en qué momentos son más receptivos a nuestra ilusión.... para determinar por qué vías haremos la promoción y cuándo tendrá más posibilidades de ser 
+			tenida en cuenta.
+		</para>
+		<para>
+			Parece que hablamos únicamente de la primera vez, de cuando queremos comenzar. ¿Y después?
+		</para>
+		<para>
+			Si ya hemos obtenido algún resultado la cuestión es más fácil, ya que dispondremos de algo más que “vender”. Si el resultado ha sido positivo puede servirnos 
+			para convencer a las autoridades académicas de continuar, o incluso de que sería conveniente que tuviera algún tipo de reconocimiento como... También tendrán 
+			un reconocimiento privado, en el ámbito del orgullo por el trabajo bien hecho, quienes participan en la formación; y uno público de quienes ya no miran con 
+			recelo. Ese reconocimiento podría ser mayor entre el resto de la profesión cuando se les llame a compartir experiencias, a ilustrar a los demás con buenas prácticas.
+		</para>
+		<informalfigure xreflabel="Fig 30">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-033.jpg"/>
+			</mediaobject>
+			<caption>
+				<para>Information literacy marketing <link xl:href="http://www.informationliteracy.org.uk/Marketing.aspx"/></para>
+			</caption>
+		</informalfigure>
+		<para>
+			Esos resultados servirán también para que el boca a boca digital del que hablábamos se potencie y encontremos que aumentan los que nos aceptan como apoyo para 
+			desenvolverse mejor en el mundo cambiante de las TIC donde se encuentra la información.
+		</para>
+		<para>
+			Además, si hemos hecho uso de plataformas digitales y disponemos en abierto de la información, el conocimiento llegará a nuestros iguales, les dará ánimos en 
+			el trabajo diario con la tarea común, o impulsará a intentarlo a los que no han comenzado y acabarán enriqueciéndonos con su experiencia. Pero hay más, esta 
+			opción permitirá a los que tengan menos recursos que nosotros, a los que no puedan contar con nuestros “escasos” medios a tener una oportunidad más de llegar 
+			a la información, de construir conocimiento, aunque estén en la otra punta del mundo físico, que es la misma (salvando brechas digitales de infraestructuras) 
+			en el virtual.
+		</para>
+		<para>
+			Pueden encontrarse diferentes consejos para el marketing de la ALFIN en la dirección &lt;<link xl:href="http://www.informationliteracy.org.uk/Marketing.aspx"/>&gt;.
+		</para>
+		<para>
+			Un ejemplo de marketing de un producto relacionado con la ALFIN es el que se hizo con el logo en el último Congreso de la IFLA en Milán. Para el mismo se 
+			elaboró un Plan de marketing que puede servir de ejemplo para las líneas maestras del mismo. Puede verse y descargarse en 
+			&lt;<link xl:href="http://www.infolitglobal.info/logo/en/manual"/>&gt;.
+		</para>
+	</section>
+</chapter>

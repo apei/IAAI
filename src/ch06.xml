@@ -1,0 +1,2715 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch06"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+	<title>Los protagonistas formadores</title>
+	<para>
+		Hasta ahora hemos mencionado fundamentalmente qué es lo que debe conseguir quien está alfabetizado en información pero es preciso hablar también de 
+		quienes son los que consiguen que eso sea así; o dicho de otra manera, hemos hablado de los que aprenden y debemos hablar de los que enseñan. Tenemos 
+		que referimos a los protagonistas que deben poner en práctica todo eso que no es sino teoría y construcción intelectual.
+	</para>
+	<para>
+		Es evidente que la disciplina que estamos considerando tiene que ver con el mundo de la educación; aunque –ya que el aprendizaje permanente no deja de 
+		vigilarnos– es preciso diferenciar entre la formal y la no formal. En la primera, son los profesores y las instituciones de enseñanza las que desempeñan 
+		el papel principal. No vamos a ser nosotros quienes evaluemos su perfil, ya que nuestra visión es más bien bibliotecaria; aunque es lógico pensar que 
+		tienen que reunir no ya las competencias que se solicitarán a los que aprenden sino aquellas necesarias para poder introducirlos y guiarlos hacia ellas. 
+		El objetivo es conseguir que no se dé el aserto malicioso de que “la educación es esa situación en la que el conocimiento va del profesor a los alumnos 
+		sin pasar por la cabeza de ninguno de los dos”<footnote><para>Psicología del aprendizaje universitario (2009, p. 17).</para></footnote>.
+	</para>
+	<para>
+		Pero no es menos cierto que son los profesionales de la información los que están más acostumbrados a trabajar con ella y quienes ayudan en definitiva a 
+		los propios educadores a manejarse con la información. Son por tanto un valioso aliado en esta tarea de conseguir que los ciudadanos en general sean 
+		competentes en su inevitable relación con la información. Abordaremos ahora el mundo de los bibliotecarios y de las organizaciones en las que trabajan, 
+		las bibliotecas. Intentaremos definir cuál debe ser su perfil en el caso de los primeros y qué hacen, en qué trabajan las segundas.
+	</para>
+	<para>
+		Antes de comenzar, incluyamos algún dato más sobre las competencias, ahora destacando las que las autoridades académicas piensan que deben reunir los 
+		que acceden a la educación. En este caso añadiremos un sesgo más, el de España:
+	</para>
+	<itemizedlist>
+		<listitem>
+			<para>
+				Las <emphasis role="strong">competencias clave para el aprendizaje permanente</emphasis> recomendadas por el Parlamento Europeo y del Consejo 
+				(18 de noviembre de 2006)<footnote><para>Disponibles en &lt;<link xl:href="http://europa.eu/legislation_summaries/education_training_youth/lifelong_learning/c11090_es.htm"/>&gt;.</para></footnote> 
+				son:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>La comunicación en la lengua materna</para>
+				</listitem>
+				<listitem>
+					<para>La comunicación en lenguas extranjeras</para>
+				</listitem>
+				<listitem>
+					<para>La competencia matemática y las competencias básicas en ciencia y tecnología</para>
+				</listitem>
+				<listitem>
+					<para>La competencia digital</para>
+				</listitem>
+				<listitem>
+					<para>Aprender a aprender</para>
+				</listitem>
+				<listitem>
+					<para>Las competencias sociales y cívicas</para>
+				</listitem>
+				<listitem>
+					<para>El sentido de la iniciativa y el espíritu de empresa</para>
+				</listitem>
+				<listitem>
+					<para>La conciencia y la expresión culturales</para>
+				</listitem>
+			</itemizedlist>
+		</listitem>
+		<listitem>
+			<para>
+				Conllevan la <emphasis role="strong">Decisión nº 1720/2006/CE</emphasis> del Parlamento Europeo y del Consejo, de 15 de noviembre de 2006, por la que se establece un 
+				<emphasis role="strong">programa de acción en el ámbito del aprendizaje permanente</emphasis>, que incluye varios programas sectoriales<footnote><para>Decisión no 
+				1720/2006/CE &lt;<link xl:href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006D1720:ES:NOT"/>&gt;.</para></footnote>:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						<emphasis role="strong">Comenius</emphasis> &lt;<link xl:href="http://www.oapee.es/oapee/inicio/pap/comenius.html"/>&gt; 
+						(enseñanza preescolar, primaria y secundaria)
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">Erasmus</emphasis> &lt;<link xl:href="http://www.oapee.es/oapee/inicio/pap/erasmus.html"/>&gt; 
+						(educación universitaria y profesional avanzada)
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">Leonardo da Vinci</emphasis> &lt;<link xl:href="http://www.oapee.es/oapee/inicio/pap/leonardo-da-vinci.html"/>&gt; 
+						(profesional distinta de la anterior)
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">Grundtvig</emphasis> &lt;<link xl:href="http://www.oapee.es/oapee/inicio/pap/grundtvig.html"/>&gt; 
+						(educación para adultos)
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">Jean Monnet</emphasis> &lt;<link xl:href="http://ec.europa.eu/education/lifelong-learning-programme/doc88_en.htm"/>&gt; 
+						(integración europea en el ámbito universitario).
+					</para>
+				</listitem>
+			</itemizedlist>
+		</listitem>
+		<listitem>
+			<para>
+				El Gobierno español también recoge competencias en la <emphasis role="strong">Ley Orgánica de Educación</emphasis> (LOE) 
+				&lt;<link xl:href="http://www.scribd.com/doc/261299/LOE-Competencias-Basicas"/>&gt;, que en España cambia cada dos por tres:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>Competencia en comunicación lingüística</para>
+				</listitem>
+				<listitem>
+					<para>Competencia matemática</para>
+				</listitem>
+				<listitem>
+					<para>Competencia en el conocimiento y la interacción con el mundo físico</para>
+				</listitem>
+				<listitem>
+					<para>Tratamiento de la información y competencia digital</para>
+				</listitem>
+				<listitem>
+					<para>Competencia social y ciudadana</para>
+				</listitem>
+				<listitem>
+					<para>Competencia cultural y artística</para>
+				</listitem>
+				<listitem>
+					<para>Competencia para aprender a aprender</para>
+				</listitem>
+				<listitem>
+					<para>Autonomía e iniciativa personal</para>
+				</listitem>
+			</itemizedlist>
+		</listitem>
+	</itemizedlist>
+	<para>
+		No hace falta incidir en su importancia, ya que la enseñanza que se imparta en los centros educativos tendrá que ver con lo que la ley determine.
+	</para>
+	<section xml:id="ch06a">
+		<title>Los bibliotecarios</title>
+		<para>
+			Los bibliotecarios son las personas que trabajan en las bibliotecas, con una larga tradición de contacto diario con la información en sus distintas caras.
+		</para>
+		<para>
+			Su profesión, aunque muchos no quieran reconocerlo, está en crisis; aunque también es posible que esa crisis sea eterna. Ya hemos apuntado en otro lugar 
+			a lo largo de estas páginas algunas de las razones. El desarrollo tecnológico ha transformado prácticamente todos los elementos del mundo de la información 
+			y eso afecta sin duda alguna a los que trabajan con ella.
+		</para>
+		<para>
+			Los bibliotecarios se han dedicado “tradicionalmente” a describirla, organizarla, gestionarla, conseguirla, difundirla y enseñar a utilizarla. Se ha ligado 
+			su papel a tener la información como eje y razón de ser, cuando la realidad siempre ha sido que su labor (tal vez con la excepción de los espacios concebidos 
+			únicamente como conservadores del patrimonio cultural<footnote><para>Aunque tampoco, ya que se conserva con algún fin: su uso en algún momento futuro por 
+			alguien.</para></footnote> ) era hacerla útil para quienes serían sus usuarios. Hoy esto se revela de una manera más clara: la razón de ser de la biblioteca 
+			es el usuario.
+		</para>
+		<blockquote>
+			<para>El usuario también ha cambiado: en su concepción de la información, en su forma de uso, en los formatos y las formas de acceso.</para>
+		</blockquote>
+		<para>
+			El mantenimiento durante mucho tiempo de una tecnología invariable en los aspectos esenciales, la de la imprenta, ha condicionado tanto la dimensión espacial 
+			de las bibliotecas, como su organización y la de sus tareas, influyendo directamente en los perfiles de los bibliotecarios, ligados a un elemento más, el libro 
+			tipo códice que surgió en el siglo IV.
+		</para>
+		<para>
+			Las tecnologías han ido evolucionando e influyendo en el trabajo bibliotecario; permitiéndoles ampliar buena parte de sus servicios, realizar tareas de una 
+			manera más ágil, mostrar las colecciones de una manera sencilla y a distancia… Hasta que esas tecnologías han comenzado a influir en el soporte fundamental 
+			de la información y con ello en su forma de acceso y de gestión. Todavía casi no hemos empezado, la revolución en este sentido vendrá… dentro de poco.
+		</para>
+		<para>
+			Pero es que el objetivo de su labor, el usuario también ha cambiado: en su concepción de la información, en su forma de uso, en los formatos y las formas de 
+			acceso: desde cualquier lugar, en cualquier momento, por cualquier medio... formando parte de diferentes redes formales o informales (algo que no es nuevo 
+			pero sí omnipresente).
+		</para>
+		<para>
+			Ya hay bibliotecas sin puertas, abiertas 24 horas, el papel del bibliotecario se diluye (incluso aunque algunas de esas posibilidades nuevas no puedan existir 
+			sin él), hay agentes externos que proporcionan iguales o similares servicios, profesionales que piensan que su nicho de trabajo es el mismo<footnote><para>Se vio 
+			de manera palpable en el último Congreso de FESABID: los periodistas pensaban que el trabajo que se atribuían los bi- bliotecarios para sí, es el suyo.</para></footnote>. 
+			Del mismo modo que se ha diluido la diferencia entre información y TIC está ocurriendo con buena parte de la actividad y la razón de ser de los bibliotecarios.
+		</para>
+		<section xml:id="ch06a">
+			<title>¿Qué perfil se pide a los bibliotecarios? ¿Cuáles deben ser sus competencias?</title>
+			<para>
+				Como ya hemos dicho para el caso de los educadores, quienes quieran intervenir en este campo deberán tener las competencias que se demandan a los que deben 
+				aprender; además de aquéllas que les permitan conseguir que aprendan.
+			</para>
+			<para>
+				Vamos a comenzar con perfiles generales de la profesión y acabaremos con perfiles específicos para la ALFIN. Utilizaremos el eco de muchas voces diferentes, 
+				como una especie de nube de etiquetas que nos traiga la visión y los pensamientos de muchos: una certificación de profesionales de la información con varios 
+				niveles, a la que seguirá un Libro Blanco para el Título de Grado en Información y Documentación, varias intervenciones en jornadas y dos ejemplos específicos 
+				destinados al biblioteca formador. Para recordar que existen otras opciones incluimos algunas referencias en nota<footnote><para>Col-legi Oficial de 
+				Bibliotecaris-Documentalistes de Catalunya (2007): Perfils professionals. Recuperado el 21 de diciembre de 2009 de &lt;<link xl:href="http://www.cobdc.org/quesom/index.html"/>&gt;.</para>
+				<itemizedlist><listitem><para>LÓPEZ YEPES, J. (2007): El nuevo profesional de la información, del conocimiento y de la comunicación: el bibliotecario uni- versitario. Anales de Documentación, 
+					10, 263-279. Recuperado el 21 de diciembre de 2009 de &lt;<link xl:href="http://redalyc.uaemex.mx/redalyc/pdf/635/63501015.pdf"/>&gt;.</para></listitem>
+				<listitem><para>REBIUN (2003): Definir las competencias del bibliotecario digital. Recuperado el 21 de diciembre de 2009 de 
+					&lt;<link xl:href="http://bibliotecnica.upc.es/Rebiun/nova/InformesGrupoTrabajo/56.pdf"/>&gt;. En realidad es una adaptación del Euroreferencial.</para></listitem>
+				<listitem><para>SLA (2003): Competencies for information professionals of the 21th century (revised ed.). Recuperado el 21 de diciembre de 2009 de
+					&lt;<link xl:href="http://www.sla.org/PDFs/Competencies2003_revised.pdf"/>&gt;.</para></listitem></itemizedlist>
+				</footnote>.
+			</para>
+			<section xml:id="ch06a1">
+				<title>Euroreferencial en información y documentación</title>
+				<para>
+					El Euroreferencial establece 33 campos de competencias, divididos en 5 grupos, y 20 aptitudes, tal y como se aprecia en el cuadro siguiente.
+				</para>
+				<para>
+					Para cada campo de competencia se consideran 4 niveles, aunque una persona puede desarrollar distintos niveles de competencia dependiendo de su experiencia 
+					profesional o no tener ninguna competencia en alguno de los campos:
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>
+							Nivel 1:  hace uso de las herramientas que se ponen a su disposición y tiene unas nociones básicas del campo.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Nivel 2:  domina las herramientas básicas y es capaz de colaborar con especialistas, utilizando competencias profesionales prácticas.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Nivel 3:  conoce todas las técnicas, sabe exponerlas y emplearlas. Puede interpretar una situación, adaptar una tarea o crear una herramienta.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Nivel 4:  domina la metodología, por lo que puede crear sistemas nuevos, auditar y gestionar la información, incluso en una red.
+						</para>
+					</listitem>
+				</itemizedlist>
+				<informalfigure xreflabel="Fig 31">
+					<mediaobject>
+						<imageobject fileref="resource/INF-5-034.jpg"/>
+					</mediaobject>
+					<caption><para>Euroreferencial en información y documentación (2004)</para></caption>
+				</informalfigure>
+				<para>Euroreferencial en información y documentación (2004). Volumen 1, Competencias y aptitudes de los profesionales europeos de información y documentación; p. 13.</para>
+				<informalfigure xreflabel="Fig 32">
+					<mediaobject>
+						<imageobject fileref="resource/INF-5-055.jpg"/>
+					</mediaobject>
+					<caption><para>Euroreferencial en información y documentación (2004)</para></caption>
+				</informalfigure>
+				<para>
+					Si tuviéramos que pensar en cuál sería el perfil del profesional formador nos daríamos cuenta que en buena medida todos los elementos estarían implicados; 
+					pero que al mismo tiempo no engloba exactamente las que serían más apropiadas para el perfil que estamos buscando.
+				</para>
+				<para>
+					Es evidente que unos campos de competencia destacan sobre otros, como todos los del grupo I (Información) y buena parte de los del C (Comunicación) a falta 
+					de algunos específicos sobre las capacidades del formador. Y tendríamos que echar mano de algunos de los de gestión para sustentar la necesaria programación 
+					de las diferentes unidades y sus actividades. Está claro, además que las del grupo T (Tecnologías) son necesarias para manejarse con el resto.
+				</para>
+				<para>
+					Por otra parte es conveniente recordar que todo el esquema está en proceso de revisión, fundamentalmente para adaptarse mejor al desarrollo tecnológico que 
+					se ha producido desde que se iniciara su redacción.
+				</para>
+			</section>
+			<section xml:id="ch06a2">
+				<title>Libro Blanco sobre el Título de Grado en Información y Documentación</title>
+				<para>
+					Este Libro Blanco fue publicado por la ANECA en 2005 y fusiona en una nueva titulación acorde con los presupuestos de Bolonia las dos titulaciones previas 
+					de Diplomatura de Biblioteconomía y Documentación y la Licenciatura de Documentación.
+				</para>
+				<para>
+					Se realizaron consultas a las asociaciones de profesionales (FESABID, SEDIC, COBDC...) y a los empleadores y hubo polémica respecto a los estudios de 
+					archivística y algunas de las competencias que no se consideraban suficientemente tratadas (entre ellas las de formación y alfabetización documental).
+				</para>
+				<para>
+					El Libro Blanco diferencia entre competencias transversales y específicas de formación disciplinar. Establece una gradación de 1 a 4 según el destino 
+					sean las bibliotecas generales, las bibliotecas especializadas, los archivos y la gestión de contenidos.
+				</para>
+				<para>Las <emphasis role="strong">competencias transversales o genéricas</emphasis> son:</para>
+				<itemizedlist>
+					<listitem>
+						<para>Instrumentales</para>
+						<itemizedlist>
+							<listitem>
+								<para>Capacidad de análisis y síntesis</para>
+							</listitem>
+							<listitem>
+								<para>Capacidad de organización y planificación</para>
+							</listitem>
+							<listitem>
+								<para>Comunicación oral y escrita en lengua nativa</para>
+							</listitem>
+							<listitem>
+								<para>Conocimiento de una lengua extranjera</para>
+							</listitem>
+							<listitem>
+								<para>Conocimientos de informática en el ámbito de estudio</para>
+							</listitem>
+							<listitem>
+								<para>Capacidad de gestión de la información</para>
+							</listitem>
+							<listitem>
+								<para>Resolución de problemas</para>
+							</listitem>
+							<listitem>
+								<para>Toma de decisiones</para>
+							</listitem>
+						</itemizedlist>
+					</listitem>
+					<listitem>
+						<para>Personales</para>
+						<itemizedlist>
+							<listitem>
+								<para>Trabajo en equipo</para>
+							</listitem>
+							<listitem>
+								<para>Trabajo en equipo de carácter interdisciplinar</para>
+							</listitem>
+							<listitem>
+								<para>Trabajo en un contexto internacional</para>
+							</listitem>
+							<listitem>
+								<para>Habilidades en las relaciones interpersonales</para>
+							</listitem>
+							<listitem>
+								<para>Reconocimiento de la diversidad y multiculturalidad</para>
+							</listitem>
+							<listitem>
+								<para>Razonamiento crítico</para>
+							</listitem>
+							<listitem>
+								<para>Compromiso ético</para>
+							</listitem>
+						</itemizedlist>
+					</listitem>
+					<listitem>
+						<para>Sistémicas</para>
+						<itemizedlist>
+							<listitem>
+								<para>Aprendizaje autónomo</para>
+							</listitem>
+							<listitem>
+								<para>Adaptación a nuevas situaciones</para>
+							</listitem>
+							<listitem>
+								<para>Creatividad</para>
+							</listitem>
+							<listitem>
+								<para>Liderazgo</para>
+							</listitem>
+							<listitem>
+								<para>Conocimiento de otras culturas y costumbres</para>
+							</listitem>
+							<listitem>
+								<para>Iniciativa y espíritu emprendedor</para>
+							</listitem>
+							<listitem>
+								<para>Motivación por la calidad</para>
+							</listitem>
+						</itemizedlist>
+					</listitem>
+				</itemizedlist>
+				<para>
+					Por su parte, integran las <emphasis role="strong">competencias específicas de formación disciplinar:</emphasis>
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>Interacción con los productos, usuarios y clientes de la información</para>
+					</listitem>
+					<listitem>
+						<para>Conocimiento del entorno profesional de la información y la documentación</para>
+					</listitem>
+					<listitem>
+						<para>Conocimiento del marco jurídico-administrativo, nacional e internacional en la gestión de la información</para>
+					</listitem>
+					<listitem>
+						<para>Identificación, autentificación y evaluación de recursos de información</para>
+					</listitem>
+					<listitem>
+						<para>Gestión de colecciones y fondos</para>
+					</listitem>
+					<listitem>
+						<para>Conservación y tratamiento físico de documentos</para>
+					</listitem>
+					<listitem>
+						<para>Análisis y representación de la información</para>
+					</listitem>
+					<listitem>
+						<para>Organización y almacenamiento de la información</para>
+					</listitem>
+					<listitem>
+						<para>Búsqueda y recuperación de la información</para>
+					</listitem>
+					<listitem>
+						<para>Elaboración y difusión de la información</para>
+					</listitem>
+					<listitem>
+						<para>Tecnologías de la información: Informáticas</para>
+					</listitem>
+					<listitem>
+						<para>Tecnologías de la información: Telecomunicaciones</para>
+					</listitem>
+					<listitem>
+						<para>Técnicas de producción y edición</para>
+					</listitem>
+					<listitem>
+						<para>Técnicas de gestión administrativa</para>
+					</listitem>
+					<listitem>
+						<para>Técnicas de marketing</para>
+					</listitem>
+					<listitem>
+						<para>Técnicas comerciales</para>
+					</listitem>
+					<listitem>
+						<para>Técnicas de adquisición</para>
+					</listitem>
+					<listitem>
+						<para>Técnicas de gestión micro económica</para>
+					</listitem>
+					<listitem>
+						<para>Técnicas de instalación, acondicionamiento y equipamiento</para>
+					</listitem>
+					<listitem>
+						<para>Técnicas de planificación y gestión de proyectos</para>
+					</listitem>
+					<listitem>
+						<para>Técnicas de diagnóstico y evaluación</para>
+					</listitem>
+					<listitem>
+						<para>Técnicas de gestión de recursos humanos</para>
+					</listitem>
+					<listitem>
+						<para>Técnicas de formación</para>
+					</listitem>
+				</itemizedlist>
+				<informalfigure xreflabel="Fig 33">
+					<mediaobject>
+						<imageobject fileref="resource/INF-5-035.jpg"/>
+					</mediaobject>
+					<caption>
+						<para>ANECA. Libro blanco del Grado en Información y Documentación (2005) <link xl:href="http://www.aneca.es"/></para>
+					</caption>
+				</informalfigure>
+			</section>
+			<section xml:id="ch06a3">
+				<title>El profesional de la información ante los nuevos retos</title>
+				<para>
+					La Red de Bibliotecas del Instituto Cervantes organizó a finales de 2009 unas jornadas con el título que hemos puesto a este 
+					epígrafe<footnote><para>Pueden ser consultadas en &lt;<link xl:href="http://www.cervantes.es/bibliotecas_documentacion_espanol/para_bibliotecarios/jornada2/jornada.htm"/>&gt;.</para></footnote>. 
+					Nos parece importante resumir lo que plantearon dos de las ponentes, con un perfil y origen muy dispares.
+				</para>
+				<para>
+					La presidenta de la ALA (American Library Association), Camila Alire, defendía que los bibliotecarios debían tener 
+					&lt;<link xl:href="http://www.ucm.es/BUCM/blogs/boletinbibliotecario/1110.php"/>&gt; capacidad de comunicación, dominar el marketing, cooperar, ser creativos, 
+					consultores y profesores eficaces, contemplando la <quote>formación continua, servicios creativos e innovadores, integración de la ALFIN en la enseñanza reglada, 
+					uso de las nuevas tecnologí­as y herramientas de la web social, conocer y estudiar a nuestros usuarios, sus necesidades reales, tener en cuenta a los nativos 
+					digitales, etc</quote> (Nieves González lo resumió así en un comentario en el post que sintetizaba la intervención).
+				</para>
+				<para>
+					Por su parte Roser Lozano, que durante mucho tiempo fuera directora de la Biblioteca Pública de Tarragona, hablaba del profesional de la información emprendedor 
+					&lt;<link xl:href="http://www.ucm.es/BUCM/blogs/boletinbibliotecario/1127.php"/>&gt;, que debe conjugar conocimientos, habilidades y actitudes al tiempo que:
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>Es consciente de la transversalidad (fundamental en ALFIN)</para>
+					</listitem>
+					<listitem>
+						<para>Da a su trabajo un toque personal (“artesanía”)</para>
+					</listitem>
+					<listitem>
+						<para>
+							Es especializado al tiempo que flexible (muy importante, y más difícil, conjugar ambas características: eres experto pero al mismo tiempo flexible 
+							ante novedades, otros campos del conocimiento...)
+						</para>
+					</listitem>
+					<listitem>
+						<para>Es capaz de ejercer un liderazgo participativo</para>
+					</listitem>
+					<listitem>
+						<para>Es un buen comunicador (con todos los que le rodean). La falta de comunicación es considerada una lacra</para>
+					</listitem>
+					<listitem>
+						<para>Tiene empatía, establece redes y contactos sociales</para>
+					</listitem>
+					<listitem>
+						<para>Planifica con flexibilidad</para>
+					</listitem>
+				</itemizedlist>
+			</section>
+			<section xml:id="ch06a4">
+				<title>Decálogo para el trabajador de la información</title>
+				<para>
+					José Antonio Merlo Vega (2006) analiza muchas fuentes de información sobre los perfiles del bibliotecario, algunas de ellas incluidas aquí, y acaba proponiendo 
+					un decálogo sobre <quote>cómo debe ser un trabajador de la información que quiera contribuir al desarrollo de la profesión y al reconocimiento de la misma</quote>.
+					Dicho bibliotecario debería:
+				</para>
+				<orderedlist>
+					<listitem>
+						<para>Estar formado</para>
+					</listitem>
+					<listitem>
+						<para>Estar informado</para>
+					</listitem>
+					<listitem>
+						<para>Estar presente (en todas las instancias en las que se decida sobre la disciplina)</para>
+					</listitem>
+					<listitem>
+						<para>Ser competente</para>
+					</listitem>
+					<listitem>
+						<para>Ser activo</para>
+					</listitem>
+					<listitem>
+						<para>Ser cooperante</para>
+					</listitem>
+					<listitem>
+						<para>Saber adaptarse</para>
+					</listitem>
+					<listitem>
+						<para>Saber aliarse</para>
+					</listitem>
+					<listitem>
+						<para>Saber difundirse</para>
+					</listitem>
+					<listitem>
+						<para>Sentirse importante</para>
+					</listitem>
+				</orderedlist>
+			</section>
+			<section xml:id="ch06a5">
+				<title>Normas sobre competencias para bibliotecarios formadores y coordinadores: una guía práctica de la ACRL</title>
+				<para>
+					&lt;<link xl:href="http://www.ala.org/ala/mgrps/divs/acrl/standards/profstandards.cfm"/>&gt;
+				</para>
+				<para>
+					Disponemos de dos ejemplos que sí son específicos del bibliotecario implicado en la ALFIN. El primero son unas normas establecidas por (una vez más 
+					una División de la ALA) la ACRL y el segundo una oferta de trabajo en la biblioteca de un College estadounidense.
+				</para>
+				<para>
+					La ACRL establece un total de 69 competencias que se reparten de diferente manera si se trata de un bibliotecario puramente formador (41 competencias) 
+					o si hablamos de quien está encargado de coordinar todo el programa de formación, que cuenta con 28 adicionales.
+				</para>
+				<para>
+					Se distribuyen en 12 categorías, repartiéndose como siguen:
+				</para>
+				<orderedlist>
+					<listitem>
+						<para>Administrativas</para>
+					</listitem>
+					<listitem>
+						<para>Análisis y evaluación</para>
+					</listitem>
+					<listitem>
+						<para>Comunicación</para>
+					</listitem>
+					<listitem>
+						<para>Conocimiento del curriculum</para>
+					</listitem>
+					<listitem>
+						<para>Integración de la ALFIN</para>
+					</listitem>
+					<listitem>
+						<para>Diseño de planes de estudio</para>
+					</listitem>
+					<listitem>
+						<para>Liderazgo</para>
+					</listitem>
+					<listitem>
+						<para>Planificación</para>
+					</listitem>
+					<listitem>
+						<para>Presentación</para>
+					</listitem>
+					<listitem>
+						<para>Promoción (entendido en el sentido del marketing)</para>
+					</listitem>
+					<listitem>
+						<para>Pericia temática</para>
+					</listitem>
+					<listitem>
+						<para>Enseñanza</para>
+					</listitem>
+				</orderedlist>
+				<para>
+					Estas normas acaban de ser traducidas por la Subdirección General de Coordinación Bibliotecaria<footnote><para>En ALFARED 
+					&lt;<link xl:href="http://www.alfared.org/blog/informaci-n-general/824"/>&gt; se anuncia y se accede a ellas desde 
+					&lt;<link xl:href="http://hdl.handle.net/10421/3321"/>&gt;</para></footnote>.
+				</para>
+			</section>
+			<section xml:id="ch06a6">
+				<title>Puesto de trabajo de bibliotecario especialista en ALFIN</title>
+				<para>
+					¿Qué mejor manera de comprobar qué es lo que se espera de quien debe realizar una determinada tarea o conjunto de ellas que fijarse en una oferta de 
+					empleo real? La oferta de la que nos hacemos eco llegó a través de la lista de correo de la Sección de ALFIN de la IFLA y provenía del Wartburg College 
+					(Waverly, Iowa, EE.UU.), solicitando un profesional para la Vogel Library, reconocida como líder nacional en la implementación de la ALFIN.
+				</para>
+				<informalfigure xreflabel="Fig 34">
+					<mediaobject>
+						<imageobject fileref="resource/INF-5-036.jpg"/>
+					</mediaobject>
+					<caption><para>Information Literacy@Wartburg College <link xl:href="http://library.wartburg.edu/infolit/"/></para></caption>
+				</informalfigure>
+				<para>
+					Los candidatos deben contribuir en el Plan de Educación Esencial de la institución bajo la supervisión del director de la Biblioteca con las siguientes 
+					<emphasis role="strong">responsabilidades y tareas fundamentales:</emphasis>
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>
+							Coordinar las tareas con los departamentos de Inglés, Música y Arte, incluyendo la enseñanza de ALFIN de manera individual y en grupo
+						</para>
+					</listitem>
+					<listitem>
+						<para>Gestionar el desarrollo de la colección en su área temática</para>
+					</listitem>
+					<listitem>
+						<para>Proporcionar servicios de referencia (incluyendo los horarios de tarde y fin de semana)</para>
+					</listitem>
+					<listitem>
+						<para>Trabajar en el desarrollo y mejora de la ALFIN a lo largo del Curriculum</para>
+					</listitem>
+					<listitem>
+						<para>Apoyar los cursos intensivos de escritura</para>
+					</listitem>
+					<listitem>
+						<para>Participar en las diferentes diplomaturas para ofrecer talleres, formación y recursos a los profesores</para>
+					</listitem>
+					<listitem>
+						<para>
+							Colaborar con el Laboratorio para Escritura, Lectura y Comunicación Oral para establecer un diálogo fluido y prestar asistencia a profesores y alumnos
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Proporcionar servicios al <emphasis>College</emphasis> mediante el asesoramiento académico, reclutamiento de estudiantes y participación en comités
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Hacer frente a la investigación relacionada con la disciplina y con el ámbito de la enseñanza y el aprendizaje
+						</para>
+					</listitem>
+				</itemizedlist>
+				<para>
+					Se solicitan las siguientes <emphasis role="strong">cualificaciones mínimas:</emphasis>
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>
+							<emphasis role="strong">Obligatorias:</emphasis>
+							<itemizedlist>
+								<listitem>
+									<para>MLS (Master of Library Science) acreditado por la ALA o similar</para>
+								</listitem>
+								<listitem>
+									<para>Evidencia de consolidadas competencias en enseñanza</para>
+								</listitem>
+								<listitem>
+									<para>
+										Capacidad demostrada para trabajar tanto de manera independiente como formando parte de un equipo con sólida orientación al servicio
+									</para>
+								</listitem>
+								<listitem>
+									<para>Excelentes habilidades interpersonales</para>
+								</listitem>
+								<listitem>
+									<para>Habilidades destacadas en la comunicación oral y escrita</para>
+								</listitem>
+							</itemizedlist>
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							<emphasis role="strong">Preferidas:</emphasis>
+							<itemizedlist>
+								<listitem>
+									<para>Grado avanzado en Inglés u otra disciplina</para>
+								</listitem>
+								<listitem>
+									<para>
+										Experiencia en programas “<emphasis>Writing Across the Curriculum”</emphasis><footnote><para>El <emphasis>Writing Across the Curriculum</emphasis> 
+										es un subcampo de los estudios sobre Escritura y composición que busca conseguir que los estudiantes sean escritores competentes mediante la 
+										práctica y le instrucción de una variedad de cursos y campos. Por medio de él los estudatiantes pueden aprender a pensar críticamente sobre 
+										los conceptos y principios claves de todas las disciplinas. Aparece asociado en ocasiones a un concepto similar 
+										“<emphasis>Writing in the Disciplines</emphasis>”.</para></footnote>
+									</para>
+								</listitem>
+								<listitem>
+									<para>
+										Experiencia en bibliotecas académicas, incluyendo la referencia y la enseñanza
+									</para>
+								</listitem>
+								<listitem>
+									<para>Competencia en diseño Web</para>
+								</listitem>
+								<listitem>
+									<para>Experiencia trabajando con poblaciones diversas</para>
+								</listitem>
+							</itemizedlist>
+						</para>
+					</listitem>
+				</itemizedlist>
+			</section>
+		</section>
+		<section xml:id="ch06b">
+			<title>¿Cómo son los bibliotecarios?</title>
+			<para>
+				A veces la teoría y la práctica divergen en buena medida. La profesión es hetereogénea y por tanto difícil de abarcar en su totalidad; sin embargo, intentaremos 
+				establecer unas características básicas de cual es su situación y nos serviremos de la misma obra que acabamos de mencionar de José Antonio Merlo Vega (2006) en 
+				que hace un retrato de la situación de los profesionales de la información:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						<emphasis role="strong">Profesión delimitada:</emphasis> en el sentido de que múltiples documentos determinan las competencias y los niveles de 
+						responsabilidad, como acabamos de ver.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">Profesión formada:</emphasis> existe preparación oficial.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">Profesión informada:</emphasis> cuenta con revistas profesionales, con buen nivel de edición, con listas de distribución...
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">Profesión multidisciplinar y polifacética:</emphasis> trabaja en multitud de centros con objetivos y usuarios muy dispares.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">Profesión pequeña:</emphasis> su número es –con respecto a la población para la que trabaja– poco numeroso.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">Profesión institucional:</emphasis> la mayor parte depende de una administración pública.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">Profesión desapercibida:</emphasis> la representación es escasa en los órganos de decisión en los que trabaja: en los consejos 
+						escolares no se aceptan bibliotecarios y en los claustros universitarios no es frecuente la representación de archiveros, bibliotecarios o documentalistas 
+						(aunque participen en calidad de personal de administración y servicios).
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">Profesión desconocida aunque valorada por los usuarios:</emphasis> es poco valorada por las entidades en las que se trabaja: 
+						normalmente como unidades de apoyo. Sin embargo, los usuarios que la utilizan la valoran bien.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">Profesión joven:</emphasis> los datos que aporta los relaciona más con el momento de creación de los centros de información y 
+						las asociaciones profesionales que con respecto a la edad de los profesionales.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">Profesión cambiante:</emphasis> ésta es una de las claves que vamos repitiendo a lo largo de todas estas páginas. El cambio 
+						tecnológico ha modificado las herramientas de trabajo en todos los ámbitos y los profesionales han tenido que estar en periodo de adaptación permanente.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">Profesión vocacional:</emphasis> aunque no se da en todos los casos, hay un porcentaje elevado de la profesión que es vocacional. 
+						Merlo pone como ejemplo las actividades que realizan más allá de lo que se espera por su centro o el interés por participar en foros y asistir a reuniones 
+						científicas (aunque no tengan facilidades para ello).
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">Profesión cooperativa:</emphasis> otro puntal de la profesión es cómo se vuelca en la cooperación tanto formal como informal e 
+						intercambia experiencias con el intento de no inventar la rueda cada dos por tres y también para luchar contra el estrés del continuo cambio; aunque 
+						pueda verse en ocasiones amortiguada por la competencia entre las instituciones.
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				Hemos visto cómo un componente esencial de las competencias son <emphasis role="strong">las actitudes</emphasis>.
+			</para>
+			<para>
+				¿Cuáles son las que se dan en los bibliotecarios? Evidentemente cada persona es un universo, que además interpreta el universo que le circunda con diferentes ojos.
+			</para>
+			<para>
+				Nieves González ha mostrado en varios foros cómo ve ella las actitudes de nuestros compañeros ante la necesidad de adaptarnos a las nuevas realidades y en buena 
+				medida al perfil del bibliotecario formador:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>el fósil: reacio a todo cambio</para>
+				</listitem>
+				<listitem>
+					<para>el que otea el horizonte, el porvenir: para intentar conocerlo</para>
+				</listitem>
+				<listitem>
+					<para>el que es sobre todo un estratega y busca objetivos</para>
+				</listitem>
+				<listitem>
+					<para>el que hace malabarismos con aquello que tiene: intenta adaptarse</para>
+				</listitem>
+				<listitem>
+					<para>el que “pasa” de todo</para>
+				</listitem>
+				<listitem>
+					<para>quien se siente protagonista</para>
+				</listitem>
+				<listitem>
+					<para>quien es un “bicho raro” (o es considerado así por los demás)</para>
+				</listitem>
+				<listitem>
+					<para>...</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				Las actitudes y las aptitudes pueden entenderse de manera general, sin relacionarse directamente con la alfabetización informacional; pero eso no debe resultarnos 
+				un problema ya que es evidente que uno no tiene compartimentos estancos dentro de sí.
+			</para>
+			<para>
+				Pueden entenderse la mayor parte de las actitudes ya que no son sino consecuencia de la naturaleza del ser humano, por lo que se encuentran en cualquier grupo 
+				humano que se reúna para no importa qué cometido.
+			</para>
+			<para>
+				Todos los especialistas en recursos humanos destacan que el miedo al cambio es una de las grandes rémoras de cualquier profesional, incluso aunque ese cambio 
+				pueda ser beneficioso en la mejora de las condiciones de trabajo, porque genera inseguridad y rompe con la comodidad de dominar un terreno conocido. Cuando el 
+				cambio socava los fundamentos de lo que se ha pretendido que es nuestro puesto de trabajo entra en juego también la frustración, el sentimiento de que si algo 
+				no vale ahora es que no ha valido jamás.
+			</para>
+			<para>
+				Pero no podemos quedarnos sentados esperando, sobre todo cuando estamos en el ojo de un huracán que cuestiona buena parte de esos fundamentos, especialmente 
+				porque al mismo tiempo nos está proporcionando nuevas oportunidades.
+			</para>
+			<para>
+				Me uno a las palabras que hace unos días planteaba Daniel Gil en Iwetel<footnote><para>Puede verse el contenido 
+				en &lt;<link xl:href="http://www.bauenblog.info/2010/06/01/12as-jornadas-catalanas-de-informacion-y-documentacion-de-la-autocomplacencia-a-la-ilusion"/>&gt;.</para></footnote> 
+				sobre una jornada a la que había acudido: hay que afrontar la situación con riesgo y valentía, sin dejar de lado la ilusión e incluso hacer uso del poder 
+				de seducción.
+			</para>
+			<informalfigure xreflabel="Fig 35">
+				<mediaobject>
+					<imageobject fileref="resource/INF-5-037.jpg"/>
+				</mediaobject>
+				<caption><para>
+					Presentaciones de Nieves González sobre ALFIN
+					<link xl:href="http://www.slideshare.net/nievesglez/programas-alfin-en-la-bus-biblioteca-universidad-sevilla-un-modelo-desigual"/>
+					<link xl:href="http://www.slideshare.net/nievesglez/participacin-usos-y-usuarios-de-los-servicios-de-informacin-todo-para-el-usuario-pero-con-el-usuario"/>
+				</para></caption>
+			</informalfigure>
+		</section>
+		<section xml:id="ch06c">
+			<title>¿Hay fórmulas para conseguirlo?</title>
+			<para>
+				El miedo al cambio se supera cambiando, descubriendo que el uso de una herramienta nueva nos facilita las cosas o nos permite hollar caminos antes insospechados. 
+				Pero no puede dejarse únicamente a la iniciativa personal: tendremos que servirnos de los que otean el horizonte y nos descubren nuevos territorios, de los que 
+				con pequeñas cosas construyen nuevas realidades, de los que con su visión de estrategas son capaces de proporcionarnos las vías para dejar de ser “pasotas”, 
+				para cambiar la piel de fósil y poder sentirnos protagonistas en algún momento.
+			</para>
+			<para>
+				Palabras huecas, que juegan y se traban entre sí. Seguramente, si no las fundamentáramos en dos puntales: formación y cooperación. Formación permanente, 
+				constante, de todos y para todos; cooperación entre diferentes instituciones, entre distintos tipos de biblioteca, entre categorías de personal, con la creación 
+				de grupos de trabajo interdisciplinares dentro y fuera de la biblioteca. Y también reconocimiento.
+			</para>
+			<para>
+				Precisamente en estos dos ámbitos es donde más ayuda el desarrollo de las tecnologías porque nos permiten dar formación en línea, comunicarnos sin necesidad de 
+				presencia física, compartir recursos, experiencias... y crear sin apenas recursos.
+			</para>
+			<para>
+				¿Y en qué áreas? En todas en las que haya una laguna, en las que sean estratégicas, en las que en ese mapa inmenso de competencias que hemos desplegado veamos 
+				que flaqueamos: la formación de formadores, el marketing, el uso de los dispositivos móviles, la utilización de las aulas o campus virtuales, la referencia en 
+				línea, la creación de repositorios institucionales que favorezcan el acceso abierto, la gestión de colecciones digitales, los derechos de autor, el diseño de 
+				web, la planificación de espacios que estén más acordes con los nuevos usuarios y los nuevos servicios, la integración con otros profesionales con los que 
+				tenemos relación, el uso de los elementos de la Web 2.0 o de la semántica 5.XZ...
+			</para>
+			<para>
+				Lo sé, no es fácil. De hecho podría preguntarme <emphasis role="strong">¿estoy yo alfabetizado en información?</emphasis>
+			</para>
+			<para>
+				¿Soy capaz de desenvolverme con soltura en el mundo de la información y de las tecnologías? ¿Soy un buen comunicador (en los dos sentidos: hablar y escuchar, 
+				dar y recibir)? ¿Me adapto a las necesidades de mi trabajo? ¿tengo dotes de planificación y organización espacio-temporal y habilidades en el trabajo en grupo? 
+				¿Soy capaz de intermediar? ¿…?
+			</para>
+			<para>
+				Pero si existe apoyo por parte de las autoridades institucionales y académicas, si se implican los responsables bibliotecarios (a todos los niveles), si 
+				se reconoce la labor y su importancia, es posible conseguirlo.
+			</para>
+			<blockquote>
+				<para>
+					¿Estoy yo alfabetizado en información? ¿Soy capaz de desenvolverme con soltura en el mundo de la información y de las tecnologías? 
+				</para>
+			</blockquote>
+		</section>
+	</section>
+	<section xml:id="ch06b">
+		<title>Las bibliotecas</title>
+		<para>
+			Las bibliotecas son organismos vivos compuestos por personas, colecciones e infraestructuras que crean servicios. Están afectadas por los mismos factores que 
+			hemos mencionado en el caso de los bibliotecarios y como tal tienen que hacer frente a las amenazas y aprovecharse de las oportunidades.
+		</para>
+		<para>
+			Esos factores están íntimamente relacionados con el desarrollo de las TIC y con sus consecuencias: aparición de nuevos servicios, recursos y profesionales que 
+			intervienen en el mismo ámbito de trabajo, cambio en los sistemas educativos y en la forma de comunicarse de los ciudadanos, diferentes formas de lectura y 
+			escritura (lo digital está configurando un nuevo concepto de alfabetización lecto-escritora) que conllevan nuevas formas de trabajar y de interpretar la realidad 
+			(de brecha cognitiva hablaba Carles Monereo).
+		</para>
+		<para>
+			Por eso, es totalmente necesario que cambien para no perder su papel en la llamada sociedad de la información, o mejor, la sociedad-red. Recientemente un titular de 
+			un periódico referido a los medios de comunicación nos llamaba la atención: “La resistencia al cambio es la mejor receta para desaparecer”.
+		</para>
+		<para>
+			Estamos en una época de transición que produce una cierta confusión que se traduce en debates y polémicas en las que se enfrentan lo ya conocido con lo nuevo, donde 
+			unos defienden el mantenimiento del <emphasis role="strong">statu quo</emphasis> y otros abogan por la instauración automática de todo lo nuevo.
+		</para>
+		<para>
+			La práctica se demuestra haciendo y pueden verse ejemplos de cómo ese cambio se va produciendo en estructuras aparentemente tradicionales como las que a continuación 
+			mencionamos.
+		</para>
+		<para>
+			La Biblioteca Pública de Roterdamm &lt;<link xl:href="http://www.bibliotheek.rotterdam.nl"/>&gt; tiene una estructura de cilindro piramidal que se desarrolla desde 
+			una base ruidosa, totalmente modular y preparada para cualquier tipo de actividad hasta su zona superior silenciosa dedicada al estudio; con espacios intermedios para 
+			la música (¿por qué hay un piano en “todas” las bibliotecas holandesas?), el juego, el trabajo en grupo, la conexión a la red... donde los lugares de información y 
+			apoyo bibliotecario son fácilmente identificables. Y donde el acceso a lugares sólo de esparcimiento (bar, teatro) son directos.
+		</para>
+		<para>
+			La Biblioteca Pública de Amsterdam &lt;<link xl:href="http://www.oba.nl"/>&gt; (OBA) es un enorme edificio donde se pueden contar decenas de espacios diferentes, la 
+			mayor parte de ellos modificables, donde la conexión a la red puede establecerse desde cualquier punto, con espacio para exposiciones, cafetería integrada en el 
+			espacio dedicado a las publicaciones periódicas, salas de trabajo en grupo e individuales con diseño atractivo, lugares para el descanso y la reflexión, puntos de 
+			información visibles desde cualquier lugar, bibliotecarios en movimiento, zona de idiomas, señalización atractiva y variada (cortinas, lámparas, cuadros, sillones, 
+			butacas, estanterías que no impiden la visión), espacios de audición y cafetería/restaurante en el último piso, para renovar energías y volver a descender los pisos 
+			que sean necesarios para continuar con la actividad. También con muchos medios que ayudan a desembarazar a los bibliotecarios de las tareas más tediosas: préstamo y 
+			devolución de libros automáticos (incluido para los más pequeños, que cuentan con máquinas adecuadas a su menor tamaño), con sistemas “inteligentes” que transportan 
+			los libros hasta las plantas donde deben ser de nuevo colocados.
+		</para>
+		<para>
+			La DOK &lt;<link xl:href="http://www.dok.info/index.php"/>&gt; de Delft es más pequeña; pero es un ejemplo de cómo se puede condensar en un todo armónico mucho de lo 
+			que estamos diciendo: desde el espacio de la cafetería donde se puede leer el periódico o las revistas entre música ambiental, se ve el escenario para actuaciones 
+			donde figura el piano, la zona donde se pueden escuchar grabaciones sonoras sin ser perturbado ni perturbar, las luces de neón que indican los espacios donde se 
+			encuentran la PSP, la Wii, la Nintendo..., los conductos del aire acondicionado que señalan casi con un estilo graffitero las diferentes secciones de la colección, 
+			el mostrador de referencia e información donde apenas nada separa a usuario y bibliotecario. Moviéndonos un poco podemos acceder al espacio para los más pequeños 
+			donde pueden gatear para encontrarse con sus libros cercanos al suelo, estanterías con grandes ruedas para poder ser redistribuidas, un anfiteatro similar al de la 
+			FNAC para sentarse a leer a sus autores favoritos, las consolas de todo tipo a las que hemos aludido, una sala en el que se pueden tomar prestadas pinturas y 
+			esculturas para adornar la casa, diferentes espacios que se reservan para poder trabajar en grupo con todo tipo de tecnologías, medios para digitalizar y transformar 
+			formatos de todo tipo, personal accesible y visible. Y, una vez más, autopréstamos que permiten a un niño de 10 años llevarse 8 libros en un instante, y sistema de 
+			devolución de libros –accesible sin que la biblioteca esté abierta– que mediante la radiofrecuencia y la instalación oportuna reparte los libros según su destino y 
+			lo envía a él.
+		</para>
+		<para>
+			Y por poner un ejemplo de biblioteca universitaria, la de Tilburg que ha eliminando del centro todas las estanterías para llenarlo de más espacios de trabajo individual 
+			y en grupo, algunos de ellos con gran cantidad de medios informáticos (<emphasis>Learning forum</emphasis>), donde funciona la wifi incluyendo el espacio verde exterior, 
+			desde donde se pueden descargar los documentos en los ordenadores personales o enviarlos a varias impresoras centralizadas, dejar cargando el ordenador en taquillas 
+			individuales mientras se realizan otras actividades, donde se puede regular de manera ergonómica la altura de las mesas o de las pantallas, con espacios diseñados de 
+			diferente manera para poder trabajar con TIC o con papel, con tus medios electrónicos o los propios del centro (muy variados). Preparándose para conseguir más alumnos 
+			internacionales, que nunca necesitarán pisar sus instalaciones.
+		</para>
+		<para>
+			Parece que no estamos hablando de ALFIN; pero no es así. Es evidente que una disciplina que tiene como uno de sus objetivos la formación crítica de las personas en 
+			el uso de la información y las TIC no puede obviar el contexto en el que trabaja, incluyendo el económico, social, organizativo, tecnológico... por lo que el escenario 
+			en el que debe realizar su labor es importante. Además se añade otra cuestión: la liberación de determinadas tareas permite dedicarse a otras: como recientemente planteaba 
+			Fernando Juárez &lt;<link xl:href="http://diarium.usal.es/biblioblog/2010/correcciones"/>&gt;, en <citetitle>Iwetel</citetitle> la crisis (económica y “de identidad”) 
+			puede servir para repensar el ecosistema bibliotecario (la salud de mi biblioteca depende de la de al lado), el concepto de fondo (dar el salto de “colección almacenada” 
+			a “información gestionada”), los conceptos de usuarios, servicios...y los “tempos” laborales “liberando esfuerzos de la gestión del fondo presencial e implementarlos en 
+			el fondo informacional”.
+		</para>
+		<para>
+			Una vez planteado este escenario, nos queda hacer mención a los tipos de biblioteca existentes; pero sin profundizar en ello. Como en cualquier cuestión de la vida, 
+			las clasificaciones son el resultado del punto de vista que adoptemos y podemos encontrar importantes diferencias; al margen de que algunas bibliotecas puedan 
+			pertenecer a más de una tipología<footnote><para>La biblioteca de Ciencias Químicas de una universidad pública ¿no sería una biblioteca especializada, universitaria 
+			y pública al mismo tiempo?</para></footnote>. Podríamos incluir la compleja clasificación de la IFLA o los diferentes espacios que se han creado en ALFARED):
+		</para>
+		<informalfigure xreflabel="Fig 36">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-038.jpg"/>
+			</mediaobject>
+		</informalfigure>
+		<para>
+			Pero vamos a simplificarlos al hablar de la ALFIN porque creemos que las características de algunas son similares a las de otras. De tal manera sólo hablaremos 
+			de las bibliotecas:
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>
+					Escolares: ligadas a los primeros estadios de la educación y de la formación como personas y ciudadanos
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Universitarias: enraizadas en la educación superior, que crea conocimiento científico y que pueden recoger aspectos de las bibliotecas especializadas
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Públicas: que cubre un amplio abanico de bibliotecas de diferente tipo, ligadas al papel de las personas como ciudadanos, al aprendizaje permanente a 
+					lo largo de la vida, la inclusión social, la multiculturalidad y el servicio público.
+				</para>
+			</listitem>
+		</itemizedlist>
+		<para>Haremos una breve mención a las bibliotecas híbridas.</para>
+		<section xml:id="ch06b1">
+			<title>Consejo de Cooperación Bibliotecaria</title>
+			<para>
+				El Consejo de Cooperación Bibliotecaria &lt;<link xl:href="http://www.mcu.es/bibliotecas/MC/ConsejoCB/Presentacion.html"/>&gt; está regulado por el Decreto 
+				1573/2007, de 30 de noviembre &lt;<link xl:href="http://hdl.handle.net/10421/193"/>&gt;, como desarrollo de la Ley 10/2007, de 22 de junio, de la lectura, 
+				del libro y de las bibliotecas &lt;<link xl:href="http://hdl.handle.net/10421/188"/>&gt;.
+			</para>
+			<para>
+				Participan en él representantes de la Administración General del Estado, de las comunidades autónomas, de las entidades locales, de REBIUN y de las asociaciones 
+				profesionales.
+			</para>
+			<para>
+				Su principal objetivo es “canalizar la cooperación bibliotecaria entre las administraciones públicas”. Y como objetivos específicos, trata de la integración de 
+				los sistemas bibliotecarios públicos en el Sistema Español de Bibliotecas, la elaboración de planes para favorecer y promover el desarrollo y mejora de las 
+				condiciones de las bibliotecas y sus servicios, fomentar el intercambio y formación profesional de los bibliotecarios, informar de la normativa que afecte a 
+				las bibliotecas españolas, poner en marcha proyectos cooperativos beneficiosos para la sociedad y estudiar y desarrollar todas las actuaciones que encomienden 
+				las conferencias sectoriales de Cultura y de Educación y la CRUE.
+			</para>
+			<para>
+				Para conseguirlo se crean diferentes comisiones técnicas para cada tipo de biblioteca (nacionales y regionales, públicas, escolares, universitarias, 
+				especializadas) en las que se pueden crear grupos de trabajo (hay un total de 15 en la actualidad)<footnote><para>Véase la relación de grupos en 
+				&lt;<link xl:href="http://www.mcu.es/bibliotecas/MC/ConsejoCB/GruposTrabajo.html"/>&gt;.</para></footnote>; dando la posibilidad de crear grupos mixtos. 
+				Un ejemplo de este tipo es el dedicado a la ALFIN.
+			</para>
+			<para>
+				El Grupo de Trabajo de Alfabetización Informacional<footnote><para>La web del grupo está disponible en la dirección 
+				&lt;<link xl:href="http://www.mcu.es/bibliotecas/MC/ConsejoCB/GruposTrabajo/GT_ Alfabetizacion.html"/>&gt;.</para></footnote> está coordinado por Felicidad 
+				Campal y cuenta con participantes escogidos por las Comunidades Autónomas, la Biblioteca Nacional, el Ministerio de Cultura, REBIUN, FESABID, la FGSR, la 
+				FEMP y las bibliotecas especializadas.
+			</para>
+			<para>
+				Se creó en 2007, cuenta con un foro interno de trabajo y ha dirigido su actividad fundamentalmente a fortalecer y proporcionar contenido a la plataforma 
+				ALFARED, a redactar un informe sobre ALFIN en bibliotecas públicas españolas (lo veremos en el apartado de bibliotecas públicas) y a estudiar el 
+				desarrollo de aplicaciones concretas de ALFIN para bibliotecas públicas. Por otra parte, los miembros del grupo han participado en diferentes jornadas 
+				profesionales.
+			</para>
+			<para>
+				<emphasis role="strong">ALFARED</emphasis> &lt;<link xl:href="http://www.alfared.org"/>&gt; es una plataforma web en la que se han creado –además de un 
+				blog– espacios específicos para cada tipo de bibliotecas. Algunos de los miembros del grupo de trabajo son los coordinadores de estos espacios, que se 
+				pretenden convertir en una especie de repositorios en los que tenga cabida toda la información relevante sobre la ALFIN con respecto a cada tipología 
+				bibliotecaria; algo que han manifestado especialmente las bibliotecas universitarias. En la plataforma participan otras personas que no forman parte del 
+				grupo de trabajo pero que estuvieron presentes en su desarrollo preliminar, que –como hemos indicado– es heredero del blog que iniciara José Antonio 
+				Gómez Hernández.
+			</para>
+			<para>
+				Se recogen los principales documentos internacionales y fuentes de información sobre ALFIN para cada tipo de biblioteca y el blog sirve tanto para 
+				incorporar materiales nuevos como para publicitar actividades, recursos, noticias... relevantes en el ámbito que tratamos.
+			</para>
+			<para>
+				En el apartado de aplicaciones prácticas para bibliotecas públicas se estudió la posibilidad de adaptar DAMI (Diploma Andaluz para el Manejo de Información 
+				&lt;<link xl:href="http://www.juntadeandalucia.es/cultura/opencms/export/download/bibhuelva/DAMI.pps"/>&gt;); pero tras un exhaustivo estudio se entendió 
+				que costaría más esa adaptación que crear algo nuevo. Se decidió entonces dedicarse a crear un programa que sirviera a los bibliotecarios para ayudar a los 
+				ciudadanos a buscar empleo, contemplando todos los aspectos que confluyen en dicha tarea. Está a punto de ser finalizado y es posible que próximamente se 
+				presenten sus resultados.
+			</para>
+			<para>
+				Por otra parte, se han elaborado fichas de buenas prácticas que serán enviadas a las distintas bibliotecas para que hagan llegar las iniciativas que 
+				llevan a cabo y puedan hacerse visibles en la plataforma ALFARED.
+			</para>
+			<informalfigure xreflabel="Fig 37">
+				<mediaobject>
+					<imageobject fileref="resource/INF-5-039.jpg"/>
+				</mediaobject>
+			</informalfigure>
+		</section>
+		<section xml:id="ch06b2">
+			<title>Bibliotecas escolares</title>
+			<blockquote>
+				<para>
+					La biblioteca escolar ofrece servicios de aprendizaje, libros y otros recursos, a todos los miembros de la comunidad escolar para que desarrollen el 
+					pensamiento critico y utilicen de manera eficaz la información en cualquier soporte y formato... La biblioteca escolar es un componente esencial de 
+					cualquier estrategia a largo plazo para la alfabetización, educación, provisión de información y desarrollo económico, social y cultural. La 
+					biblioteca escolar es responsabilidad de las autoridades locales, regionales y nacionales y, por tanto, debe tener el apoyo de una legislación y de 
+					una política específicas.
+				</para>
+				<attribution>(<emphasis role="strong">Manifiesto de la biblioteca escolar</emphasis><footnote><para>Probablemente es uno de los manifiestos que debería ser 
+				revisado en algunos de sus aspectos, aunque las líneas generales son válidas. Puede consultarse en &lt;<link xl:href="http://archive.ifla.org/VII/s11/pubs/mani-s.htm"/>&gt; 
+				y en &lt;<link xl:href="http://www.unesco.org/webworld/libraries/manifestos/school_manifesto_es.html"/>&gt;. Se complementa con las Directrices IFLA/UNESCO 
+				para la biblioteca escolar &lt;<link xl:href="http://archive.ifla.org/VII/s11/pubs/sguide02-s.pdf"/>&gt;.</para></footnote>, IFLA/UNESCO)</attribution>
+			</blockquote>
+			<para>
+				Las bibliotecas escolares están íntimamente relacionadas con la educación formal, obligatoria en todos aquellos países que pueden permitírselo, hasta 
+				la llegada a la educación superior.
+			</para>
+			<para>
+				Esta educación se da en las momentos más cruciales del desarrollo humano en que la persona está más abierta a influencias y a la asimilación de comportamientos, 
+				actitudes, habilidades, información, estímulos... que transformará en conocimiento indeleble, que perdurará durante toda la existencia. ¿Quién no se ha rebelado 
+				ante la idea de que algo que era un planeta en nuestra infancia ya no lo sea, o porque le cambien el número de continentes que conforman la misma Tierra? ¿Quién 
+				por otra parte no se ha introducido a lo largo de su trayectoria vital en aquellas disciplinas en que formaba aquella maestra genial o por el contrario rechazar 
+				de plano otras que –aunque respondían a sus intereses– fueron truncadas por un profesor incompetente?
+			</para>
+			<para>
+				Las personas que son formadas en la educación primaria y secundaria son los futuros formadores, los investigadores del mañana, los trabajadores, los 
+				planificadores, los artistas, los políticos, los que compondrán las asociaciones de profesionales, los que participarán en la elaboración de las leyes... 
+				los profesionales de la información.
+			</para>
+			<tip>
+				<title>Decálogo para sobrevivir en la era de la información</title>
+				<orderedlist>
+					<listitem>
+						<para>
+							<emphasis role="strong">Buscarás la información</emphasis> de manera crítica y selectiva, para poder tomar las decisiones más adecuadas.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							<emphasis role="strong">Leerás</emphasis> siempre tratando de comprender, construyendo un contexto significativo nacido de la confrontación 
+							de tu texto (conocimiento previo) con el texto escrito.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							<emphasis role="strong">Escribirás</emphasis> de manera argumentada, tratando de convencer en todo momento con razones.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							<emphasis role="strong">Automatizarás</emphasis> lo rutinario y dedicarás la mayor parte de tus esfuerzos a pensar en aquello que sea relevante.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							<emphasis role="strong">Analizarás</emphasis> los problemas de forma rigurosa y concienzuda para poder expresar tus opiniones de manera razonada.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							<emphasis role="strong">Escucharás</emphasis> con atención, tratando de comprender lo que te dicen para lograr conversar con propiedad y hacer 
+							comprensible lo que dices.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							<emphasis role="strong">Hablarás</emphasis> con claridad, convencimiento y rigor, intentando que tus interlocutores asuman tus ideas y sentimientos.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							<emphasis role="strong">Crearás</emphasis> empatía con los demás de forma que puedas compartir sentimientos, fines y estrategias.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							<emphasis role="strong">Cooperarás</emphasis> en el desarrollo de tareas comunes como medio para lograr también el éxito individual.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							<emphasis role="strong">Te fijarás</emphasis> metas razonables que te permitan superarte día a día.
+						</para>
+					</listitem>
+				</orderedlist>
+				<para>
+					Estas diez competencias se encierran en dos
+				</para>
+				<orderedlist>
+					<listitem>
+						<para>
+							<emphasis role="strong">Deberás conocerte a ti mismo,</emphasis> saber lo que sabes y lo que desconoces, lo que puedes y no puedes hacer, 
+							lo que quieres y lo que no, porque sólo así podrás superarte
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							<emphasis role="strong">Deberás quererte a ti mismo,</emphasis> valorarte y estimarte, pero también exigirte, porque sólo así los demás te 
+							querrán, te valorarán y te estimarán, y de está manera también podrás superarte. 
+						</para>
+					</listitem>
+				</orderedlist>
+			</tip>
+			<para>
+				Monereo, Carles y Pozo, Juan Ignacio: ¿En qué siglo vive la escuela?: el reto de la nueva cultura educativa. Cuadernos de Pedagogía, n. 298, enero de 
+				2001, p. 50-55.
+			</para>
+			<para>
+				La idea que extraigan de lo que es la información y del papel que en ella juegan las bibliotecas será fundamental. Si éstas son vistas simplemente como 
+				algo adicional y superfluo así será su visión de las bibliotecas futuras; si las contemplan como el espacio donde acudir con sus apuntes para estudiar 
+				dos días antes de la recuperación de las asignaturas suspendidas eso será lo que pedirán a las bibliotecas de su mañana; si por el contrario las experimentan 
+				como un espacio de desarrollo personal, íntimamente ligado a los sistemas de aprendizaje, con flexibilidad para adaptarse a los cambios, con posibilidades 
+				de intercambio con compañeros, profesores y profesionales bibliotecarios, eso será lo que exijan en su futuro de adultos o cuando atraviesen la etapa en 
+				la que estarán conformándose definitivamente como investigadores, educadores, artistas o ciudadanos.
+			</para>
+			<para>
+				Por eso pensamos que las bibliotecas escolares son la clave ya no para el desarrollo bibliotecario de cualquier país sino elemento fundamental para el 
+				desarrollo social.
+			</para>
+			<para>
+				Y precisamente en España las bibliotecas escolares no existen. Que me perdonen los que con gran esfuerzo han conseguido mantener adelante ejemplos honrosos. 
+				Lo que quiero decir es que no existen como sistema, como estructura planificada y eficiente, integrada en los planes de estudio.
+			</para>
+			<para>
+				¿Será por eso por lo que nuestro país presenta un retraso (aunque sin obviar logros importantes en los últimos tiempos) en los sistemas 
+				bibliotecarios<footnote><para>Las bibliotecas escolares no están representadas en el Sistema de Bibliotecas de España.</para></footnote> ante países de similar 
+				nivel económico como pueden ser los escandinavos o los más desarrollados del mundo anglosajón en los que las bibliotecas llegan a ser clave hasta en las 
+				películas de Hollywood<footnote><para>Nos viene a la mente “Seven”, que precisamente vimos una noche antes de un examen de temas de una oposición.</para></footnote>.
+			</para>
+			<para>
+				Para que se produzca un cambio tiene que haber previamente uno en la cultura docente. Fundamentalmente <quote>se precisa que el profesorado logre una inclusión 
+				de la biblioteca en sus estrategias de enseñanza, que la biblioteca entienda y sepa atender sus necesidades, y le ofrezca propuestas que le ayuden a 
+				satisfacerlas</quote> (Gloria Durbán, 2008). Además “la implementación de la biblioteca escolar pasa por iniciar un proceso de trabajo en la escuela que persiga 
+				no únicamente su desarrollo estable, sino también su consolidación como recurso educativo útil”.
+			</para>
+			<para>
+				La importancia de las bibliotecas escolares y su situación se muestra en los debates que de forma cíclica se producen en listas de distribución profesionales 
+				como Iwetel. Recientemente <emphasis role="strong">José Antonio Gómez</emphasis> (2009), con su demostrada capacidad de síntesis, nos regaló un estado de la 
+				cuestión acerca de la situación de las bibliotecas escolares.
+			</para>
+			<para>
+				Algunos de los problemas que existen respecto a ella son:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						Su inexistencia en muchos casos, a pesar de que la LOE<footnote><para>A juicio de Aurora Cuevas (2007; p. 169) la ley omite “puntos fundamentales, como 
+						son los recursos humanos, las infraestructuras y el modelo de BE”,</para></footnote> (2006) determina que “los centros de enseñanza dispondrán de una 
+						biblioteca escolar”
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						La escasa dotación, que se fundamenta en el libro tradicional. En ocasiones, cuando se plantea el uso de las TIC en la escuela en vez de impulsar la 
+						implantación de las bibliotecas escolares lo que hacen es sustituirla. No obstante, comienzan a incluirse en las ayudas para bibliotecas escolares 
+						&lt;<link xl:href="http://www.boe.es/boe/dias/2009/05/25/pdfs/BOE-A-2009-8643.pdf"/>&gt;.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Su utilización casi exclusivamente para tareas de lectura<footnote><para>Se puede ver claramente cómo la lectura aparece en casi todos los modelos. 
+						En buena medida porque una lectura crítica es el fundamento de todas las demás competencias; pero no está de más recordar cómo la lectura ya no se 
+						puede entender como hasta ahora (sobre todo en los niveles escolares) ligada únicamente a la cultura impresa.</para></footnote>, sin implicación 
+						de la mayor parte de las asignaturas o áreas del conocimiento. 
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Su no utilización por los profesores como elemento en la formación, ni siquiera como medio para potenciar los recursos de información.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						La no existencia de profesionales debidamente preparados, que las deja a la buena voluntad de determinados profesores, que además pueden convalidar 
+						alguna hora de clase. Esto tiene otra implicación: el tiempo y el momento de apertura son restringidos, dado que los alumnos (y los profesores) 
+						tienen calendarios muy compactos y estructurados en los que apenas hay resquicios para acercarse a la biblioteca. Esto se solucionaría planteando 
+						actividades de clase que tengan en cuenta la biblioteca y considerando su uso como algo transversal, y por tanto, adecuado para cada una de las 
+						disciplinas. Es la clave en realidad para casi todos los problemas de las bibliotecas escolares: dotarlas de sentido dentro de la enseñanza. Si esto no 
+						se hace, aunque haya medios y profesionales preparados podemos encontrarnos con espacios abiertos y vacíos.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						La no aparición de las competencias de información y digitales en el currículo, aunque sí se han incluido en la educación: “Tratamiento de 
+						la información y competencia digital” (como hemos mencionado en el apartado dedicado a los bibliotecarios en este capítulo).
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Todo ello evidencia que las autoridades académicas no han dado el valor que tiene a la biblioteca escolar.
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				<emphasis role="strong">Félix Benito</emphasis> (2001) es referencia obligada en todo lo que tiene que ver con la biblioteca escolar en relación con la ALFIN. 
+				Seguidor de Bernal, desarrolló el concepto de educación documental, como en su obra <citetitle pubwork="book">La educación documental en la biblioteca escolar</citetitle>
+				&lt;<link xl:href="http://www.cnice.mecd.es/recursos2/bibliotecas/html/encuen/art3.htm"/>&gt; que es importante por varias razones:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						Nos define lo que es educación documental, entendida como enseñanza transversal esencial para el aprendizaje a lo largo de la vida.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Desglosa los contenidos que se corresponden con las variables en torno a las que se articula la educación documental: pensamiento, información y 
+						valores. Esos contenidos deberán ser implementados en el currículum escolar.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Nos describe qué actividades se pueden realizar en la biblioteca escolar para conseguir enseñar a pensar, enseñar a informarse y aprender a vivir. 
+						Las actividades son numerosas y constituyen perfectamente el contenido de un programa de alfabetización informacional. Además diferencia entre 
+						educación infantil, educación primaria y educación secundaria.
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				<emphasis role="strong">Aurora Cuevas</emphasis> (2007) publicó <citetitle>Lectura, alfabetización en información y biblioteca escolar</citetitle>, en buena medida 
+				fruto de su tesis doctoral. En ella nos acerca a la documentación que existe para la educación<footnote><para>Incluye el esquema de Marqués Graels para analizar 
+				los recursos educativos.</para></footnote> y a su implicación con las tecnologías, hace un repaso sobre la historia de la ALFIN<footnote><para>Recoge en su 
+				integridad las principales declaraciones de la ALFIN.</para></footnote>, nos aproxima al concepto de CRA (o CREA) y aporta un modelo de ALFIN basado en la promoción 
+				de la lectura que después describiremos más detenidamente.
+			</para>
+			<para>
+				El concepto de CREA (Centro de Recursos para la Enseñanza y el Aprendizaje)<footnote><para>Véase 
+				&lt;<link xl:href="http://www.juntadeandalucia.es/averroes/bibliotecaescolar/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=55&amp;Itemid=55"/>&gt;.</para></footnote> 
+				o CRA (Centro de Recursos para el Aprendizaje)<footnote><para>Véase &gt;<link xl:href="http://www.bibliotecas-cra.cl/preguntas/index.html"/>&gt;.</para></footnote>
+				pretende estar incluido en el proyecto educativo y en el programa del centro. Aurora Cuevas (2007; p. 178) lo define así <quote>El CRA enriquece la noción tradicional 
+				de BE al definirse como un <emphasis role="strong">nuevo espacio educativo dinámico</emphasis>, no mero gestor de recursos educativos, sino ámbito para una metodología 
+				didáctica activa, interdisciplinar y adaptada a la diversidad de entornos y aprendizajes; centro suministrador, organizador de saberes y potenciador del autoaprendizaje, 
+				no complemento del currículum académico, sino parte integrante de él. Un espacio-entorno para la formación, la información, el entretenimiento, el intercambio y el 
+				conocimiento</quote> y contempla –en buena medida como hacen los CRAI universitarios– espacios diferentes a los tradicionales con zona de ordenadores conectados a 
+				Internet, laboratorios de idioma y multimedia, áreas de facilidades tecnológicas, de trabajo en grupo, área cultural y recreativa, con recursos virtuales educativos 
+				normalizados (repositorios), depósitos de materiales docentes, recursos digitales... y recursos humanos profesionales.
+			</para>
+			<para>
+				<emphasis role="strong">Gloria Durban</emphasis> (2009) cree que lo “relevante es la función educativa de la biblioteca como entorno de aprendizaje... y elemento de apoyo 
+				para la mejora del desarrollo del currículo”, por eso ha creado un espacio Web con el título <citetitle pubwork="webpage"><emphasis role="strong">La biblioteca escolar 
+				como herramienta educativa: una herramienta para el desarrollo de prácticas lectoras y habilidades intelectuales</emphasis></citetitle> &lt;<link xl:href="http://www.bibliotecaescolar.info/castellano.htm"/>&gt; 
+				con diferentes apartados que proporcionan las claves para entender la situación y los problemas de la biblioteca escolar, suministran acceso a recursos de muy variada 
+				índole que están siendo utilizados en las bibliotecas escolares, materiales didácticos (mapas conceptuales, itinerarios formativos, tutoriales)... e incluso un modelo 
+				de aplicación de la competencia informacional &lt;<link xl:href="http://www.bibliotecaescolar.info/documents/competenciacastellano.pdf"/>&gt;). Incluye artículos suyos 
+				que sintetizan la situación actual de la biblioteca escolar con sus tensiones y sus problemas de implementación.
+			</para>
+			<para>
+				Acaba de publicar una obra de síntesis (Durban, 2010) en la que defiende la biblioteca escolar como vinculada a la práctica de la lectura y la competencia 
+				informacional<footnote><para>Consideradas como contenidos educativos esenciales en la LOE.</para></footnote> (p. 13) e integrada en el proyecto curricular y educativo del 
+				centro (p. 18), convirtiéndose en un recurso educativo más que un servicio bibliotecario (p. 20) que forma parte de la institución escolar. La biblioteca es considerada 
+				como una estructura organizativa estable, un entorno presencial de aprendizaje y lectura, un recurso educativo y un agente pedagógico interdisciplinario (p. 40).
+			</para>
+			<para>
+				La lectura (ligada al lenguaje) es un elemento básico en la creación del conocimiento y en la comunicación; pero no debe considerarse únicamente desde el punto de 
+				vista de la cultura impresa sino que es multimodal.
+			</para>
+			<para>
+				Por su parte, la competencia informacional está irremediablemente unida al concepto de multialfabetización (p. 89).
+			</para>
+			<para>
+				Su función estable de apoyo a la labor docente se reconoce mediante el elemento humano, que es fundamental: el coordinador de biblioteca, que debe ser un docente 
+				(p. 102), ya que debe trabajar físicamente fuera de ella y formar parte de la organización y planificación educativa, integrado en los procesos o proyectos de mejora. 
+				También colaborará directamente con el coordinador de las herramientas y recursos TIC.
+			</para>
+			<para>
+				La biblioteca se transforma en un laboratorio donde se experimenta (p. 31). Su labor vinculada a las actividades formativas del programa docente (proyecto curricular 
+				del centro) no es óbice para que pueda proporcionar “actividades, acciones y servicios para todo el centro” (p. 33) o para que funcione fuera del horario escolar, 
+				incluyendo a los familiares de los alumnos.
+			</para>
+			<para>
+				Una de las tensiones que manifiesta en varios de sus escritos es la influencia de Internet y su posible competencia con las bibliotecas escolares; cuando son 
+				recursos complementarios. No es algo que afecte únicamente a las bibliotecas escolares sino a toda la educación en sí, aunque no es este el lugar para profundizar 
+				en este aspecto. Es evidente que si la biblioteca se queda al margen de los nuevos modelos de creación y comunicación de la información no tendrá visibilidad alguna.
+			</para>
+			<para>
+				Hay múltiples recursos que ayudan a relajar dicha tensión:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						La <emphasis role="strong">página web de Pere Marqués</emphasis> &lt;<link xl:href="http://peremarques.pangea.org"/>&gt;, a quien hemos citado en diferentes 
+						momentos, que reflexiona sobre todo acerca de las tecnologías y la educación, las competencias, los recursos educativos...
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						El <emphasis role="strong">Instituto de Tecnologías Educativas</emphasis> &lt;<link xl:href="http://www.ite.educacion.es"/>&gt; , que también proporciona multitud 
+						de recursos, como ejemplo, el espacio “Buenas prácticas 2.0” &lt;<link xl:href="http://recursostic.educacion.es/buenaspracticas20/web"/>&gt;.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Siguiendo con el mundo Web 2.0 (al que también se refiere Pere Marqués) encontramos algunas sugerencias sobre cómo se puede aprovechar en el aula. Dos 
+						botones de muestra:
+					</para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								<emphasis role="strong">Bibliotecas 2.0 for profes</emphasis> ayuda a comprender lo que significa y lo que aporta, mostrando experiencias concretas.
+								&lt;<link xl:href="http://issuu.com/anto8/docs/bibliotecasdoscero" />&gt;
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								<emphasis role="strong">100 maneras de usar los medios de comunicación social en el aula</emphasis> que aunque parece ir dirigido a universitarios 
+								puede utilizarse perfectamente en Secundaria. &lt;<link xl:href="http://www.onlineuniversities.com/blog/2010/05/100-inspiring-ways-to-use-social-media-in-the-classroom"/>&gt;.
+							</para>
+						</listitem>
+					</itemizedlist>
+				</listitem>
+			</itemizedlist>
+			<para>
+				Sobre este aspecto, acaba de publicarse una Orden del Ministerio de Educación (Orden EDU/1465/2010, de 4 de junio 
+				&lt;<link xl:href="http://www.boe.es/boe/dias/2010/06/07/pdfs/BOE-A-2010-9026.pdf"/>&gt;) que crea un distintivo de calidad Sello Escuela 2.0. para reconocer el 
+				compromiso con el desarrollo y mejora de la calidad educativa mediante el uso de las TIC.
+			</para>
+			<section>
+				<title>Modelos y normas</title>
+				<para>
+					A lo largo de estas páginas ya hemos visto modelos y normas relacionados con las bibliotecas escolares.
+				</para>
+				<para>
+					Hay que volver a subrayar las normas que publicó la AASL para los estudiantes del siglo XXI, en el que se recogen todos los tipos de competencias necesarios, 
+					que agrupan las que a veces echan de menos los críticos con una ALFIN alejada de las TIC y las redes sociales.
+				</para>
+				<para>
+					También son importantes algunos de los modelos citados, en especial el de <emphasis role="strong">Eduteka</emphasis>, que como ya indicamos ha desarrollado una 
+					buena cantidad de ejemplos prácticos asociados a cada una de las partes del modelo, que incluye aspectos evaluativos en cada uno de los pasos y que además se 
+					inserta en un espacio web en el que acompaña a multitud de recursos interesantes para el aula. Puede impulsar a crear un modelo propio la iniciativa de 
+					<emphasis role="strong">Info-Paint</emphasis> llevada a cabo por alumnos.
+				</para>
+				<para>
+					Algunos ejemplos de modelos desarrollados en nuestro país son los siguientes: <emphasis role="strong">Félix Benito</emphasis> diseñó en 1996 lo que él llamó 
+					el <emphasis role="strong">modelo HEBORI</emphasis> (Habilidades y Estrategias para Buscar, Organizar y Razonar la Información) que cuenta con 5 módulos:
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>
+							Crítico-transformacional: conocer y reflexionar sobre los retos de la sociedad de la información y la necesidad de nuevas competencias
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Cognitivo-lingüístico: conocer los pasos necesarios para realizar un buen aprendizaje y mejorar las habilidades de comprensión lectora
+						</para>
+					</listitem>
+					<listitem>
+						<para>Documental-tecnológico:</para>
+						<itemizedlist>
+							<listitem>
+								<para>
+									Parte teórica: estudio y valoración del desa-rrollo histórico, los entornos y profesionales de la información
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									Parte práctica: realización de actividades sobre procedimientos documentales
+								</para>
+							</listitem>
+						</itemizedlist>
+					</listitem>
+					<listitem>
+						<para>
+							Estratégico-investigador: elaboración de proyectos cooperativos de trabajo, adoptando diferentes roles profesionales
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Creativo-transferencial: aplicación de los aprendizajes en otros contextos para mejorar los sistemas de organización de su entorno, así como 
+							los propios hábitos de planificación y organización
+						</para>
+					</listitem>
+				</itemizedlist>
+				<para>
+					Por otra parte, también confeccionó un diseño curricular para una <emphasis role="strong">asignatura titulada Información Documental y Aprendizaje</emphasis>
+					 para el País Vasco, en 1997.
+				</para>
+				<para>
+					<emphasis role="strong">Rosa Piquín</emphasis>  (2005) nos muestra lo que llama <emphasis role="strong">proyectos documentales integrados (PDI)</emphasis>
+					 en los que colaboran escuelas y bibliotecas.
+				</para>
+				<para>
+					Consisten en “pequeños trabajos de investigación en los que el alumnado trabaja directamente con la documentación (independientemente del soporte) aprendiendo 
+					a aprender y trabajar autónomamente”. <quote>El alumnado, además de investigar sobre un tema o problema concreto, se familiariza con los mecanismos de búsqueda de 
+					información y trabajo intelectual empleando para ello los recursos documentales de la Biblioteca Escolar... en los que no sólo se emplea la metodología de Trabajo 
+					por Proyectos (Kilpatrick, Dewey) sino que se pone el acento en la Alfabetización en Información (ALFIN), favoreciendo el acceso del alumnado a fuentes documentales 
+					diversas, fomentando y facilitando la lectura en la multiplicidad de textos y formatos que caracterizan el acceso a la información actualmente y, lo que es más 
+					importante, enseñando a procesarla y comunicarla.</quote> 
+				</para>
+				<para>
+					En varios de sus documentos (véase Piquín y Reina, 2005; o “Proyectos Documentales Integrados: una experiencia tecnológica entre bibliotecas y escuelas” 
+					&lt;<link xl:href="http://sol-e.com/plec/archivos/Docs_Bibliografias/rpiquin.pdf"/>&gt;) nos explica el significado de cada una de las tres palabras que 
+					forman el concepto: <emphasis role="strong">Proyecto</emphasis> (entroncando con la metodología del trabajo por proyectos, cuya clave es un trabajo de 
+					investigación premeditado que integra aprendizajes), <emphasis role="strong">Documental</emphasis> (emparentando documento con hacer, saber y comunicar) 
+					e Integrando la biblioteca escolar en las labores educativas de los centros.
+				</para>
+				<para>
+					Nos habla de hasta 7 pasos necesarios para diseñar este tipo de proyectos, aunque lo más interesante es ver cómo se aplican esos pasos a la realidad con 
+					ejemplos concretos:
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>Qué queremos hacer, averiguar... y por qué</para>
+					</listitem>
+					<listitem>
+						<para>Detectamos los conocimientos previos</para>
+					</listitem>
+					<listitem>
+						<para>Qué queremos saber (extraer el interés del asunto)</para>
+					</listitem>
+					<listitem>
+						<para>Seleccionamos los documentos y leemos la información</para>
+					</listitem>
+					<listitem>
+						<para>Se procesa la información</para>
+					</listitem>
+					<listitem>
+						<para>Se comunica o presenta la información</para>
+					</listitem>
+					<listitem>
+						<para>Se evalúa y se establece el trabajo definitivo</para>
+					</listitem>
+				</itemizedlist>
+				<para>
+					O también cuando establece aspectos organizativos que ayudan a programar los proyectos y aporta sugerencias interesantes que puedan atraer al alumno. Sin 
+					olvidar que pueden incorporar multitud de actividades diferentes o complementarse con otras, como las rutas de aprendizaje, los webquests...
+				</para>
+				<para>
+					Al tiempo que nos cuenta lo que es y conlleva un proyecto documental integrado utiliza ejemplos totalmente desarrollados. En concreto en los dos documentos 
+					citados, La Tierra Media y los cuentos tradicionales respectivamente.
+				</para>
+				<para>Pero hay más, y los enlazamos:</para>
+				<itemizedlist>
+					<listitem>
+						<para>
+							Ocho semanas y media para leer, reír, investigar y aprender: un proyecto documental integrado. El tema es el circo (incluye fotografías del proyecto) 
+							&lt;<link xl:href="http://www.plec.es/archivos/experiencias/ocho_semanas_y_media_para_leer_cpPabloIglesias.pdf"/>&gt;
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Música y cine: Proyecto documental integrado / interdisciplinar para desarrollar competencias lectoras y alfabetizar en información 
+							&lt;<link xl:href="http://sol-e.com/plec/documentos.php?id_seccion=5&amp;id_documento=126&amp;nivel=Secundaria&amp;PHPSESSID=ffb22e7cfc7ecbe56a9e7746cd31a140"/>&gt;
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							¿Qué pinto yo en todo esto? Velázquez y cía &lt;<link xl:href="http://congresos.cnice.mec.es/ceiie/area3/documentacion/comunicaciones/html/3comunicacion05.html"/>&gt;
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Sobre Arte: &lt;<link xl:href="http://www.plec.es/archivos/experiencias/PROYECTO_DOCUMENTAL_INTEGRADO_PRIMARIA_CP_PABLO_IGLESIAS.Piquin.pdf"/>&gt;
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Proyecto documental integrado: la generación del 27 (2009) &lt;<link xl:href="http://recursos.cepindalo.es/wiki/images/e/e9/LA_GENERACION_DEL_27.pdf"/>&gt;
+						</para>
+					</listitem>
+				</itemizedlist>
+				<para>
+					<emphasis role="strong">Gloria Durban</emphasis> (2006) ha creado un <emphasis role="strong">modelo de competencia en el acceso y uso de la información para la 
+					Educación Primaria y Secundaria</emphasis> con tres ámbitos<footnote><para>Puede verse también en Durban (2010, p. 90-93).</para></footnote> (búsqueda y 
+					recuperación de la información, análisis y tratamiento y comunicación y aplicación) que reúnen los elementos clásicos de la ALFIN: reconocer la necesidad de 
+					información, comprensión de los recursos disponibles, localización y recuperación de la información, evaluación de los resultados y del proceso de búsqueda, 
+					analizar, organizar y registrar los contenidos seleccionados, transformar la información en conocimiento personal, actuar con ética y responsabilidad en sus 
+					uso y comunicar y aplicar los resultados correctamente.
+				</para>
+				<para>
+					Por su parte <emphasis role="strong">Aurora Cuevas y Miguel Ángel Marzal</emphasis>  (2007) han desarrollado un <citetitle><emphasis role="strong">Modelo de 
+					alfabetización en información para la promoción de la lectura en la biblioteca escolar</emphasis></citetitle> estableciendo tres categorías:
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>Alfabetización, información y lectura,</para>
+					</listitem>
+					<listitem>
+						<para>Lectura y aprendizaje</para>
+					</listitem>
+					<listitem>
+						<para>Perfeccionamiento personal y lectura</para>
+					</listitem>
+				</itemizedlist>
+				<para>
+					Estas 3 categorías recogen 7 objetivos, que se han identificado con 7 normas, cada una con sus respectivos indicadores, hasta completar un total de 26.
+				</para>
+				<para>Estos son los 7 objetivos:</para>
+				<itemizedlist>
+					<listitem>
+						<para>Hacer que la lectura se convierta en la llave maestra de la información</para>
+					</listitem>
+					<listitem>
+						<para>Convertir a la lectura en un instrumento indispensable para construir conocimiento</para>
+					</listitem>
+					<listitem>
+						<para>Contemplar la lectura desde una perspectiva amplia, no reduccionista</para>
+					</listitem>
+					<listitem>
+						<para>Hacer de la lectura un instrumento clave para la comunicación</para>
+					</listitem>
+					<listitem>
+						<para>Fomentar la práctica de la lectura como fuente de aprendizaje y enriquecimiento lingüístico</para>
+					</listitem>
+					<listitem>
+						<para>Considerar la lectura como fuente de perfeccionamiento personal y enriquecimiento social y ético</para>
+					</listitem>
+					<listitem>
+						<para>Convertir la práctica lectora en fuente de placer.</para>
+					</listitem>
+				</itemizedlist>
+				<para>El modelo completo puede verse además en Cuevas (2007; p. 210-219).</para>
+			</section>
+		</section>
+		<section xml:id="ch06b3">
+			<title>Bibliotecas universitarias</title>
+			<para>
+				Son las bibliotecas que pertenecen a las instituciones encargadas de la enseñanza superior, en las que se conjugan la docencia, el aprendizaje y la investigación. 
+				Una de sus características es el uso de la información científica de manera intensiva, para producir nuevo conocimiento científico<footnote><para>No significa que 
+				en el resto no ocurra también; pero en otro tipo de bibliotecas (como las públicas) el esparcimiento puede ser el principal objetivo.</para></footnote>.
+			</para>
+			<para>
+				Las bibliotecas universitarias tienen mucho en común con las <emphasis role="strong">especializadas</emphasis>; sobre todo cuando existen bibliotecas de centro 
+				(una facultad o escuela universitaria) o de área (Ciencias Sociales, Humanidades...) y no son generales. Esto requiere adaptar los perfiles de la colección, de 
+				los bibliotecarios... a las peculiaridades de quienes trabajan en una determinada área. Es conocida la diferenciación clásica que se hace entre los investigadores 
+				de los campos de las ciencias y los de las humanidades, en cuanto a la forma de comportarse en la búsqueda y uso de la información, en el tipo de documentos más 
+				utilizados, en la obsolescencia de la información e incluso en las pautas de publicación de la investigación. Aunque los medios tecnológicos van diluyendo las 
+				diferencias, no deja de ser verdad que un químico –por muchos artículos de revista que utilice o muy interesado que esté en las patentes– seguirá necesitando 
+				de un laboratorio; mientras que para un filólogo su laboratorio será la propia biblioteca.
+			</para>
+			<para>
+				Además confluyen <emphasis role="strong">muchos tipos de usuarios</emphasis> en las mismas áreas del conocimiento: en ocasiones por las diferencias de edad 
+				(que influyen en su hábito de uso de las TIC), en ocasiones por el propio carácter de cada cual ya que hay quien desea conseguir por sí mismo las cosas, mientras 
+				que otros esperan que les llegue todo procesado; en otras, por el diferente papel que desempeñan en la institución: son los que enseñan, los que aprenden, los 
+				que ayudan e investigan... En este aspecto hay que contemplar la movilidad de los estudiantes al mismo tiempo que el aprendizaje a lo largo de la vida ha impulsado 
+				la afluencia a lo que a veces se conoce como la universidad para mayores.
+			</para>
+			<para>
+				La biblioteca universitaria está <emphasis role="strong">cambiando</emphasis>; en ocasiones lentamente, en otras de manera abrupta. A menudo son un poco rehenes 
+				de su propia historia: aquéllas que tienen una mayor tradición y complejidad son las que encuentran más dificultades para cambiar; las de nueva creación y pocas 
+				disciplinas, cuentan con menos bagaje documental acumulado pero con una flexibilidad mayor a la hora de adaptarse a las nuevas situaciones. No deja de ser cierto 
+				que aquellos que llegan más tarde a una actividad encuentran en la experiencia de los que les precedieron las pautas para equivocarse menos y progresar más deprisa.
+			</para>
+			<para>
+				También tienen experiencia en la <emphasis role="strong">implantación de los nuevos adelantos técnicos</emphasis>; especialmente de las TIC; en buena medida porque 
+				están cercanas al lugar donde se desarrolla la investigación, lo que tiene como efecto que conozcan muy pronto los nuevos desarrollos y que estén constantemente 
+				alerta buscando nuevas fórmulas que potencien la propia investigación.
+			</para>
+			<para>
+				Una idea de la <emphasis role="strong">importancia que tiene la ALFIN para las bibliotecas universitarias</emphasis> la proporciona el plan estratégico de la ACRL 
+				&lt;<link xl:href="http://www.ala.org/ala/mgrps/divs/acrl/about/whatisacrl/strategicplan/index.cfm"/>&gt;, en el que es mencionada directa e indirectamente. En el 
+				primer caso, en el objetivo estratégico dedicado al aprendizaje mediante el desarrollo de normas de ALFIN, defendiendo ante autoridades educativas la importancia 
+				de la tarea bibliotecaria para la enseñanza y el aprendizaje, y al potenciar las habilidades de los bibliotecarios para crear y gestionar espacios y servicios 
+				físicos y virtuales como entornos para el descubrimiento. Indirectamente en los objetivos dedicados al aprendizaje continuo, a las TIC o a la actividad creativa, 
+				a la enseñanza y la investigación.
+			</para>
+			<tip>
+				<para>
+					Se defiende ante las autoridades educativas la importancia de la tarea bibliotecaria para la enseñanza y el aprendizaje.
+				</para>
+			</tip>
+			<para>
+				Las <emphasis role="strong">tareas relacionadas con la ALFIN</emphasis> tienen una larga experiencia en lo que se ha conocido tradicionalmente como formación de 
+				usuarios, con el debate consabido de si lo más adecuado era dar una caña o enseñar a pescar (o incluso ambas cosas):
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>han diseñado cursos de formación con diferente profundidad (de iniciación, especializados, a la carta),</para>
+				</listitem>
+				<listitem>
+					<para>realizado visitas guiadas (que entroncan más con el marketing pero que bien orientadas forman),</para>
+				</listitem>
+				<listitem>
+					<para>creado guías de uso, de servicios y de recursos,</para>
+				</listitem>
+				<listitem>
+					<para>elaborado tutoriales...</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				En la actualidad se está dando una nueva orientación a todo ello, utilizando las plataformas de campus virtual (o aula virtual o como quiera que cada cual las 
+				llame), diferente software que permite grabar lo que se hace con el ordenador, crear tutoriales... participando en el diseño de juegos que permitan aprender, 
+				utilizando herramientas 2.0 para ampliar el alcance de nuestra acción...
+			</para>
+			<para>
+				Y, sobre todo, se está incidiendo en que <emphasis role="strong">se incluya la ALFIN como competencia transversal en los planes de estudio de las universidades</emphasis>, 
+				lo que en unos casos crea roces con el profesorado<footnote><para>Cuando consideran que la función de los bibliotecarios no es la de formar y lo ven como una competencia 
+				(especialmente en las áreas que tienen que ver con la enseñanza de la biblioteconomía). También existe la situación contraria: bibliotecarios que piensan que son 
+				utilizados por los profesores de estas ramas para librarse de sus labores de docencia.</para></footnote> y en otros sinergias sumamente enriquecedoras.
+			</para>
+			<para>
+				Desde nuestro punto de vista hay una confluencia de varias cuestiones, ya mencionadas, que están creando algo diferente, con la unión de las <emphasis role="strong">competencias 
+				informacionales e informáticas (CI2)</emphasis> en un mundo de redes sociales (que están cambiando la propia concepción de la investigación y del aprendizaje, además 
+				de la generación de información). Nieves González &lt;<link xl:href="http://www.slideshare.net/nievesglez/competencias-informticas-e-informacionales"/>&gt;, lo ha 
+				sabido ver muy bien, está trabajando sobre la cuestión y esperamos que dentro de poco nos proporcione una buena síntesis.
+			</para>
+			<para>
+				En España, todo lo relacionado con las bibliotecas universitarias está coordinado por <emphasis role="strong">REBIUN</emphasis> (Red Española de Bibliotecas 
+				Universitarias<footnote><para>Incluye también las bibliotecas del CSIC (Consejo Superior de Investigaciones Científicas), que como su nombre indica es el 
+				principal organismo investigador de España.</para></footnote>).
+			</para>
+			<section xml:id="ch06b3a">
+				<title>El concepto de CRAI</title>
+				<para>
+					Del mismo modo que las bibliotecas escolares hablan de CREA, en el caso de las bibliotecas universitarias se habla de CRAI, o lo que es lo mismo, de Centro de 
+					Recursos para el Aprendizaje y la Investigación. De tal manera se reflejaba en el I Plan estratégico de REBIUN 2003-2006 y se reafirmaba en el II Plan Estratégico 
+					2007-2010.
+				</para>
+				<para>
+					La biblioteca debería ser una parte fundamental de un CRAI en el que se integrarían diferentes servicios de la propia universidad, para conseguir un efectivo 
+					apoyo a la docencia y la investigación. Esto motivó que se redefiniera el concepto de biblioteca, que pasaría a ser “un centro de recursos para el aprendizaje, 
+					la docencia, la investigación y las actividades relacionadas con el funcionamiento y la gestión de la Universidad / Institución en su conjunto.
+				</para>
+				<para>
+					La Biblioteca tiene como misión facilitar el acceso y la difusión de los recursos de información y colaborar en los procesos de creación del conocimiento, a 
+					fin de contribuir a la consecución de los objetivos institucionales
+				</para>
+				<para>
+					Es competencia de la Biblioteca seleccionar y gestionar los diferentes recursos de información con independencia del concepto presupuestario, del procedimiento 
+					con el que hayan sido adquiridos o de su soporte material.” &lt;<link xl:href="http://www.rebiun.org/opencms/opencms/handle404?exporturi=/export/docReb/d50.pdf&amp;%5d"/>&gt;
+				</para>
+				<para>
+					El CRAI uniría a las funciones tradicionales de la biblioteca, secciones especiales de idiomas, el apoyo de expertos (pedagogos, psicólogos...) para hacer más 
+					asimilables los aprendizajes, espacios menos encorsetados, donde el estudio no se vea exclusivamente con el silencio de lo sagrado, colecciones que no se 
+					centran únicamente en el papel, mobiliario y superficies modulares que permiten los cambios y la adaptación para diferentes cometidos: trabajo en grupo, 
+					presentaciones, actuaciones, exposiciones, utilización del juego como medio de aprendizaje, edición de materiales multimedia y digitales, generación de objetos 
+					de aprendizaje... Y un bibliotecario que acentúa más alguno de sus perfiles; como el que aquí nos ocupa fundamentalmente, de formador (o ayudante en la formación) 
+					ya que el corazón de la biblioteca se desplaza de la colección al usuario, a la persona en definitiva, que debe aprender a lo largo de toda la vida.
+				</para>
+				<para>
+					Dídac Martínez (2003) mostró de manera clara y reveladora qué es un CRAI, incluyendo enlace a algunos ejemplos de estos centros en el mundo anglosajón donde su 
+					nombre suele ser algo similar a <emphasis>Learning Resource Center</emphasis> (LCR).
+				</para>
+				<para>
+					Las maneras de conseguir el CRAI son diferentes: confluencia de servicios, integración de los mismos, cooperación cuando no es posible otro sistema... En algunos 
+					casos, como en la Universidad Pompeu Fabra la misma persona es al mismo tiempo directora de la biblioteca y de los servicios informáticos (dos de los elementos 
+					más importantes para el desarrollo del CRAI); en otros, aunque no se han unificado, han traspasado algunas actividades propias de los sistemas informáticos a 
+					la biblioteca, como en el caso de la Universidad Carlos III. También hay bibliotecas universitarias que han adoptado directamente esa denominación como las de 
+					la Universidad de Deusto y la Universidad de Barcelona.
+				</para>
+				<para>
+					REBIUN ha apostado por este modelo, como hemos dicho y buena parte de sus actividades han girado en torno a él, como se demuestra con las sucesivas jornadas 
+					CRAI que se han desarrollado en los últimos años.
+				</para>
+				<para>
+					Dentro de REBIUN se han creado diferentes grupos de trabajo que responden en buena medida a las líneas estratégicas de la red de bibliotecas. Uno de ellos es el 
+					Grupo de Trabajo en Alfabetización informacional.
+				</para>
+			</section>
+			<section xml:id="ch06b3b">
+				<title>Grupo de Trabajo de ALFIN de REBIUN</title>
+				<para>
+					Este grupo de trabajo &lt;<link xl:href="http://www.rebiun.org/temasdetrabajo/alfin.html"/>&gt; está implicado en su línea estratégica 1 dedicada al aprendizaje. 
+					Podríamos resumir su labor en dos vías paralelas y complementarias:
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>
+							La que intenta agrupar el trabajo de todas las bibliotecas universitarias, algunos de cuyos frutos han sido la traducción y adaptación de buenas 
+							prácticas (ver modelos), su inclusión en ALFARED o los encuentros de responsables de ALFIN de bibliotecas universitarias.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							La cooperación con CRUE-TIC &lt;<link xl:href="http://crue-tic.uji.es/index.php?option=com_remository&amp;Itemid=28&amp;func=select&amp;id=17"/> de cuya 
+							labor han surgido varios documentos, vídeos y una serie de Jornadas.
+						</para>
+					</listitem>
+				</itemizedlist>
+				<section>
+					<title>Trabajo con bibliotecas universitarias</title>
+					<para>
+						Como uno de los principales objetivos es crear planes de formación en competencias que se integren en los planes de estudio, se ha buscado la implicación con 
+						los profesores para encontrar un lugar en el EEES. En este sentido destaca la obra de Manuel Area (2007) en la que se defiende:
+					</para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								Los estudiantes tienen que tener actitud favorable hacia el cambio y competencias y conocimientos adecuados para resolver problemas.
+							</para>
+						</listitem>
+						<listitem>
+							<para>Los estudiantes son los protagonistas del proceso de aprendizaje.</para>
+						</listitem>
+						<listitem>
+							<para>Las TIC son esenciales.</para>
+						</listitem>
+						<listitem>
+							<para>El modelo de docencia es semipresencial y multiespacial.</para>
+						</listitem>
+						<listitem>
+							<para>La biblioteca como CRAI incluyendo la ALFIN y convirtiéndose en espacio de socialización.</para>
+						</listitem>
+						<listitem>
+							<para>
+								La adquisición de competencias informacionales debe estar incluida en la formación universitaria mediante la cooperación de docentes y bibliotecarios.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								La inclusión de esta formación puede hacerse por muy diferentes vías: asignatura transversal, asignaturas o seminarios con créditos, distribución 
+								transversal en diferentes asignaturas, cursos concretos sobre aspectos específicos de las competencias.
+							</para>
+						</listitem>
+						<listitem>
+							<para>La formación en competencias es necesaria también para investigadores y docentes.</para>
+						</listitem>
+					</itemizedlist>
+					<para>
+						Además se ha realizado un trabajo de recopilación de la información pertinente sobre normas y recursos de ALFIN, se han traducido y adaptado algunos documentos.
+					</para>
+					<para>
+						Varios de sus miembros se han incorporado al Grupo de Trabajo de ALFIN del Consejo de Cooperación Bibliotecaria<footnote><para>Véase 
+						&lt;<link xl:href="http://www.mcu.es/bibliotecas/MC/ConsejoCB/GruposTrabajo/GT_Alfabetizacion.html"/>&gt;</para></footnote> e intervienen en ALFARED, cuyo 
+						espacio específico de bibliotecas universitarias &lt;<link xl:href="http://www.alfared.org/page/bibliotecas-universitarias/632"/>&gt; pretende convertirse 
+						en una especie de repositorio de todos los recursos y buenas prácticas que existen en las bibliotecas universitarias españolas.
+					</para>
+					<para>
+						Un hito importante han sido los Encuentros de responsables de ALFIN de bibliotecas universitarias. El primero tuvo lugar en Mayo de 2009 en Madrid. Se utilizó 
+						un blog &lt;<link xl:href="http://www.ucm.es/BUCM/blogs/ALFINREBIUN/"/>&gt; para preparar el encuentro y también para volcar en él sus resultados. Los 
+						asistentes se dividieron en varios grupos de trabajo encargados de analizar diferentes aspectos de la ALFIN. En su resumen final 
+						&lt;<link xl:href="http://www.rebiun.org/export/docReb/jornada_trabajo_alfin.doc"/>&gt; se recogieron propuestas y reflexiones:
+					</para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								El concepto de ALFIN implica seguimiento y evaluación del proceso y consecución del espíritu crítico. Debe formar parte de las titulaciones como 
+								competencia transversal y contemplar las competencias informáticas e informacionales, colaborando con docentes e informáticos.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Las estrategias más adecuadas a diferentes niveles para conseguirlo deben contemplar el marketing (su actividad debe llegar a toda la comunidad 
+								universitaria), la implicación del personal, la colaboración con otros tipos de bibliotecas, la formación de docentes y la incorporación de las 
+								nuevas metodologías docentes en la formación de los bibliotecarios.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								La biblioteca debe liderar proyectos de ALFIN en su institución dentro del EEES, intercambiar experiencias con otras bibliotecas y ver reconocido 
+								su papel por parte de las instituciones.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Hay que diseñar una oferta formativa atractiva, integrada en el currículum y ser proactivos con ella, colaborando con docentes y sin olvidar al PAS.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								La formación presencial (no sesiones muy largas para primeros ciclos y más extensas para profesores e investigadores) debe combinarse con la virtual, 
+								utilizando las plataformas docentes y elaborando herramientas de autoaprendizaje para los usuarios, que hagan uso de las herramientas 2.0 y de las 
+								redes sociales (manteniéndose alerta sobre la web 3.0), que son las que están utilizando los alumnos en su cotidianeidad. No son un fin en sí mismo; 
+								pero son necesarias, por lo que hay que experimentar y planificar...
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Los materiales formativos deben ser reutilizados al mismo tiempo que debemos ser capaces de ofrecer materiales didácticos para convertirnos en 
+								aliados útiles para el PDI.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Nuestros aliados internos son los profesores; pero también los cargos académicos, los alumnos, los informáticos, los órganos de gobierno, las 
+								Comisiones de Biblioteca y la propia dirección de la biblioteca.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Debemos cooperar con otras unidades de la Universidad (con el ICE, las delegaciones de alumnos...) conseguir participación y promoción.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Cooperación entre bibliotecas, universidades y otras instituciones (centros de secundaria, centros de formación del profesorado, empresas que contratan 
+								a estudiantes).
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Aprovechar sinergias entre redes y consorcios, participar en jornadas, intercambiar experiencias y materiales con otras bibliotecas no universitarias, 
+								participar en asociaciones internacionales y buscar el mecenazgo.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								El nuevo perfil del bibliotecario debe incluir la ALFIN como una de su actividades prioritarias: los bibliotecarios son personal formador no docente, 
+								que debe adaptar su perfil y recibir formación de formadores, con énfasis en materiales multimedia, la web 2.0... Además debe ser reconocido 
+								profesionalmente por diferentes vías, motivado e integrado en grupos de trabajo multidisciplinares.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Se propone crear un grupo estable en REBIUN cuando acabe el actual plan estratégico, fomentar la colaboración en ALFARED, crear grupos de trabajo 
+								en las universidades y colaborar a nivel REBIUN en la formación de bibliotecarios. A nivel interno se propone crear grupos transversales.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Imprescindible estar cerca de nuestros usuarios para saber qué necesitan, qué quieren, cómo lo quieren.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								ALFARED es una buena plataforma para compartir, establecer la comunicación, fomentar la colaboración y disponer de materiales y herramientas.
+							</para>
+						</listitem>
+					</itemizedlist>
+					<para>
+						El segundo encuentro ha tenido lugar el día 17 de junio de 2010 en Granada. Se ha utilizado en esta ocasión la plataforma Moodle, de una manera similar al 
+						Taller de 2008. En esta ocasión se ha pretendido compartir las experiencias positivas existentes en las universidades españolas, cuáles son los mecanismos 
+						para obtener algún reconocimiento curricular de la ALFIN, cuáles los problemas y cómo se podría colaborar.
+					</para>
+					<para>
+						Un primer efecto positivo es que algunos de los ejemplos más característicos de nuestras universidades están en abierto. Una vez finalizado el Taller, la 
+						línea 1 de REBIUN determinará dónde y cómo estarán disponibles los materiales.
+					</para>
+					<para>
+						Las principales conclusiones a las que se llegó fueron las siguientes:
+					</para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								Las competencias informacionales e informáticas así como las relacionadas con el trabajo cooperativo forman parte de lo que debería convertirse 
+								en una competencia transversal, incluida en el complemento al título y las guías docentes; aunque existen diversas posibilidades de conseguirlo.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Tenemos los mismos problemas y afrontamos similares situaciones. A pesar de que no existe una única solución –o precisamente por ello– debemos 
+								aprovechar todas las oportunidades y aprender los unos de los otros, compartiendo experiencias.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								La planificación de la ALFIN es esencial. Tiene que partir de la realidad con la que contamos y estar preparada para aportar soluciones ante 
+								cualquier situación.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Los aliados son fundamentales, destacando entre ellos el PDI, con especial protagonismo de los coordinadores de los grados. Sin olvidar al 
+								resto de los servicios universitarios.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Los alumnos no son los únicos destinatarios de la formación; el PDI también necesita reciclar sus competencias, además de adaptar sus 
+								metodologías y la Biblioteca puede apoyar en dicho reciclaje.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Los bibliotecarios deben afrontar los cambios tecnológicos, los nuevos retos que suponen y su función como formadores o de apoyo en la 
+								formación. Es fundamental programar la formación para formar en competencias (“para formar hay que estar formados”).
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								La evaluación de las competencias es fundamental porque permite mejorar y comprobar que se consiguen los objetivos. Es más adecuada cuando se realiza 
+								mediante un proceso prolongado en el tiempo.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								La difusión de la formación en competencias es fundamental: debe segmentarse según destinatarios para ser efectiva. En este sentido es también 
+								esencial difundir los logros de la formación para conseguir la visibilidad de las acciones que realiza la Biblioteca.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Debemos hacer uso de todas las herramientas que tenemos a nuestra disposición; especialmente de las plataformas docentes.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Debemos seguir utilizando la plataforma para incluir más experiencias, fomentando la publicación en abierto. Los responsables de la línea 1 
+								determinarán cómo se llevará a cabo.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Es importante que la CRUE sirva de paraguas de nuestras reivindicaciones.
+							</para>
+						</listitem>
+					</itemizedlist>
+				</section>
+				<section>
+					<title>Colaboración CRUE-TIC y REBIUN</title>
+					<para>
+						Ambas sectoriales de la CRUE iniciaron su colaboración en 2008. A finales de ese año se decidió que se constituyera un grupo de trabajo mixto permanente.
+					</para>
+					<para>
+						La primeras jornadas conjuntas tuvieron lugar en marzo de 2008 en la Universidad Politécnica de Valencia con el nombre de <citetitle>Jornadas Conjuntas 
+						de las Comisiones Sectoriales de la CRUE: Rebiun y TIC.</citetitle>
+					</para>
+					<para>
+						La segunda jornada fue en 2009, ya englobada dentro de las Jornadas CRAI de REBIUN, que eran las séptimas (las sextas, celebradas en Pamplona, tuvieron 
+						un alto componente ALFIN). Desde entonces han tenido lugar dos:
+					</para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								<citetitle><emphasis role="strong">VII Jornadas CRAI</emphasis></citetitle> (2009) “Competencias informacionales e informáticas en el ámbito 
+								universitario &lt;<link xl:href="http://138.100.200.6/eventos/JornadasCRAI/postseminario.html"/>&gt;. Se mostraron especialmente las buenas prácticas 
+								en bibliotecas universitarias españolas &lt;<link xl:href="http://www.ucm.es/BUCM/blogs/boletinbibliotecario/722.php"/>&gt;
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								<citetitle><emphasis role="strong">VIII Jornadas CRAI</emphasis></citetitle> (2010) “Aplicación en el mundo laboral de las competencias informacionales 
+								e informáticas (CI2)” &lt;<link xl:href="http://web.ua.es/es/jornadas-crai/postjornadas.html"/>&gt;. Se habló de qué es lo que se solicita en el 
+								mundo laboral, cómo se incorporan los egresados universitarios al mismo y qué experiencias se están dando para mejorarlo 
+								&lt;<link xl:href="http://www.ucm.es/BUCM/blogs/boletinbibliotecario/1716.php"/>&gt;.
+							</para>
+						</listitem>
+					</itemizedlist>
+					<para>
+						En el apartado de modelos se desarrolla el contenido del documento que redactó el grupo de trabajo mixto en que se defiende la inclusión de las competencias 
+						informáticas e informacionales en los planes de estudio; al tiempo que se menciona cuál podría ser el modelo CI2.
+					</para>
+					<para>
+						Por otra parte, este grupo también se ha encargado de la elaboración de <emphasis role="strong">dos vídeos para promocionar dichas competencias,</emphasis>
+						con dos destinatarios diferentes: uno más informal para los estudiantes y otro más formal para toda la comunidad universitaria. Están disponibles en:
+					</para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								Competencias informáticas e informacionales en un mundo digital (el “informal”) &lt;<link xl:href="http://130.206.3.200:8080/mpv/crue.html"/>&gt;
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Competencias informáticas e informacionales: ¿qué papel juegan las universidades? &lt;<link xl:href="http://130.206.3.200:8080/mpv/crue2.html"/>&gt;
+								Contiene entrevistas para divulgar la necesidad de las CI2 en el aprendizaje permanente
+							</para>
+						</listitem>
+					</itemizedlist>
+				</section>
+			</section>
+			<section xml:id="ch06b3c">
+				<title>“Modelos”: Buenas prácticas del CAUL y CI2</title>
+				<para>
+					Igual que sucede con el resto de la biblioteca, ya hemos hablado de normas y modelos sobre bibliotecas universitarias, e incluso de la adaptación de esos modelos 
+					a la realidad cambiante, como en el caso de SCONUL y las competencias digitales.
+				</para>
+				<section>
+					<title>Buenas prácticas para desarrollar la ALFIN</title>
+					<para>
+						En el caso concreto de REBIUN se ha optado por adaptar a las peculiaridades de España las buenas prácticas elaboradas por el CAUL (Council of Australian 
+						Universitiy Librarians) &lt;<link xl:href="http://www.rebiun.org/export/docReb/guia_buenas_practicas.doc"/>&gt; para desarrollar la ALFIN, buscando en 
+						buena medida la inclusión de las competencias informacionales dentro del currículo, ya que estas competencias son consideradas una responsabilidad de 
+						todos los componentes de la educación superior. Así lo recoge en sus diferentes apartados:
+					</para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								En la <emphasis role="strong">planificación estratégica</emphasis> se dirige al nivel institucional, diseñando y englobando las competencias de 
+								acuerdo con las normas institucionales y la visión de la institución, apoyando su adquisición, estableciendo mecanismos de comunicación en la 
+								comunidad universitaria e implicando a profesores, investigadores, bibliotecarios e informáticos.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								En la <emphasis role="strong">planificación administrativa</emphasis> una vez más implica a todas las instancias para conseguir fondos que doten 
+								de personal, recursos y formación continua, se reconozca y fomente la colaboración entre diferentes profesionales, se incorporen las competencias 
+								informacionales de manera formal dentro de los planes de estudios y además de permitir evaluar y mejorar se proporcione marketing y publicidad.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								En su <emphasis role="strong">implementación</emphasis> se refiere a la planificación y desarrollo de los planes de estudio, deteniéndose en las 
+								metas y objetivos (compatibles con los programas de la universidad), los resultados evaluables, los retos y oportunidades, la fusión de las 
+								competencias en el contexto académico, la colaboración en la enseñanza y el aprendizaje, la existencia de una buena práctica pedagógica o el 
+								establecimiento de diferentes niveles en la enseñanza de las competencias.
+							</para>
+						</listitem>
+					</itemizedlist>
+					<para>
+						Lo que debe realizar el personal implicado; entre ellas, promocionar las competencias informacionales y el aprendizaje a lo largo de la vida, aprender 
+						a elaborar planes de estudio y a evaluar, recibir formación y evaluaciones periódicas, intervenir en actividades divulgativas dentro y fuera de la 
+						universidad...
+					</para>	
+				</section>
+				<section>
+					<title>CI2: Competencias informáticas e informacionales</title>
+					<informalfigure xreflabel="Fig 38">
+						<mediaobject>
+							<imageobject fileref="resource/INF-5-040.jpg"/>
+						</mediaobject>
+						<caption>
+							<para>&lt;<link xl:href="http://bib.us.es/aprendizaje_investigacion/formacion/images/logo_ci2.PNG"/>&gt;</para>
+						</caption>
+					</informalfigure>
+					<para>
+						También se está desarrollando el modelo CI2, fruto de la colaboración entre sectoriales que hemos mencionado. En la imagen podemos ver la que han llamado la
+						<emphasis>Piedra Rosetta de CI2</emphasis> elaborada en la Universidad de Sevilla. Parece existir una dicotomía entre los soportes y los contenidos pero es 
+						sólo una ilusión: no se entienden unos sin otros, como ya mencionamos al comienzo del documento. Destacamos la inclusión de un apartado dedicado a la 
+						privacidad y seguridad de la información, consecuencia de la realidad que ha convertido a los consumidores en productores y de las posibilidades técnicas 
+						(que podrían parecer contrapuestas) de reutilización y de control de la información.
+					</para>
+					<informalfigure xreflabel="Fig 39">
+						<mediaobject>
+							<imageobject fileref="resource/INF-5-041.jpg"/>
+						</mediaobject>
+					</informalfigure>
+					<para>
+						Hemos comentado, de la mano de Nieves González (2010a), en el apartado de recapitulación sobre normas y definiciones cómo las competencias informacionales 
+						e informáticas se incluían bajo el concepto de competencias digitales.
+					</para>
+					<para>
+						<emphasis>
+							La competencia digital es la combinación de <emphasis role="strong">conocimientos, habilidades y capacidades,</emphasis> en conjunción con 
+							<emphasis role="strong">valores y actitudes,</emphasis> para alcanzar objetivos con eficacia y eficiencia en contextos y con herramientas digitales. 
+						</emphasis>
+					</para>
+					<para>
+						Fundamenta estas competencias digitales en 5 dimensiones que generan 5 capacidades.
+					</para>
+					<para>Las <emphasis role="strong">dimensiones</emphasis>, que están tomadas de Boris Mir, son:</para>
+					<orderedlist>
+						<listitem>
+							<para>Del <emphasis role="strong">aprendizaje</emphasis>: transformación de la información en conocimiento y su adquisición.</para>
+						</listitem>
+						<listitem>
+							<para>
+								<emphasis role="strong">Informacional</emphasis>: obtención, evaluación y tratamiento de la información en entornos digitales.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								<emphasis role="strong">Comunicativa</emphasis>: comunicación interpersonal y social.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								De la <emphasis role="strong">Cultura digital</emphasis>: las prácticas sociales y culturales de la sociedad del conocimiento y la ciudadanía digital.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								<emphasis role="strong">Tecnológica</emphasis>: alfabetización tecnológica y el conocimiento y dominio de los entornos digitales.
+							</para>
+						</listitem>
+					</orderedlist>
+					<para>
+						Y las <emphasis role="strong">5 capacidades asociadas a medios y entornos digitales:</emphasis>
+					</para>
+					<orderedlist>
+						<listitem>
+							<para>Aprender y generar conocimientos, productos o procesos.</para>
+						</listitem>
+						<listitem>
+							<para>Obtener, evaluar y organizar información en formatos digitales.</para>
+						</listitem>
+						<listitem>
+							<para>Comunicarse, relacionarse y colaborar en entornos digitales.</para>
+						</listitem>
+						<listitem>
+							<para>Actuar de forma responsable, segura y cívica.</para>
+						</listitem>
+						<listitem>
+							<para>Utilizar y gestionar dispositivos y entornos de trabajo digitales.</para>
+						</listitem>
+					</orderedlist>
+					<para>
+						Para una posible aplicación práctica del modelo, el grupo de trabajo mixto de REBIUN y CRUE-TIC aprobó un documento titulado <citetitle>Las competencias 
+						informáticas e informacionales en los estudios de grado</citetitle> (2009) en el que:
+					</para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								Abogan por su reconocimiento como competencias transversales en los estudios de grado que se desarrollan de acuerdo a los principios de Bolonia.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Se busca contribuir a la mejora de los nuevos modelos docentes al tiempo que incrementar el uso y aprovechamiento de los recursos técnicos y 
+								de información.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Se pretende redefinir la oferta formativa de los Servicios de Biblioteca e Informática.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Se definen lo que son las competencias informáticas e informacionales.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Se plantean diferentes modelos de integración en los planes de estudio.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Se proponen los contenidos generales que deberían incluir para –junto a los objetivos de aprendizaje– conseguir el objetivo general de “adquirir 
+								los conocimientos necesarios para desenvolverse en la Sociedad del Conocimiento y ser capaz de utilizar las TIC adecuadamente para así poder 
+								localizar, evaluar, utilizar y comunicar la información en cualquier ámbito de especialización” (p. 10).
+							</para>
+						</listitem>
+					</itemizedlist>
+				</section>
+			</section>
+			<section xml:id="ch06b3d">
+				<title>Buenas prácticas en bibliotecas universitarias españolas</title>
+				<para>
+					A veces suena extraño el concepto de buenas prácticas. Más que contraponerse a otras que se considerarían “malas” lo que se pretende es acudir a ejemplos que 
+					reúnen los criterios que se defienden a nivel general y que pueden servir de guía a quienes desean incluir determinadas actividades en sus centros. 
+					Mencionaremos, sin exhaustividad, algunas de ellas.
+				</para>
+				<para>
+					Si lo que se pretende es conseguir que la ALFIN se convierta en una asignatura transversal reconocida en las nuevas titulaciones acordes al plan de Bolonia, 
+					hay un ejemplo evidente: la asignatura “Técnicas de búsqueda y uso de la información”, que imparte la Carlos III en el primer curso de todas sus titulaciones 
+					con una estrecha colaboración entre docentes y bibliotecarios.
+				</para>
+				<para>
+					La Universidad de La Laguna aporta también una asignatura con 3 créditos ECTS, fruto del buen trabajo de sus bibliotecarios y de la complicidad de una parte 
+					del profesorado. Han dejado en acceso abierto sus materiales dentro del Taller de Granada que acoge el II Encuentro de Responsables de ALFIN de bibliotecas 
+					universitarias españolas.
+				</para>
+				<para>
+					La Universidad Pompeu Fabra ha diseñado cursos sobre CI2 (recordemos que la misma persona es responsable de los servicios informáticos y de los bibliotecarios) 
+					que se imparten dentro del primer trimestre en asignaturas de primer curso con 6 ECTS. Han propuesto la integración de las competencias informacionales e 
+					informáticas dentro de los estudios de grado.
+				</para>
+				<para>
+					En el Taller de Granada encontraremos mención a otras bibliotecas universitarias, como la de Burgos que acaba ver reconocida una asignatura.
+				</para>
+				<para>
+					Si por buenas prácticas entendemos el establecimiento de un plan de ALFIN general para toda una Universidad, tenemos los de la Universidad de Sevilla y el de 
+					la UOC, que hemos mencionado en el apartado de planificación.
+				</para>
+				<para>
+					También disponemos de un ejemplo un tanto diferente, en el que se mezclan las redes sociales, el “aprender haciendo” en colaboración: el caso de UNIA con su 
+					Espacio-Red de Prácticas y Culturas Digitales &lt;<link xl:href="http://practicasdigitales.unia.es/modulo-transversal/modulo-transversal-para-la-adquisicion-de-competencias-digitales.html"/>&gt;
+				</para>
+				<para>
+					Buena parte de estas iniciativas pueden encontrarse en diferentes foros. Como hemos mencionado antes puede verse en la web de las VII Jornadas CRAI 
+					&lt;<link xl:href="http://138.100.200.6/eventos/JornadasCRAI/postseminario.html"/>&gt; o en comentarios sobre las mismas 
+					&lt;<link xl:href="http://www.ucm.es/BUCM/blogs/boletinbibliotecario/722.php"/>&gt;.
+				</para>
+				<para>
+					Otras podrán encontrarse en el citado Taller de Granada, y en un breve tiempo, esperemos que todas queden enlazadas en el espacio dedicado a bibliotecas 
+					universitarias dentro de ALFARED.
+				</para>
+				<para>
+					Otro tipo de buenas prácticas es la cooperación. Varias de los bibliotecarias más expertas en el área están difundiendo sus conocimientos por diferentes 
+					bibliotecas universitarias (Carmen Julia Hernández) o públicas (Nieves González).
+				</para>
+				<para>
+					Un apunte de última hora: cuando estábamos a punto de enviar la revisión final del texto, recibimos la noticia<footnote><para>&lt;<link xl:href="http://www.alfared.org/blog/bibliotecas-universitarias/830"/>&gt;</para></footnote> de la publicación de un monográfico sobre 
+					competencias informacionales y digitales en la Educación Superior en la “Revista de Universidad y Sociedad del Conocimiento” de la UOC. La sola mención de 
+					quienes participan en dicho monográfico (Manuel Area, Juan de Pablos Pons, Cristóbal Pasadas, Miguel Ángel Marzal, José Antonio Gómez y Carmen Julia Hernández) 
+					ya indica que será necesario tenerlo como referencia.
+				</para>
+				<informalfigure xreflabel="Fig 40">
+					<mediaobject>
+						<imageobject fileref="resource/INF-5-042.jpg"/>
+					</mediaobject>
+					<caption>
+						<para>
+							VII Jornadas CRAI. Competencias informacionales e informáticas en el ámbito universitario (2009)
+							<link xl:href="http://www.upm.es/eventos/JornadasCRAI/index.html"/>
+						</para>
+					</caption>
+				</informalfigure>
+			</section>
+		</section>
+		<section xml:id="ch06b4">
+			<title>Bibliotecas públicas</title>
+			<para>
+				Las <citetitle><emphasis role="strong">Directrices IFLA/UNESCO para el desarrollo del servicio de bibliotecas públicas</emphasis></citetitle> 
+				&lt;<link xl:href="http://unesdoc.unesco.org/images/0012/001246/124654s.pdf"/>&gt;  de 2001 la definen así: “Una biblioteca pública es una organización establecida, 
+				respaldada y financiada por la comunidad, ya sea por conducto de una autoridad u órgano local, regional o nacional, o mediante cualquier otra forma de organización 
+				colectiva. Brinda acceso al conocimiento, la información y las obras de la imaginación gracias a toda una serie de recursos y servicios y está a disposición de 
+				todos los miembros de la comunidad por igual, sean cuales fueren su raza, nacionalidad, edad, sexo, religión, idioma, discapacidad, condición económica y laboral 
+				y nivel de instrucción.”
+			</para>
+			<para>
+				Esta declaración se une al <citetitle><emphasis role="strong">Manifiesto IFLA/UNESCO sobre la Biblioteca Públic</emphasis></citetitle> de 1994, complementado por el reciente
+				<citetitle><emphasis role="strong">Manifiesto por la Biblioteca Multicultural</emphasis></citetitle> de 1999. Se constituyen así en la espina dorsal del mundo de las bibliotecas 
+				públicas<footnote><para>Manifiesto IFLA/UNESCO sobre la Biblioteca Pública &lt;<link xl:href="http://archive.ifla.org/VII/s8/unesco/span.htm"/>&gt;. Manifiesto por la Biblioteca 
+				Multicultural &gt;<link xl:href="http://www.ifla.org/VII/s32/pub/MulticulturalLibraryManifesto-es.pdf"/>&gt;. También habría que conside- rar el Manifiesto sobre Internet 
+				&lt;<link xl:href="http://archive.ifla.org/III/misc/im-s.htm"/>&gt; de 2002.</para></footnote> En el primero incluye entre las misiones de la biblioteca pública las de 
+				“apoyar tanto la educación individual y autodirigida como la educación formal a todos los niveles y la de “facilitar el desarrollo de habilidades informacionales y digitales”.
+			</para>
+			<para>
+				Su enunciado da idea de la importancia de la biblioteca pública al mismo tiempo que nos muestra la complejidad para abordar cualquier tipo de tarea en ella dado 
+				que los intereses, expectativas y necesidades son muy hetereogéneos fundamentalmente porque se dirige a cualquier tipo de personas; incluyendo las que se encuentra 
+				en situaciones de exclusión social (incluye por ejemplo las bibliotecas de cárceles o que cuentan con servicios a presos).
+			</para>
+			<para>
+				Por otra parte, son las que tienen que responder al extenso “periodo” de educación no formal dentro del aprendizaje a lo largo de la vida. Y, en muchas ocasiones, 
+				se ven abocadas a suplir las deficiencias (o la inexistencia) de otro tipo de bibliotecas, como las escolares.
+			</para>
+			<para>
+				Esta realidad es lo que hace que en ocasiones utilice unas herramientas de organización y/o de atracción relativamente diferentes al de otro tipo de bibliotecas, 
+				que afectan tanto a la organización como al tipo de servicios que ofrece.
+			</para>
+			<para>
+				<emphasis role="strong">José Antonio Gómez y Cristóbal Pasadas</emphasis> (2007) repasan la situación de la ALFIN en las bibliotecas públicas. En realidad, al situar 
+				el marco general de la ALFIN, realizan casi un estado de la cuestión de la ALFIN en el momento de su redacción.
+			</para>
+			<para>
+				Nos muestran, al analizar su situación en algunos países en los que los sistemas bibliotecarios están más desarrollado, cómo:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>No es una prioridad (Canadá)</para>
+				</listitem>
+				<listitem>
+					<para>La mayor parte de la tarea se centra en la alfabetización tecnológica (EE.UU.)</para>
+				</listitem>
+				<listitem>
+					<para>Dan importancia sobre todo a asegurar el acceso a la información en línea y se preguntan por qué las bibliotecas públicas no se han “colocado en el 
+						corazón mismo de esta prodigalidad tecnológica” (Australia).</para>
+				</listitem>
+				<listitem>
+					<para>
+						En algunos países, como Dinamarca colaboran con las bibliotecas escolares.
+					</para>
+				</listitem>
+				<listitem>
+					<para>En muchos otros se apunta a la falta de recursos.</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				Al introducirse en la realidad española destacan similares situaciones y problemas. Uno de los más evidentes es la necesidad de suplir el vacío de las 
+				bibliotecas escolares allí donde no existen.
+			</para>
+			<para>
+				Consideran necesario promover entre las autoridades de todo nivel la concienciación sobre la necesidad de la ALFIN, sin olvidar a los profesionales de 
+				la información no siempre conscientes de (o dispuestos a reconocer) sus virtudes. Veamos algunos de los problemas que mencionan:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>La falta de recursos.</para>
+				</listitem>
+				<listitem>
+					<para>La ausencia de la ALFIN en las cualificaciones profesionales y las competencias básicas.</para>
+				</listitem>
+				<listitem>
+					<para>La necesidad de crear programas ALFIN específicos para bibliotecas públicas.</para>
+				</listitem>
+				<listitem>
+					<para>
+						La mayoría de la profesión está al margen de la ALFIN o se preocupa más de teorizar que de crear aplicaciones prácticas; además adolecen 
+						de formación específica.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						La dificultad de hacer actuaciones específicas para nuevos grupos de usuarios atraídos por los servicios que proporcionan las redes de comunicación.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						La escasa cooperación entre sectores implicados en la ALFIN y la alfabetización a lo largo de la vida.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						La dificultad para integrar la ALFIN en marcos curriculares estandarizados que tengan en cuenta el contexto hetereogéneo.
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				El Grupo de Trabajo de Alfabetización informacional del Consejo de Cooperación Bibliotecaria publicó en febrero de 2009 un informe titulado 
+				<citetitle><emphasis role="strong">Hacia la alfabetización informacional en las bibliotecas públicas españolas</emphasis></citetitle> (2009).
+			</para>
+			<para>
+				Pone en contexto los conceptos relacionados con la ALFIN y el papel que se solicita desde diferentes ámbitos a las bibliotecas públicas, 
+				habla de los bibliotecarios formadores y de la necesidad de establecer alianzas y cooperar. Se realiza un diagnóstico de cuál es la situación en las 
+				bibliotecas públicas españolas, señalando:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						Dificultades en la definición de ALFIN y también desconocimiento por parte de los responsables de los centros.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Ausencia de planificación, que se traduce en la falta de establecimiento de objetivos concretos a conseguir con la formación. A ello se une 
+						la falta de integración en planes más amplios.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Es minoría quien realiza formación de usuarios y pocas las que realizan ALFIN. Con predominio de actividades relacionadas con la alfabetización 
+						digital y sin contemplar apenas la formación no presencial.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Los objetivos y contenidos no están dirigidos, en la mayor parte de los casos, a sectores concretos de usuarios. La mayoría están dirigidos 
+						al público infantil y juvenil.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						No hay presupuesto específico para estas actividades y sólo en ocasiones se cuenta con salas para la formación.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Es conveniente desarrollar las páginas web e introducir herramientas de la web 2.0 para potenciar la participación social y la interacción.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Hay contados casos de cooperación con otras bibliotecas e instituciones.
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para>Se hacen una serie de recomendaciones:</para>
+			<itemizedlist>
+				<listitem>
+					<para>Difundir el concepto y el término ALFIN.</para>
+				</listitem>
+				<listitem>
+					<para>Promover su incorporación en la misión de la biblioteca o en el plan estratégico.</para>
+				</listitem>
+				<listitem>
+					<para>Recopilar ejemplos de buenas prácticas.</para>
+				</listitem>
+				<listitem>
+					<para>Crear una especie de observatorio de ALFIN que estudie y analice tendencias, evolución, materiales, estrategias, modelos....</para>
+				</listitem>
+				<listitem>
+					<para>
+						Definir las competencias de los bibliotecarios formadores.
+					</para>
+				</listitem>
+				<listitem>
+					<para>Promover la participación en proyectos y programas cooperativos.</para>
+				</listitem>
+				<listitem>
+					<para>Promover programas o planes de formación y reciclaje especializados para el personal.</para>
+				</listitem>
+				<listitem>
+					<para>Potenciar la plataforma ALFARED.</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				El amplio abanico de situaciones y usuarios que deben incluir las bibliotecas públicas dificulta la elaboración de programas globales; no obstante se pueden 
+				mencionar iniciativas parciales.
+			</para>
+			<para>
+				Puesto que también acogen a público infantil y en buena medida llenan el hueco de las bibliotecas escolares, algunos de los modelos, normas y/o buenas prácticas de 
+				este tipo de bibliotecas son aplicables a las públicas.
+			</para>
+			<para>
+				En el recién mencionado informe se aludía como ejemplo de programa de ALFIN, aunque destinado más bien a un sector concreto de los usuarios, al <emphasis role="strong">proyecto PULLS</emphasis>
+				(Public Libraries in the Learning Society)<footnote><para>El proyecto puede consultarse en &lt;<link xl:href="http://www.diba.es/biblioteques/documentspdf/pulls_directrius_castella.pdf"/>&gt;</para></footnote>
+				en el que participaron bibliotecas catalanas. Son unas directrices sobre centros de aprendizaje abierto en las bibliotecas públicas europeas, destinadas especialmente a adultos, 
+				por lo que se tienen en cuenta los presupuestos de la educación dedicados a ellos.
+			</para>
+			<para>
+				Explican cómo elegir los grupos objetivo que recibirán la formación, los diferentes métodos de formación de usuarios (incluyendo el aprendizaje a distancia y el 
+				digital), las modalidades de formación del personal (con referencia a las mentorías y el trabajo en red), consejos sobre las infraestructuras y cuestiones sobre 
+				la evaluación y el marketing. Finaliza considerando la ventaja del establecimiento de redes y de la cooperación entre organizaciones.
+			</para>
+			<para>
+				Enlazan con ejemplos de buenas prácticas; entre los que se encuentran los de algunas bibliotecas españolas, como la Fundación Germán Sánchez Ruipérez.
+			</para>
+			<para>
+				Este proyecto tiene en cuenta tres previos:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						<emphasis role="strong">TUNE</emphasis> &lt;<link xl:href="http://sacm.jccm.es/biblioteca_regional/doc/The_TUNE_Model_spa.pdf"/>&gt;
+						(Training of Library Users in a New Europe) (2005) que buscaba un modelo de formación de usuarios, en el que se planteaban las cuestiones 
+						clásicas de la planificación, el análisis del entorno, el marketing, la formación y la evaluación. Se explica cómo el modelo se aplicó en 4 bibliotecas: 
+						las de Helsinbörg, la de Randres, la Regional de Castilla-La Mancha y la Regional Oton Zupancic. Se finaliza con ejemplos de buenas prácticas destinados 
+						a la tercera edad, a los niños y a principiantes en TIC. Entre ellos se encuentra uno dirigido a la tercera edad que desarrollaremos un poco más a 
+						continuación.
+					</para>
+					<informalfigure xreflabel="Fig 41">
+						<mediaobject>
+							<imageobject fileref="resource/INF-5-043.jpg"/>
+						</mediaobject>
+					</informalfigure>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">CALIMERA</emphasis> &lt;<link xl:href="http://www.calimera.org/countries/Spain.aspx"/>&gt; (Cultural Applications: Local 
+						Institutions Mediating Electronic Resource Areas) (2005) recoge 23 pautas de buenas prácticas dirigidas al uso de las nuevas tecnologías y los 
+						servicios que pueden aportar en la sociedad contemplando la integración social, la educación formal y no formal, el desarrollo económico y social, modelos 
+						de trabajo y aspectos legales, entre otros. Una buena parte de las pautas (12 de 23) se dirigen a las TIC, incluyendo aspectos como el multilingüismo, la 
+						personalización o las personas con discapacidad. En cada uno de los apartados se recogen buenas prácticas clasificadas por países; además de normativa y 
+						documentos relevantes sobre cada cuestión particular.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">Hybrid Learning Environments</emphasis> &lt;<link xl:href="http://www.aakb.dk/sw66859.asp"/>&gt; de bibliotecas danesas.
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				El ejemplo que se menciona en TUNE es una aportación de <emphasis role="strong">Javier García Gómez y Antonio Díaz Grau</emphasis>  (1999) dedicado a personas de 
+				la tercera edad, un sector cada vez más amplio en un país con nuestra pirámide de población. Buscan formarlos en las TIC, introducirlos en las políticas de 
+				extensión cultural, ayudarles a sacar partido de la información, cubrir sus necesidades de ocio y tiempo libre para atraerlos como usuarios.
+			</para>
+			<para>
+				Proponen hacer un estudio de esta población, para poder planificar unos niveles de formación que desglosarán en actividades: definen varios escenarios, teniendo 
+				en cuenta a los que no pueden acudir a la biblioteca por estar internados (combinarían formación y extensión bibliotecaria). No olvidan hablar del equipo de 
+				trabajo, de los materiales necesarios, la elaboración de un calendario ni la necesidad de evaluación.
+			</para>
+			<para>
+				Los mismos autores (2007) plantean varias dinámicas de trabajo diferentes para distintos tipos de usuarios; en concreto: estudiantes de enseñanza básica y 
+				media, estudiantes universitarios, personas mayores, inmigrantes, “vecinos con biblioteca nueva”.
+			</para>
+			<para>
+				Establecen un programa para cada uno de ellos, que lógicamente incluyen pasos similares. No olvidan el fundamental análisis de las necesidades del grupo a 
+				formar que determinará los objetivos de la formación ni la necesaria retroalimentación del sistema tras la pertinente evaluación.
+			</para>
+			<para>
+				Dedican un apartado a la formación en TIC, fundamentalmente en línea. Y ocupan la parte final de su trabajo a destacar ejemplos de buenas prácticas en 
+				programas de formación de usuarios, en formación en TIC, en orientación sobre el uso de la biblioteca y visitas guiadas a través del Servicio de Información 
+				y Referencia.
+			</para>
+			<para>
+				La <emphasis role="strong">Fundación Germán Sánchez Ruipérez</emphasis> &lt;<link xl:href="http://www.fundaciongsr.es/formacion/presentacion_formacion"/>&gt;
+				 es referencia obligada en el campo de la formación de usuarios, siendo citada por todos los estudios. Incluye cursos dirigidos a docentes, a profesionales de 
+				 la biblioteca y a familias, con modalidades presenciales, semipresenciales y en línea; abarcando la promoción de la lectura, la literatura infantil y juvevenil, 
+				 las bibliotecas escolares e infantiles... Destaca su Centro Internacional de Tecnologías Avanzadas (CITA) &lt;<link xl:href="http://www.citafgsr.org/cita"/>&gt; 
+				 con campus virtual, zona de debate sobre temas punteros, blogs... y su propio canal multimedia 
+				 &lt;<link xl:href="http://217.116.9.134/fundacion1/index.asp?Multicanal=FU1&amp;programa=PR11&amp;emision=1"/>&gt;.
+			</para>
+			<para>
+				También se menciona como ejemplo de implicación en la formación a la <emphasis role="strong">Biblioteca Pública de Tarragona</emphasis> con una amplia oferta, 
+				especialmente en TIC, que puede conocerse desde la sección Servicios de la web de dicha biblioteca<footnote><para>Véase &lt;<link xl:href="http://www20.gencat.cat/portal/site/Biblioteques/menuitem.d53ec0fb15f5e5b009671410b0c0e1a0/?vgnextoid=32bab12fd84c0110VgnVCM1000000b0c1e0aRCRD&amp;vgnextchannel=32bab12fd84c0110VgnVCM1000000b0c1e0aRCRD&amp;vgnextfmt=default"/>&gt;</para></footnote>.
+			</para>
+			<para>
+				Buena parte de las bibliotecas públicas, encorsetadas por sus escasos recursos, están aprovechando las <emphasis role="strong">posibilidades de la Web 2.0</emphasis> 
+				para hacerse más visibles, aliarse con los nuevos hábitos lecto-escritores de los usuarios más jóvenes y contrarrestar las deficiencias a que de otro modo les 
+				abocarían los recursos insuficientes. El ejemplo más paradigmático es la Biblioteca de Múskiz &lt;<link xl:href="http://www.muskiz-liburutegia.org/"/>&gt; que se 
+				sirve de prácticamente todas las tecnologías de la red social para dar información y referencia, para <emphasis>glocalizar</emphasis> su biblioteca:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						RSS para las novedades en cada uno de los sectores de usuarios, diferenciados fundamentalmente por edades.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Vídeos breves para mostrar cómo funcionan las herramientas de la web social o para enseñar las nuevas adquisiciones.
+					</para>
+				</listitem>
+				<listitem>
+					<para>Google Maps para crear itinerarios literarios.</para>
+				</listitem>
+				<listitem>
+					<para>Firefox para mejorar el uso del catálogo.</para>
+				</listitem>
+				<listitem>
+					<para>Snapshots para previsualizar lo que encontraremos detrás de un enlace.</para>
+				</listitem>
+				<listitem>
+					<para>Blogs para promocionar y describir la colección y obtener feedback...</para>
+				</listitem>
+				<listitem>
+					<para>Biblioconsola para poder acceder desde dispositivos móviles, incluyendo juegos...</para>
+				</listitem>
+				<listitem>
+					<para>Flickr para recoger imágenes fijas</para>
+				</listitem>
+				<listitem>
+					<para>Etiquetado social para recuperación de contenido y relacionarlo con bases de datos especializadas</para>
+				</listitem>
+				<listitem>
+					<para>Twitter para mensajes cortos con noticias “perecederas” (una especie de avisos o última hora)</para>
+				</listitem>
+				<listitem>
+					<para>Chat para poder conversar con el bibliotecario (sea o no una consulta de referencia)</para>
+				</listitem>
+				<listitem>
+					<para>Uso de Netvibes y Ginger para página institucional personalizada</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				Podríamos decir que no se trata de ALFIN pero además de suponer un acercamiento a los usuarios del mañana conlleva un elemento de formación y destrezas en lo 
+				que cada vez son más el papel y el bolígrafo de hoy.
+			</para>
+			<para>
+				En este sentido es de destacar el <emphasis role="strong">Plan ALBA</emphasis> &lt;<link xl:href="http://planalba.pbworks.com/"/>&gt; (Alfabetización en 
+				Bibliotecas de Andalucía) (Nieves González 2010a) con el que la Junta de Andalucía ha buscado la formación de numerosos bibliotecarios de las bibliotecas 
+				públicas en competencias digitales y en herramientas y aplicaciones de la Web 2.0, con el objetivo de que les permita entenderse con los usuarios, las utilicen 
+				en la prestación de servicios, se sirvan de ellas para formar a los usuarios y las incluyan en sus programas de formación en competencias digitales.
+			</para>
+			<para>
+				María Pinto y Dora Sales (2007) recogen algunas iniciativas que se llevan a cabo en bibliotecas públicas. También lo hacen, con otras autoras, en 
+				<citetitle>Alfabetización múltiple desde la biblioteca pública: experiencias y propuestas</citetitle> (2009):
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						Formación en línea para bibliotecarios de la Fundación Berteslmann &lt;<link xl:href="http://www.fundacionbertelsmann.org/cps/rde/xchg/SID-175494CA-6C8FD0EB/fundacion/hs.xsl/4843.htm"/>&gt;
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Caja Mágica &lt;<link xl:href="http://www.cajamagica.net/"/>&gt; Recursos para aprender a leer y escribir.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Educared &lt;<link xl:href="http://educalia.educared.net/edujsp/primaria/programes/programes.jsp"/>&gt;:juegos interactivos para aprender (dentro de la web anterior).
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						AFFAMER &lt;<link xl:href="http://www.tragalibros.org/"/>&gt; Animación a la lectura y la escritura.
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para>Para cuestiones multiculturales estas autoras destacan los siguientes recursos:</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						El Centro Catalán de la UNESCO &lt;<link xl:href="http://www.unescocat.org/es/areas/escuela-de-formacion"/>&gt;
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Bibliotecas por la convivencia &lt;<link xl:href="http://gestiona.madrid.org/bpcm/servlet/Servidor?opcion=Recursos&amp;anio=2005"/>&gt;
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Andalucía entre culturas &lt;<link xl:href="http://www.juntadeandalucia.es/cultura/ba/c/"/>&gt;
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Biblioteca abierta &lt;<link xl:href="http://www.madrid.org/cs/Satellite?c=CM_Actuaciones_FA&amp;cid=1132041999026&amp;idConsejeria=1109266187272&amp;idListConsj=1109265444710&amp;language=es&amp;pagename=ComunidadMadrid%2FEstructura&amp;sm=1109265843983"/>&gt;
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Punto de empleo en la Biblioteca Regional de Murcia &lt;<link xl:href="http://www.bibliotecaregional.carm.es/Biblioteca/faces/br-biblioteca-punto-empleo"/>&gt;
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Biblioteca Pública de Vancouver &lt;<link xl:href="http://www.vpl.vancouver.bc.ca/library/details/getting_started_spanish"/>&gt;
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Biblioteca Pública de Brooklyn &lt;<link xl:href="http://www.brooklynpubliclibrary.org/parents_teachers.jsp"/>&gt;
+					</para>
+				</listitem>
+			</itemizedlist>
+		</section>
+		<section xml:id="ch06b5">
+			<title>Los híbridos</title>
+			<para>
+				Si al inicio del apartado de bibliotecas hablábamos de la complejidad de definir distintos tipos de biblioteca, la tarea se hace más ardua cuando nos encontramos 
+				con bibliotecas que tienen dos funciones, o cuando se establece una cooperación entre diferentes tipos de biblioteca, aspecto este último que cobra una cierta 
+				entidad en la medida que la manera de suplir las deficiencias de determinadas bibliotecas como las escolares, es su cooperación con alguna pública relativamente 
+				cercana.
+			</para>
+			<para>
+				En el primer caso podríamos encontrarnos con bibliotecas universitarias que hacen el papel de bibliotecas nacionales, bibliotecas nacionales divididas en varias 
+				unidades, las que son universitarias además de públicas, las regionales que actúan como públicas...
+			</para>
+			<para>
+				El segundo caso es el que abordan Miguel Ángel Marzal y Pablo Parra (2009), de un modelo que aunque tiene muchos años cobra un mayor protagonismo ahora con la 
+				importancia del <emphasis>e-learning</emphasis> y la web 2.0 (o la semántica) en la sociedad de la información, que conllevan una construcción colaborativa del 
+				conocimiento y un aprendizaje colaborativo convirtiendo a las bibliotecas de los centros educativos en el espacio más adecuado para introducir la ALFIN. Hablan 
+				del concepto de <emphasis role="strong">Joint-use</emphasis> (“<emphasis>una práctica, con más de un siglo de antigüedad, en la cual dos o más suministradores 
+				de servicios bibliotecarios proporcionan servicios diferentes atendiendo a sus usuarios en el mismo edificio</emphasis>”) y los modelos existentes (estadounidense, 
+				inglés, australiano) señalando sus perspectivas y apuntando a su viabilidad en mundos virtuales.
+			</para>
+			<para>
+				Subrayan sus ventajas e inconvenientes. Entre las <emphasis role="strong">ventajas</emphasis>:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>Aumento del número de usuarios</para>
+				</listitem>
+				<listitem>
+					<para>Eliminación de la duplicación de materiales</para>
+				</listitem>
+				<listitem>
+					<para>Costes compartidos</para>
+				</listitem>
+				<listitem>
+					<para>Bibliotecas con un mayor horario de apertura</para>
+				</listitem>
+				<listitem>
+					<para>Presencia de bibliotecarios profesionales en centros escolares</para>
+				</listitem>
+				<listitem>
+					<para>Amplitud de la colección</para>
+				</listitem>
+				<listitem>
+					<para>Disposición de un servicio de biblioteca en comunidades pequeñas</para>
+				</listitem>
+				<listitem>
+					<para>Mayor acercamiento entre la población y los centros educativos</para>
+				</listitem>
+				<listitem>
+					<para>Mejor acceso de la población a la formación continua y al aprendizaje para toda la vida</para>
+				</listitem>
+				<listitem>
+					<para>Mayor amplitud de usuarios</para>
+				</listitem>
+				<listitem>
+					<para>Financiación común</para>
+				</listitem>
+				<listitem>
+					<para>Optimización de recursos</para>
+				</listitem>
+				<listitem>
+					<para>Mejora de la calidad de los servicios, de la imagen de la biblioteca y de la satisfacción de los usuarios</para>
+				</listitem>
+			</itemizedlist>
+			<para>Entre las <emphasis role="strong">desventajas</emphasis>:</para>
+			<itemizedlist>
+				<listitem>
+					<para>Ausencia de ahorro económico.</para>
+				</listitem>
+				<listitem>
+					<para>Diferencia en los objetivos.</para>
+				</listitem>
+				<listitem>
+					<para>Escasa formación del personal.</para>
+				</listitem>
+				<listitem>
+					<para>Dificultades para satisfacer la gran variedad de necesidades de los usuarios.</para>
+				</listitem>
+				<listitem>
+					<para>Rechazo de los adultos a utilizar una instalación escolar en horario lectivo.</para>
+				</listitem>
+				<listitem>
+					<para>Restricciones para el uso de algunos materiales.</para>
+				</listitem>
+			</itemizedlist>
+		</section>
+	</section>
+</chapter>

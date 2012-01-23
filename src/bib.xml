@@ -1,0 +1,1675 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<bibliography xml:id="bib"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  	<title>Bibliografía</title>
+	<biblioentry>
+		
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>ABELL</surname>
+					<firstname>
+						Angela
+					</firstname>
+				</personname>
+			</author>
+			<othercredit>[et.al.]</othercredit>
+		</authorgroup>
+		<bibliomisc>
+			<phrase>
+				(2004)
+			</phrase>
+		</bibliomisc>
+		<title>
+			Alfabetización en información
+		</title>
+		<subtitle>
+			la definición de CILIP (UK)
+		</subtitle>
+		<citetitle>En: Boletín de la Asociación Andaluza de Bibliotecarios, n. 77, p. 79-84.</citetitle>
+		<bibliomisc>[Consulta: 29 de 2010]</bibliomisc>
+		<bibliosource role="uri">
+			Disponible en:
+			<link xl:href="http://www.aab.es/pdfs/baab77/77a4.pdf"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<orgname>
+				Agencia Nacional de Evaluación de la Calidad y Acreditación
+			</orgname>
+		</author>
+		<bibliomisc>
+			<phrase>
+				(2004)
+			</phrase>
+		</bibliomisc>
+		<title>
+			Título de grado en Información y Documentación
+		</title>
+		<subtitle>Libro blanco</subtitle>
+		<publisher>
+			<publishername>
+				ANECA
+			</publishername>
+			<address>
+				<city>Madrid</city>
+			</address>
+		</publisher>
+		<pagenums>241 p.</pagenums>
+		<bibliomisc><phrase>[Consulta: 21 de mayo de 2010]</phrase></bibliomisc>
+		<bibliosource role="uri">
+			Disponible en:
+			<link xl:href="http://www.aneca.es/media/150424/libroblanco_jun05_documentacion.pdf"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<title>
+			Alfabetización múltiple desde la biblioteca pública
+		</title>
+		<subtitle>
+			experiencias y propuestas
+		</subtitle>
+		<bibliomisc>
+			<phrase>
+				(2009)
+			</phrase>
+		</bibliomisc>
+		<authorgroup>
+			<author>
+				<surname>
+					Pinto
+				</surname>
+				<firstname>
+					María
+				</firstname>
+			</author>
+			<othercredit>
+				[et al.]
+			</othercredit>
+		</authorgroup>
+		<publisher>
+			<publishername>
+				Alfagrama
+			</publishername>
+			<city>
+				Buenos Aires
+			</city>
+		</publisher>
+		<pagenums>
+			222 p.
+		</pagenums> 
+		<biblioid class="isbn">
+			ISBN 978-987-1305-47-6
+		</biblioid>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>
+					ALONSO MARTÍN
+				</surname>
+				<firstname>
+					José Antonio
+				</firstname>
+			</personname>
+		</author>
+		<bibliomisc>
+			<phrase>
+				(2008)
+			</phrase>
+		</bibliomisc> 
+		<title>
+			Bibliotecas 2.0 for profes
+		</title>
+		<subtitle>
+			dinamización de bibliotecas con herramientas web
+		</subtitle>
+		<pagenums>
+			61 p.
+		</pagenums>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 29 de enero de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource role="uri">
+			Disponible en: 
+			<link xl:href="http://www.tictarragona.com/2009/11/bibliotecas-2-0-for-profes"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>
+					ANGULO MARCIAL
+				</surname>
+				<firstname>
+					Noel
+				</firstname>
+			</personname>
+		</author> 
+		<bibliomisc>
+			<phrase>
+				(2003)
+			</phrase>
+		</bibliomisc> 
+		<title>
+			Normas de competencia en información
+		</title>
+		<citetitle>
+			BiD: textos universitaris de Biblioteconomia i Documentació, n. 11
+		</citetitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 29 de enero de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource role="uri">
+			Disponible en: <link xl:href="http://www.ub.es/bid/11angul2.htm"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>AREA MOREIRA</surname><firstname>Manuel</firstname>
+			</personname>
+		</author>
+		<date>(2006)</date>
+		<title>La enseñanza universitaria en tiempos de cambio</title>
+		<subtitle>el papel de las bibliotecas en la innovación educativa</subtitle>
+		<citetitle>Jornadas CRAI de REBIUN</citetitle>
+		<bibliomisc>
+			<phrase>
+				(Burgos, 10-12 de mayo de 2006)
+			</phrase>
+		</bibliomisc>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>AREA MOREIRA</surname><firstname>Manuel</firstname>
+			</personname>
+		</author>
+		<date>(2007)</date>
+		<title>Adquisición de competencias en información</title>
+		<subtitle>una materia necesaria en la formación universitaria</subtitle>
+		<bibliomisc>
+			<phrase>
+				Documento marco de REBIUN para la CRUE
+			</phrase>
+		</bibliomisc>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 5 de junio de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://ww.rebiun.org/export/docReb/Adquisiciondecompetencias.doc"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>AREA MOREIRA</surname><firstname>Manuel</firstname>
+			</personname>
+		</author>
+		<date>(2009)</date> 
+		<title>Elementos pedagógicos que intervienen en la aplicación de la ALFIN (Alfabetización informacional)</title>
+		<citetitle>(II Seminario Biblioteca, aprendizaje, ciudadanía, Vilanova, 22-23 de enero)</citetitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 9 de junio de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: 
+			<link xl:href="http://www.slideshare.net/manarea/alfin-alfabetizacin-informacional-presentation"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>BEETHAM</surname> <firstname>Helen</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>McGILL</surname> <firstname>Lou</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					<surname>LITTLEJOHN</surname> <firstname>Allison</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<date>
+			(2009)
+		</date>
+		<title>
+			Thriving in the 21st century
+		</title> 
+		<subtitle>
+			Learning Literacies for the Digital Age (LLIDA project): Executive Summary, Conclusions and Recommendations: A JISC funded study
+		</subtitle> 
+		<bibliomisc>
+			<phrase>
+				[Consulta: 29 de mayo de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://caledonianacademy.net/spaces/LLiDA/uploads/Main/LLiDAreportJune09.pdf"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>BENITO MORALES</surname> <firstname>Félix</firstname>
+			</personname>
+		</author> 
+		<date>(2001)</date>
+		<title>La educación documental en la biblioteca escolar</title>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 29 de enero de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://www.ite.educacion.es/w3/recursos2/bibliotecas/html/encuen/art3.htm"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>BENITO MORALES</surname> <firstname>Félix</firstname>
+			</personname>
+		</author> 
+		<date>(2007)</date>
+		<title>¿Qué es alfabetización informacional?</title> 
+		<citetitle pubwork="journal">En: Pinakes: la revista de las bibliotecas escolares de Extremadura, n. 3, 4 p</citetitle> 
+		<bibliomisc>
+			<phrase>
+				[Consulta: 29 de enero de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://pinakes.educarex.es/numero3/descargas/colaboraciones2.pdf"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<orgname>BIBLIOTECA DE LA UNIVERSIDAD DE SEVILLA</orgname>
+		</author> 
+		<pubdate>(2010)</pubdate> 
+		<title>I Plan de Acción: Programa CI (competencias en gestión de la información) en la BUS</title> 
+		<publisher>Sección Apoyo a la Docencia e Investigación. Realizado por Nieves González</publisher>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 9 de junio de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://www.scribd.com/doc/29087898/Plan-de-accion-CI-de-la-BUS-2010"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<title>Brecha digital y nuevas alfabetizaciones</title>
+		<subtitle>el papel de las bibliotecas</subtitle>
+		<pubdate>(2008)</pubdate>
+		<bibliomisc role="coordinator">
+			<phrase>
+				Coordinado por José Antonio Gómez Hernández, Antonio Calderón Rehecho y José Antonio Magán Wals
+			</phrase>
+		</bibliomisc> 
+		<bibliomisc>
+			<phrase>
+				[Consulta: 29 de enero de 2010]
+			</phrase>
+		</bibliomisc> 
+		<bibliomisc>
+			<phrase>
+				202 p.
+			</phrase>
+		</bibliomisc>
+		<citetitle>
+			(Documentos de Trabajo de la Biblioteca de la Universidad Complutense de Madrid; 2008/1)
+		</citetitle>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://eprints.ucm.es/8224/"/>
+		</bibliosource> 
+		<biblioid class="isbn">
+			ISBN: 978-84-691-3466-5
+		</biblioid>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>BUCKHARDT</surname> <firstname>Joanna M.</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>MACDONALD</surname> <firstname>Mary C.</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					<surname>RATHEMACHER</surname> <firstname>Andrée J.</firstname>
+				</personname>
+			</author>
+		</authorgroup> 
+		<pubdate>(2003)</pubdate>
+		<title>Teaching information literacy</title>
+		<subtitle>35 practical standards-bases exercises for college students</subtitle> 
+		<publisher>
+			<address><city>Chicago</city></address>
+			<publishername>
+				American Library Association.
+			</publishername>
+		</publisher> 
+		<bibliomisc>
+			<phrase>
+				106 p.
+			</phrase>
+		</bibliomisc> 
+		<biblioid class="isbn">
+			ISBN 0-8389-0854-3
+		</biblioid>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>BYRNE</surname> <firstname>Alex</firstname>
+			</personname>
+		</author>
+		<pubdate>(2005)</pubdate>
+		<title>La alfabetización informacional desde una perspectiva global</title>
+		<subtitle>el desastre agudiza nuestras mentes</subtitle>
+		<citetitle>En Anales de Documentación, n. 8, p. 7-20</citetitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 29 de enero de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://revistas.um.es/analesdoc/article/view/1571/1631"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>CALDERÓN REHECHO</surname> <firstname>Antonio</firstname>
+			</personname>
+		</author>
+		<pubdate>(2006)</pubdate>
+		<title>La evaluación de páginas web</title>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 22 de mayo de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://observatorio.cnice.mec.es/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=334"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>CODINA</surname> <firstname>Lluís</firstname>
+			</personname>
+		</author>
+		<date>(2003)</date>
+		<title>Metodología de análisis y evaluación de recursos digitales en línea</title> 
+		<bibliomisc>
+			<phrase>[en línea]</phrase>
+		</bibliomisc>
+		<pubdate>Octubre 2003</pubdate>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 10 de junio 2010]
+			</phrase>
+		</bibliomisc>
+		<pagenums>55 p</pagenums>
+		<bibliomisc>
+			<phrase>Incluye ejemplos y fichas de análisis</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://www.lluiscodina.com/metodos/metodov6.doc"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<title>Competencias informacionales y digitales en la educación superior</title>
+		<pubdate>(2010)</pubdate>
+		<bibliomisc>
+			<phrase>
+				Coordinado por Manuel Area Moreira
+			</phrase>
+		</bibliomisc>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 3 de agosto de 2010]
+			</phrase>
+		</bibliomisc>
+		<pagenums>62 p</pagenums>
+		<citetitle pubwork="journal">En RUSC: Revista de Universidad y Sociedad del Conocimiento Vol, 7, n. 2</citetitle> 
+		<bibliomisc>
+			<phrase>
+				Monográfico en el que se incluyen contribuciones de Manuel Area, Juan de Pablos Pons, Cristóbal Pasadas, Miguel Ángel Marzal, José Antonio Gómez y Carmen Julia Hernández
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: 
+			<link xl:href="http://rusc.uoc.edu/ojs/index.php/rusc/article/view/v7n2-area/v7n2-competencias-informacionales-y-digitales-en-educacion-superior"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<title>Las competencias informáticas e informacionales en los estudios de grado</title>
+		<pubdate>(2009)</pubdate>
+		<bibliomisc>
+			<phrase>Documento elaborado por la Comisión mixta CRUE-TIC y REBIUN. 13 p</phrase>
+		</bibliomisc> 
+		<bibliomisc>
+			<phrase>[Consulta: 7 de junio de 2010]</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://www.rebiun.org/doc/documento_competencias_informaticas.pdf"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>CUEVAS CERVERÓ</surname> <firstname>Aurora</firstname>
+			</personname>
+		</author>
+		<pubdate>(2007)</pubdate>
+		<title>Lectura, alfabetización en información y biblioteca escolar</title>
+		<pagenums>253 p</pagenums>
+		<citetitle>(Biblioteconomía y administración cultural; 158)</citetitle>
+		<biblioid class="isbn">ISBN 978-84-9704-284-0</biblioid>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>CUEVAS CERVERÓ</surname> <firstname>Aurora</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					<surname>MARZAL</surname> <firstname>Miguel Ángel</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<pubdate>(2007)</pubdate>
+		<title>La competencia lectora como modelo de alfabetización en información</title>
+		<citetitle>En Anales de Documentación, n. 10, p. 49-70</citetitle>
+		<bibliomisc>
+			<phrase>[Consulta: 29 de enero de 2010]</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://revistas.um.es/analesdoc/article/viewFile/1082/1132"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>CUEVAS CERVERÓ</surname> <firstname>Aurora</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					<surname>VIVES I GRACIA</surname> <firstname>Josep</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<pubdate>(2005)</pubdate>
+		<title>La competencia lectora en el estudio PISA</title>
+		<subtitle>Un análisis desde la alfabetización en información</subtitle>
+		<citetitle>En Anales de Documentación, n. 8, p. 51-71</citetitle> 
+		<bibliomisc>
+			<phrase>
+				[Consulta: 29 de enero de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://revistas.um.es/analesdoc/article/viewFile/1541/1601"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>DURBAN ROCA</surname> <firstname>Glòria</firstname>
+			</personname>
+		</author>
+		<pubdate>(2006)</pubdate>
+		<title>Competencia en el acceso y uso de la información</title>
+		<subtitle>concreción para la Educación Primaria y Secundaria</subtitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 4 de junio de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://www.bibliotecaescolar.info/documents/competenciacastellano.pdf"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>DURBAN ROCA</surname> <firstname>Glòria</firstname>
+			</personname>
+		</author>
+		<pubdate>(2009a)</pubdate>
+		<title>El qué y para qué de la biblioteca escolar</title>
+		<subtitle>reflexión en torno a su implementación como recurso educativo útil</subtitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 29 de enero de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://www.bibliotecaescolar.info/varis/biblioteca_implementacion.pdf"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>DURBAN ROCA</surname> <firstname>Glòria</firstname>
+			</personname>
+		</author>
+		<pubdate>(2009b)</pubdate>
+		<title>Tensiones y distensiones</title>
+		<subtitle>reflexión en torno a la situación actual de la biblioteca escolar</subtitle>
+		<citetitle>En Libro Abierto, n. 35, febrero</citetitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 29 de enero de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://www.juntadeandalucia.es/averroes/bibliotecaescolar/images/MisPdf/articulos/tensiones.pdf"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>DURBAN ROCA</surname> <firstname>Glòria</firstname>
+			</personname>
+		</author>
+		<pubdate>(2010)</pubdate>
+		<title>La biblioteca escolar, hoy</title>
+		<subtitle>un recurso estratégico para el centro</subtitle>
+		<publisher>
+			<address><city>Barcelona</city></address>
+			<publishername>Graó</publishername>
+		</publisher> 
+		<pagenums>121 p</pagenums>
+		<bibliomisc>
+			<phrase>
+				(Biblioteca de Aula; 273)
+			</phrase>
+		</bibliomisc>
+		<biblioid class="isbn">
+			ISBN 978-84-7827-911-1
+		</biblioid>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>Gómez Hernández... [et al.]</surname><firstname>José Antonio</firstname>
+				</personname>
+			</author>
+			<author><personname>[et al.]</personname></author>
+		</authorgroup>
+		<title>Estrategias y modelos para enseñar a usar la información</title>
+		<subtitle>guía para docentes, bibliotecarios y archiveros</subtitle>
+		<pubdate>(2000)</pubdate>
+		<publisher>
+			<address><city>Murcia</city></address>
+			<publishername>KR</publishername>
+		</publisher>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 29 de enero de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://eprints.rclis.org/4672/"/>
+		</bibliosource>
+		<biblioid class="isbn">
+			ISBN 84-88551-63-0
+		</biblioid>
+		<bibliomisc>
+			<phrase>
+				Contiene capítulos monográficos dedicados a fundamentos de ALFIN, educación primaria y secundaria, educación universitaria, archivos y biblioteca escolar
+			</phrase>
+		</bibliomisc>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<orgname>
+				EUROMEDUC
+			</orgname>
+		</author>
+		<pubdate>(2009)</pubdate>
+		<title>Media literacy in Europe</title>
+		<subtitle>controversies, challenges and perspectives</subtitle>
+		<pagenums>192 p</pagenums>
+		<bibliomisc>
+			[Consulta: 7 de junio de 2010]
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://www.euromeduc.eu/IMG/pdf/Euromeduc_ENG.pdf"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>GARCÍA GÓMEZ</surname> <firstname>Javier</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					y
+					<surname>DÍAZ GRAU</surname> <firstname>Antonio</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<pubdate>(1999)</pubdate>
+		<title>Diseño de un programa de formación de usuarios aplicado al sector de población de la Tercera Edad</title>
+		<citetitle>En Boletín de la Asociación Andaluza de Bibliotecarios, año 14, n. 57, p. 23-38</citetitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 10 de junio de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://www.aab.es/Joomla/index2.php?option=com_content&amp;do_pdf=1&amp;id=59"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>GARCÍA GÓMEZ</surname> <firstname>Javier</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					y
+					<surname>DÍAZ GRAU</surname> <firstname>Antonio</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<pubdate>
+			(2007)
+		</pubdate>
+		<title>
+			Formación de usuarios y alfabetización informacional
+		</title>
+		<subtitle>
+			dinámicas de trabajo en bibliotecas públicas
+		</subtitle>
+		<citetitle>
+			En Acción pedagógica en organizaciones artísticas y culturales
+		</citetitle>
+		<editor>
+			<personname>
+				Editado por <firstname>Roberto</firstname><surname>Gómez de la Iglesia</surname>
+			</personname>
+		</editor>
+		<publisher>
+			<address><city>Vitoria-Gasteiz</city></address>
+			<publishername>Grupo Xabide</publishername>
+		</publisher>
+		<pagenums>P. 215-247</pagenums>
+		<biblioid class="isbn">
+			ISBN 84-92-1274-9-8
+		</biblioid>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 10 de junio de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://medina-psicologia.ugr.es/biblioteca/mod/resource/view.php?id=181"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<persnonname>
+				<surname>GÓMEZ HERNÁNDEZ</surname> <firstname>José Antonio</firstname>
+			</persnonname>
+		</author>
+		<pubdate>
+			(2007)
+		</pubdate>
+		<title>
+			Alfabetización informacional
+		</title>
+		<subtitle>
+			cuestiones básicas
+		</subtitle>
+		<citetitle>En: Anuario ThinkEPI, p 43-50</citetitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 25 de enero de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://www.thinkepi.net/notas/2007_09.pdf"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<persnonname>
+				<surname>GÓMEZ HERNÁNDEZ</surname> <firstname>José Antonio</firstname>
+			</persnonname>
+		</author> 
+		<pubdate>
+			(2008)
+		</pubdate>
+		<title>
+			Aprender a enseñar competencias informacionales a los usuarios
+		</title>
+		<subtitle>
+			avances en la formación profesional en España
+		</subtitle>
+		<citetitle>
+			En: ThinkEPI, 17 de noviembre de 2008
+		</citetitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 29 de enero de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: 
+			<link xl:href="http://www.thinkepi.net/aprender-a-ensenar-competencias-informacionales-a-los-usuarios-avances-en-la-formacion-profesional-en-espana"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<persnonname>
+				<surname>GÓMEZ HERNÁNDEZ</surname> <firstname>José Antonio</firstname>
+			</persnonname>
+		</author> 
+		<pubdate>
+			(2009)
+		</pubdate>
+		<title>
+			Las bibliotecas escolares en España ante una nueva década
+		</title>
+		<subtitle>
+			brotes verdes e incertidumbres
+		</subtitle>
+		<citetitle>
+			En: ThinkEPI, 10 de diciembre de 2009
+		</citetitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 4 de junio de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://www.thinkepi.net/las-bibliotecas-escolares-en-espana-ante-una-nueva-decada-brotes-verdes-e-incertidumbres"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+		 	<author>
+		 		<persnonname>
+		 			<surname>GÓMEZ HERNÁNDEZ</surname> <firstname>José Antonio</firstname>
+		 		</persnonname>
+		 	</author>
+		 	 <author>
+		 	 	<personname>
+		 	 		y 
+		 	 		<surname>LICEA DE ARENAS</surname> <firstname>Judith</firstname>
+		 	 	</personname>
+		 	 </author>
+		 </authorgroup> 
+		 <pubdate>
+		 	(2005)
+		 </pubdate>
+		 <title>
+		 	El compromiso de las bibliotecas con el aprendizaje permanente
+		 </title>
+		 <subtitle>
+		 	La alfabetización informacional
+		 </subtitle>
+		 <citetitle>
+		 	En Información, conocimiento y bibliotecas en el marco de la globalización neoliberal
+		 </citetitle>
+		 <publisher>
+		 	<address><city>Gijón</city></address> <publishername>TREA</publishername>
+		 </publisher>
+		 <pagenums>p. 145-180</pagenums>
+		 <bibliomisc>
+		 	<phrase>
+		 		[Consulta: 29 de enero de 2010]
+		 	</phrase>
+		 </bibliomisc>
+		 <bibliosource class="uri">
+		 	Disponible en: <link xl:href="http://www.um.es/gtiweb/jgomez/publicaciones/aprendizajepermanentebibliotecas.pdf"/>
+		 </bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+		 	<author>
+		 		<persnonname>
+		 			<surname>GÓMEZ HERNÁNDEZ</surname> <firstname>José Antonio</firstname>
+		 		</persnonname>
+		 	</author>
+		 	 <author>
+		 	 	<personname>
+		 	 		y 
+		 	 		<surname>LICEA DE ARENAS</surname> <firstname>Judith</firstname>
+		 	 	</personname>
+		 	 </author>
+		 </authorgroup>
+		 <pubdate>(2009)</pubdate>
+		 <title>La alfabetización informacional en el entorno hispanoamericano</title>
+		 <citetitle>En Anales de Documentación, n. 12, p. 93-106</citetitle>
+		 <bibliomisc>
+		 	<phrase>
+		 		[Consulta: 29 de enero de 2010]
+		 	</phrase>
+		 </bibliomisc>
+		 <bibliosource class="uri">
+		 	Disponible en: <link xl:href="http://revistas.um.es/analesdoc/article/viewFile/70261/67731"/>
+		 </bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<persnonname>
+					<surname>GÓMEZ HERNÁNDEZ</surname> <firstname>José Antonio</firstname>
+				</persnonname>
+			</author>
+			<author>
+				<personname>
+					y
+					<surname>PASADAS UREÑA</surname> <firstname>Cristóbal</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<pubdate>(2007)</pubdate>
+		 <title>Alfabetización informacional y biblioteca pública</title>
+		 <subtitle>bases y tareas para una agenda de desarrollo</subtitle>
+		 <citetitle>En Information Research, v. 12, n.3</citetitle>
+		 <bibliomisc>
+		 	<phrase>
+		 		[Consulta: 29 de enero de 2010]
+		 	</phrase>
+		 </bibliomisc>
+		 <bibliosource class="uri">
+		 	Disponible en: <link xl:href="http://informationr.net/ir/12-3/paper316.html"/>
+		 </bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>GONZÁLEZ FERNÁNDEZ DE VILLAVICENCIO</surname> <firstname>Nieves</firstname>
+			</personname>
+		</author>
+		<pubdate>(2010a)</pubdate>
+		<title>Alfabetización digital en bibliotecas públicas de Andalucía</title>
+		<subtitle>documento marco Plan Alba</subtitle> 
+		<pagenums>60 p</pagenums>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>GONZÁLEZ FERNÁNDEZ DE VILLAVICENCIO</surname> <firstname>Nieves</firstname>
+			</personname>
+		</author>
+		<pubdate>(2010b)</pubdate>
+		<title>Helping students become literate in a digital, networking-based society</title>
+		<subtitle>a literature review and discussion</subtitle>
+		<citetitle>En The Informational Information &amp; Library Review, XX, p. 124-136</citetitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 7 de junio de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://dx.doi.org/10.1016/j.iilr.2010.04.012"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<title>Hacia la alfabetización informacional en las bibliotecas públicas españolas</title>
+		<subtitle>informe del Grupo de Trabajo de Alfabetización Informacional del Consejo de Cooperación Bibliotecaria</subtitle>
+		<pubdate>(2009)</pubdate>
+		<pagenums>57 p</pagenums>
+		<bibliomisc class="phrase">
+			[Consulta: 9 de junio de 2010]
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://travesia.mcu.es/portalnb/jspui/bitstream/10421/1303/1/ALFIN_en_BP_2009.pdf"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<title>Information and IT literacy</title>
+		<subtitle>enabling learning in the 21st century</subtitle>
+		<pubdate>(2004)</pubdate>
+		<editor>
+			<personname>
+				Editado por <firstname>Allan</firstname> <surname>Martin</surname>
+			</personname> 
+			<personname>
+				y <firstname>Hannelore</firstname> <surname>Rader</surname>
+			</personname>
+		</editor>
+		<publisher>
+			<address>
+				<city>London</city>
+			</address>
+			<publishername>Facet</publishername>
+		</publisher>
+		<pagenums>284 p</pagenums>
+		<biblioid class="isbn">ISBN 1-85604-463-7</biblioid>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>JENKINS</surname> <firstname>H.</firstname>
+			</personname>
+		</author> 
+		<pubdate>(2008)</pubdate>
+		<title>Confronting the challenges of participatory culture</title>
+		<subtitle>media education for the 21st century</subtitle>
+		<publisher>
+			<address><city>Chicago</city></address> <publishername>McArthur Foundation</publishername>
+		</publisher>
+		<pagenums>72 p</pagenums>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 21 de junio de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://digitallearning.macfound.org/atf/cf/%7B7E45C7E0-A3E0-4B89-AC9C-E807E1B0AE4E%7D/JENKINS_WHITE_PAPER.PDF"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>JOHNSTON</surname> <firstname>Bill</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					y
+					<surname>WEBBER</surname> <firstname>Sheila</firstname>
+				</personname>
+			</author> 
+		</authorgroup>
+		<pubdate>(2007)</pubdate>
+		<title>Cómo podríamos pensar</title>
+		<subtitle>alfabetización informacional como una disciplina de la era de la información</subtitle>
+		<citetitle>En Anales de Documentación, n. 10, p. 491-504</citetitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 29 de enero de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://revistas.um.es/analesdoc/article/viewFile/290/269"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>LAU</surname> <firstname>Jesús</firstname>
+			</personname>
+		</author>
+		<pubdate>(2006)</pubdate>
+		<title>Guidelines on information literacy for lifelong learning</title>
+		<bibliomisc class="phrase">
+			Último borrador
+		</bibliomisc>
+		<bibliomisc class="phrase">
+			[Consulta: 29 de enero de 2010]
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://archive.ifla.org/VII/s42/pub/IL-Guidelines2006.pdf"/>
+		</bibliosource>
+		<bibliomisc class="phrase">
+			Hay traducción al castellano anterior: LAU, Jesús (2004). Directrices internacionales para la alfabetización informativa.
+		</bibliomisc> 
+		<pagenums>14 p</pagenums>
+		<bibliomisc class="phrase">
+			Versión breve para realizar aportaciones
+		</bibliomisc>
+		<bibliomisc class="phrase">
+			[Consulta: 29 de enero de 2010]
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://bivir.uacj.mx/DHI/DoctosNacioInter/Docs/Directrices.pdf"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>LICEA DE ARENAS</surname> <firstname>Judith</firstname>
+			</personname>
+		</author>
+		<pubdate>(2007)</pubdate>
+		<title>La evaluación de la alfabetización informacional</title>
+		<subtitle>Principios, metodologías y retos</subtitle>
+		<citetitle>En Anales de Documentación, n. 10, p. 215-232</citetitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 29 de enero de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://revistas.um.es/analesdoc/article/viewFile/1161/1211"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<bibliomisc>
+			<phrase>
+				<surname>LINDAUER</surname> <firstname>Bonnie Gratch</firstname>
+			</phrase>
+		</bibliomisc>
+		<pubdate>(2006)</pubdate>
+		<title>Los tres ámbitos de evaluación de la alfabetización informacional</title>
+		<citetitle>En Anales de Documentación, n. 9, p. 69-81</citetitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 9 de junio de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://revistas.um.es/analesdoc/article/view/1411/1461"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>MANO GONZÁLEZ</surname> <firstname>Marta de la</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					y 
+					<surname>MORO CABERO</surname> <firstname>Manuela</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<pubdate>(2009)</pubdate>
+		<title>La evaluación por competencias</title>
+		<subtitle>propuesta de un sistema de medida para el grado en Información y Documentación</subtitle>
+		<citetitle>En bid: textos universitaris de biblioteconomia i documentació, n. 23, diciembre</citetitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 22 de mayo de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://www.ub.es/bid/23/delamano2.htm"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>MARQUÉS GRAELLS</surname> <firstname>Pere</firstname>
+			</personname>
+		</author>
+		<pubdate>(2005)</pubdate>
+		<title>Nueva cultura, nuevas competencias para los ciudadanos</title>
+		<subtitle>La alfabetización digital. Roles de los estudiantes hoy</subtitle>
+		<pagenums>15 p</pagenums>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 22 de mayo de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://sectec.ilce.edu.mx/cite/documentos/antologia/iiib.pdf"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>MARQUÉS GRAELLS</surname> <firstname>Pere</firstname>
+			</personname>
+		</author>
+		<pubdate>
+			(2008)
+		</pubdate>
+		<title>
+			Las competencias digitales de los docentes (aportaciones del Foro TICEMUR 2008)
+		</title>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 22 de mayo de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://peremarques.pangea.org/docs/ticemurforo3.doc"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>MARQUÉS GRAELLS</surname> <firstname>Pere</firstname>
+			</personname>
+		</author> 
+		<pubdate>
+			(2009)
+		</pubdate>
+		<title>
+			Cómo mejorar la enseñanza y el aprendizaje con las TIC (2008)
+		</title>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 22 de mayo de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://www.slideshare.net/peremarques/cmo-mejorar-la-enseanza-y-el-aprendizaje-con-las-tic"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>MARTÍNEZ</surname> <firstname>Dídac</firstname>
+			</personname>
+		</author>
+		<pubdate>
+			(2003)
+		</pubdate>
+		<title>
+			El Centro de Recursos para al Aprendizaje CRAI
+		</title>
+		<subtitle>
+			El nuevo modelo de la biblioteca universitaria
+		</subtitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 5 de junio de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://www.aab.es/pdfs/gtbu_crai.pdf"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>MARZAL</surname> <firstname>Miguel Ángel</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					y 
+					<surname>PARRA VALERO</surname> <firstname>Pablo</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<pubdate>
+			(2009)
+		</pubdate>
+		<title>
+			La cooperación de la biblioteca escolar y la pública
+		</title>
+		<subtitle>
+			alfabetización en información, “biblioteca integrada” y el mundo virtual
+		</subtitle>
+		<citetitle>
+			En: Revista General de Información y Documentación, 19, 212-241
+		</citetitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 29 de enero de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://www.ucm.es/BUCM/revistas/byd/11321873/articulos/RGID0909110221A.PDF"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>MENOU</surname> <firstname>Michel J.</firstname>
+			</personname>
+		</author>
+		<pubdate>
+			(2004)
+		</pubdate>
+		<title>
+			La alfabetización informacional dentro de las políticas nacionales sobre tecnologías de la información y comunicación (TICs)
+		</title>
+		<subtitle>
+			la cultura de la información, una dimensión ausente
+		</subtitle>
+		<citetitle>
+			En Anales de Documentación, n. 7, p. 241-261
+		</citetitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 29 de enero de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://revistas.um.es/analesdoc/article/viewFile/3771/3671"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>MERLO VEGA</surname>, <firstname>José Antonio</firstname>
+			</personname>
+		</author>
+		<pubdate>
+			(2006)
+		</pubdate>
+		<title>
+			La profesión de archivos, bibliotecas y centros de documentación
+		</title>
+		<subtitle>
+			¿Dónde estamos? ¿Dónde tenemos que estar? Las claves de la visibilidad y algunas ideas para querernos
+		</subtitle>
+		<citetitle>
+			En La profesión de archivos, bibliotecas y centros de documentación: jornada estratégica de revitalización, (Bilbao, 21 septiembre de 2006)
+		</citetitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 3 de junio de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://eprints.rclis.org/7266/"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>MUELLER</surname> <firstname>Jon</firstname>
+			</personname>
+		</author>
+		<pubdate>
+			(2008)
+		</pubdate>
+		<title>
+			Assessing critical skills
+		</title>
+		<publisher>
+			<addresss>
+				<city>
+					Santa Bárbara
+				</city>
+				<state>
+					CA
+				</state>
+			</addresss>
+			<publishername>
+				Linworth
+			</publishername>
+		</publisher>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>NIJBOER</surname> <firstname>Jelke</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					and 
+					<surname>HAMMELBURG</surname> <firstname>Esther</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<pubdate>
+			(2010)
+		</pubdate>
+		<title>
+			Extending media literacy
+		</title>
+		<subtitle>
+			a new direction for libraries
+		</subtitle>
+		<citetitle>
+			En New Library World, v. 111, n. 1/2, p. 36-45
+		</citetitle>
+		<biblioid class="doi">
+			DOI 10.1108/03074801011015676
+		</biblioid>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>PINTO MOLINA</surname> <firstname>María</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					y 
+					<surname>SALES</surname> <firstname>Dora</firstname>
+				</personname>
+			</author>
+		</authorgroup> 
+		<pubdate>
+			(2007)
+		</pubdate>
+		<title>
+			Alfabetización informacional para una sociedad intercultural
+		</title>
+		<subtitle>
+			algunas iniciativas desde las bibliotecas públicas
+		</subtitle>
+		<citetitle>
+			En: Anales de Documentación, n. 10, p. 317-333
+		</citetitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 30 de enero de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://revistas.um.es/analesdoc/article/viewFile/1221/1271"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>PINTO MOLINA</surname> <firstname>María</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					y 
+					<surname>SALES</surname> <firstname>Dora</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					y 
+					<surname>OSORIO</surname> <firstname>Pilar</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<pubdate>
+			(2008)
+		</pubdate>
+		<title>
+			Biblioteca universitaria, CRAI y alfabetización informacional
+		</title>
+		<publisher>
+			<address>
+				<city>
+					Gijón
+				</city>
+			</address>
+			<publishername>
+				Trea
+			</publishername>
+		</publisher>
+		<pagenums>
+			245 p
+		</pagenums>
+		<biblioid class="isbn">
+			ISBN 978-84-9704-343-4
+		</biblioid>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>PIQUÍN</surname> <firstname>Rosa</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					y 
+					<surname>REY</surname> <firstname>Ana</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<pubdate>
+			(2005)
+		</pubdate>
+		<title>
+			Proyectos documentales integrados en la BE/CREA
+		</title>
+		<subtitle>
+			¿Qué son? ¿Cómo hacerlos?
+		</subtitle> 
+		<citetitle>
+			En. Libro abierto: Bibliotecas Escolares de la Provincia de Málaga, n. 21
+		</citetitle>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 29 de enero de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://www.juntadeandalucia.es/averroes/~sptmalaga/m45b102/media/docum/libroabierto21.pdf"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<title>
+			Psicología del aprendizaje universitario
+		</title>
+		<subtitle>
+			la formación en competencias
+		</subtitle> 
+		<pubdate>
+			(2009)
+		</pubdate>
+		<bibliomisc role="coordination">
+			<phrase>
+				Coordinadores: Juan Ignacio Pozo y M. Del Puy Pérez Echeverría
+			</phrase>
+		</bibliomisc>
+		<publisher>
+			<address><city>Madrid</city></address>
+			<publishername>
+				Morata
+			</publishername>
+		</publisher>
+		<pagenums>
+			231 p
+		</pagenums>
+		<biblioid class="isbn">
+			ISBN 978-84-7112-598-9
+		</biblioid>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<orgname>
+				REBIUN
+			</orgname>
+		</author> 
+		<pubdate>
+			(2008)
+		</pubdate>
+		<title>
+			Guía de buenas prácticas para el desarrollo de las competencias informacionales en las universidades españolas
+		</title>
+		<bibliomisc>
+			<phrase>
+				Elaborada por el Grupo de Trabajo ALFIN de REBIUN, adaptada de la obra del CAUL “Best Practice Characteristics for Developing Information Literacy in Australian Universities: a guideline” (2004)
+			</phrase>
+		</bibliomisc>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 7 de junio de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://www.rebiun.org/export/docReb/guia_buenas_practicas.doc"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<orgname>
+				SCONUL
+			</orgname>
+		</author>
+		<pubdate>
+			(2004)
+		</pubdate>
+		<title>
+			Learning outcomes and Information Literacy
+		</title>
+		<pagenums>
+			76 p
+		</pagenums>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 29 de mayo de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliomisc>
+			<phrase>
+				Contiene ejemplos de cómo aplican el modelo 6 bibliotecas universitarias, incluyendo sus planes de ALFIN
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://www.sconul.ac.uk/groups/information_literacy/papers/outcomes.pdf"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>SPIRANEC</surname> <firstname>Sonja</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					and 
+					<surname>BANEK ZORICA</surname> <firstname>Mihaela</firstname>
+				</personname>
+			</author>
+		</authorgroup> 
+		<pubdate>
+			(2010)
+		</pubdate>
+		<title>
+			Information Literacy 2.0
+		</title>
+		<subtitle>
+			hype or discourse refinement?
+		</subtitle> 
+		<citetitle>
+			En Journal of Documentation, v. 66, n. 1, p. 140-153
+		</citetitle>
+		<biblioid class="doi">
+			DOI 10.1108/00220411011016407
+		</biblioid>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<orgname>
+				UNESCO
+			</orgname>
+		</author>
+		<title>
+			Programa de Información para Todos (IFAP) (2008)
+		</title>
+		<subtitle>
+			Hacia unos Indicadores de Alfabetización Informacional
+		</subtitle>
+		<bibliomisc>
+			<phrase>
+				Marco conceptual elaborado por Ralph Catts y Jesús Lau
+			</phrase>
+		</bibliomisc>
+		<bibliomisc>
+			<phrase>
+				Traducción al castellano por Lourdes Moreno Pascual
+			</phrase>
+		</bibliomisc>
+		<publisher>
+			<address><city>París</city></address>
+			<publishername>
+				UNESCO
+			</publishername>
+		</publisher>
+		<pagenums>
+			44 p
+		</pagenums>
+		<bibliomisc>
+			<phrase>
+				[Consulta: 21 de mayo de 2010]
+			</phrase>
+		</bibliomisc>
+		<bibliosource class="uri">
+			Disponible en: <link xl:href="http://wikialfin.pbworks.com/f/IndicadoresAlfinUNESCOborrador%5B1%5D.pdf"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<title>
+			Using technology to teach information literacy
+		</title>
+		<pubdate>
+			(2008)
+		</pubdate>
+		<editor>
+			Editado por Thomas P. Mackey y Trudi E. Jacobson
+		</editor>
+		<pagenums>
+			240 p
+		</pagenums>
+		<biblioid class="isbn">
+			ISBN 978-1-5557-0637-1
+		</biblioid>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>WEBB</surname> <firstname>Jo</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					y 
+					<surname>POWIS</surname> <firstname>Chris</firstname>
+				</personname>
+			</author>
+		</authorgroup> 
+		<pubdate>
+			(2004)
+		</pubdate>
+		<title>
+			Teaching information skills
+		</title>
+		<subtitle>
+			theory and practice
+		</subtitle>
+		<publisher>
+			<address><city>London</city></address><publishername>Facet</publishername>
+		</publisher>
+		<pagenums>
+			223 p
+		</pagenums>
+		<biblioid class="isbn">
+			ISBN 1-85604-513-7
+		</biblioid>
+	</biblioentry>
+</bibliography>

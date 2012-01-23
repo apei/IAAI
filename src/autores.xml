@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<appendix xml:id="bio"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  <title>Autores</title>
+  <section xml:id="bio01">
+  	<title>Andoni Calderón Rehecho</title>
+  	<informalfigure xml:id="bio01img">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-5-051.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+	</informalfigure>
+	<para>
+		Antonio (Andoni) Calderón Rehecho es responsable del Servicio de Información y Apoyo a la Docencia e Investigación 
+		de la Biblioteca de la Universidad Complutense de Madrid. Forma parte del grupo de trabajo sobre ALFIN de REBIUN y 
+		del grupo de trabajo sobre el mismo campo del Consejo de Cooperación Bi- bliotecaria. Participó en el I Encuentro 
+		de Toledo y en el II Encuentro en Vilanova; así como en los dos en- cuentros de responsables de ALFIN de bibliotecas 
+		universitarias españolas. Ha sido Secretario del Curso de Verano “Brecha digital y nuevas alfabetizaciones: el papel 
+		de las bibliotecas” y codirector de la publicación que se derivó del mismo. Desde 2007 es miembro, y Secretario, del 
+		Comité Permanente de la Sección de ALFIN de la IFLA.
+	</para>
+  </section>
+</appendix>

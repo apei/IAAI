@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch01"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+	<title>Alfabetización informacional, ¿de qué estamos hablando?</title>
+	<para>
+		Toda disciplina tiene, y necesita, definiciones que intentan aprehender su esencia, reducirla, sintetizarla o hacerla comprensible. Lo mismo 
+		ocurre con la alfabetización informacional<footnote><para>Una de las más conocidas es la de la ACRL: “la persona alfabetizada en información 
+		reconoce cuándo se necesita información y tiene la capacidad de localizar, evaluar y utilizar con eficacia la información necesaria”. Puede 
+		verse un compendio de definicio- nes en BAWDEN, David: Revisión de los conceptos de alfabetización informacional y alfabetización digital. 
+		Anales de Documenta- ción, n. 5, 2002, pp. 361-408 <link xl:href="http://revistas.um.es/analesdoc/article/view/2261"/> y en la página web IL: 
+		Information Lteracy <link xl:href="http://www.informationliteracy.org.uk/Information_literacy_definitions/Definitions.aspx"/></para></footnote>. 
+		En este sentido, nos gusta lo sencillo y lo sintético, por lo que preferimos la definición de 
+		CILIP, quizás porque se basa en lo que idealmente deberíamos pensar sobre cualquier cuestión: qué, por qué, cómo, quién, cuándo, dónde... 
+		Y dice lo siguiente:
+	</para>
+	<blockquote>
+		<para>
+			Alfabetización informacional es saber cuándo y por qué necesitas información, dónde encontrarla, y cómo evaluarla, utilizarla y 
+			comunicarla de manera ética.
+		</para>
+	</blockquote>
+	<para>
+		Antes de analizar esta definición vamos a ver cómo se identifica la disciplina, conocer cuál es su nombre: por quién preguntamos cuando 
+		nos referimos a ella o cómo identificamos que están nombrándola.
+	</para>
+	<para>
+		Hablamos de <emphasis role="strong">alfabetización informacional</emphasis>, que proviene del término inglés <foreignphrase lang="en">information literacy</foreignphrase>, 
+		cuyas siglas se presentan como IL y también muy a menudo como INFOLIT. El término <emphasis>literacy</emphasis> aborda más significados que simplemente el de 
+		alfabetización. Y, precisamente, ésta es la cuestión que en ocasiones plantea más problemas: alfabetización está enraizada en nuestra 
+		mente con los conceptos de leer y escribir. Y sobre todo, con un concepto opuesto, “analfabetismo”, que hasta no hace tanto tiempo era 
+		relativamente común en nuestro país. Este término, precisamente por estas implicaciones, resulta muy incómodo en determinadas áreas que 
+		tienden a rechazarlo. Probablemente también en algunos países en que el analfabetismo todavía es importante.
+	</para>
+	<para>
+		Hay argumentos que hablan de un cierto colonialismo anglosajón al admitir directamente <emphasis>literacy</emphasis> como elemento fundamental 
+		y con la acepción que hemos mencionado. No obstante, lo reivindicamos porque si debemos abordar la alfabetización informacional ante alguien 
+		que es técnicamente analfabeto<footnote><para>En el sentido tradicional de no saber leer y escribir, dado que quien “incurra” en esta definición 
+		seguro que es ducho en mu- chas otras cosas; es decir, seguramente que no es “analfabeto” en su cotidianeidad y es muy hábil en otras cuestiones, 
+		como la elemental de subsistir.</para></footnote> el término es totalmente válido y si lo hemos de utilizar ante quien lo es sólo ante el concepto 
+		“información” también es pertinente.
+	</para>
+	<para>
+		Y lo defendemos en los términos que se establecieron en el Encuentro de Toledo, donde se definía <emphasis role="strong">ALFIN</emphasis> como 
+		una especie de marca que incluía acepciones tales como “alfabetización informacional”, “alfabetización en información” o “alfabetización 
+		informativa”... Será ese término, ALFIN, el que utilizaremos con mayor asiduidad.
+	</para>
+	<para>
+		Hecha esta precisión, podemos adentrarnos en otras acepciones que buscan definir lo mismo (y que nos dan más elementos para construir el concepto), 
+		como son:
+	</para>
+	<itemizedlist>
+		<listitem>
+			<para>
+				<emphasis role="strong">DHI</emphasis> (Desarrollo de Habilidades Informativas) muy utilizado en el ámbito iberoamericano, especialmente 
+				en México, donde –por otra parte– hay una fuerte tradición en esta disciplina. Se emparenta, no obstante, con un término anglosajón: 
+				<emphasis>information skills</emphasis>.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				<emphasis role="strong">CI</emphasis> (competencias informacionales o competencias en información): es un término también extendido que 
+				busca evitar el término alfabetización y que –en realidad– es coherente porque no se trata sino de hablar de la capacidad de las personas 
+				de manejarse con la información. Algo que podría decirse también de los alfabetizados en sentido estricto: competentes en lectura y 
+				escritura.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				<emphasis role="strong">CI2</emphasis> (competencias informacionales e informáticas): para algunos supera el ámbito del que hablamos; sin embargo, 
+				dado que cada vez es más importante el medio y aunque no lleguemos a decir que el medio es el mensaje, es cada vez más cierto que son inseparables.
+			</para>
+			<informalfigure xreflabel="Fig 1">
+			  	<mediaobject>
+			  		<imageobject>
+			  			<imagedata fileref="resource/INF-5-006.jpg" />
+			  		</imageobject>
+			  	</mediaobject>
+		  	</informalfigure>
+		</listitem>
+		<listitem>
+			<para>
+				<emphasis role="strong">La maîtrise de l’information</emphasis> es el término del mundo francófono, que claramente hace referencia una 
+				vez más a la habilidad, la competencia, la maestría... en el manejo de la información.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				<emphasis role="strong">Informationskompetenz</emphasis> se usa en alemán, resaltando de nuevo la idea de competencia.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				<emphasis role="strong">Literacia em informação (LITINFO)</emphasis> es su expresión portuguesa, así como lo es <emphasis role="strong">Alfabetização Informativa</emphasis>
+				y otras acepciones que incluyen términos relacionados con competencias.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				<emphasis role="strong">Alfabetizzazione informativa o competenza informativa</emphasis> es la expresión italiana; en la que el 
+				término <emphasis>alfabetizzazione</emphasis> tiene un sentido de acción, más que de status.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Cerramos el paréntesis de nuevo con el inglés. Del mismo modo que hemos dicho que <emphasis>information literacy</emphasis> es el término 
+				más extendido, también utilizan conceptos como el ya indicado <emphasis>information skills</emphasis> y otros como <emphasis>information competencies</emphasis>, 
+				<emphasis role="strong">information fluency</emphasis> e incluso <emphasis>media and information literacy</emphasis> (MIL).
+			</para>
+		</listitem>
+	</itemizedlist>
+	<para>
+		Nos quedaría seguramente un término muy arraigado en la tradición bibliotecaria: el de <emphasis role="strong">formación de usuarios</emphasis>. 
+		En cierto modo, la misma máxima que se empleaba en dicha formación se emplea ahora respecto a ella para diferenciarla de la ALFIN: qué hemos de 
+		hacer “¿dar una caña (o un pescado) o enseñar a pescar?”. La diferencia es notable: en un caso saciamos el hambre momentáneamente; pero no 
+		solucionamos el problema, que se reproducirá una y otra vez. Mientras que si enseñamos a pescar (a dar las pautas para gestionar adecuadamente 
+		la información) enseñaremos a enfrentar situaciones nuevas.
+	</para>
+	<para>
+		En realidad, hay todavía ejemplos de formación de usuarios que enseñan a pescar y programas de ALFIN que únicamente dan el pescado. A veces es 
+		un problema de terminología, terreno en el que no nos gusta demasiado entrar; aunque reconocemos que es importante delimitar el ámbito de 
+		estudio<footnote><para>Siempre que ello no lleve a que únicamente discutamos bizantinamente.</para></footnote>.
+	</para>
+	<para>
+		Otra manera de identificar la alfabetización informacional –cualquiera que sea la denominación escogida– es mediante el logo que resultó 
+		ganador en un concurso organizado por la Sección de ALFIN de la IFLA con apoyo de la Unesco. El logo está a disposición de quien quiera hacer 
+		uso de él y se encuentra accesible en varias versiones e idiomas desde la página web &lt;<link xl:href="http://www.infolitglobal.info/logo/en"/>&gt;. 
+		Hemos incluido en párrafos anteriores una imagen del logo que identifica las CI2.
+	</para>
+	<informalfigure xreflabel="Fig 2">
+		<mediaobject>
+			<imageobject fileref="resource/INF-5-007.jpg"/>
+		</mediaobject>
+	</informalfigure>
+	<para>
+		Después de este repaso por los conceptos identificativos, volvamos a la definición de CILIP.
+	</para>
+	<para>
+		Hemos visto que la discusión se produce sobre todo en lo que hay que conseguir con respecto a algo que no se pone en cuestión y que en 
+		realidad constituye el corazón de todo: la información.
+	</para>
+	<section xml:id="ch01a">
+		<title>¿Qué es la información?</title>
+		<para>
+			Estamos constantemente hablando de la explosión de la información, del exceso de información, de sobreinformación... de infoxicación; 
+			aunque también de interinformación.
+		</para>
+		<para>
+			<emphasis role="strong">La información es en realidad el elemento básico de las relaciones humanas</emphasis>. Si precisamente destacamos 
+			sobre el resto de las especies es por nuestra capacidad de comunicación. Y siempre que hemos estudiado cuáles son los elementos de la 
+			comunicación, da igual lo complejo que fuera el esquema, la información se situaba en el lugar central, porque en ella se encuentra lo 
+			que queremos intercambiar y transmitir, sea desde el punto de vista científico, económico, laboral, político, social, lúdico... o romántico.
+		</para>
+		<para>
+			El emisor y el receptor, los medios, los canales, el código... hasta el ruido, sólo tienen sentido si hay información. Por tanto, la 
+			información es el elemento que comunicamos, el mensaje que transmitimos, sea cual sea su objetivo y sus elementos constitutivos.
+		</para>
+		<para>
+			Se habla de que estamos en la sociedad de la información. Sin embargo, preferimos la denominación de <emphasis role="strong">sociedad-red</emphasis>. 
+			Lo que es indudable es su aumento exponencial que se ha debido no a una calidad relevante de la misma en la época en que vivimos sino por 
+			el desarrollo de la tecnología; especialmente de la que conocemos como TIC (tecnologías de la información y la comunicación). Estas 
+			tecnologías han roto las barreras que muchas ciencias o disciplinas tenían ante determinados problemas. Al romperse, han provocado una 
+			reacción en cadena que ha tenido como consecuencia la proliferación de los descubrimientos y la total reconversión de muchas ramas del 
+			saber. Por otra parte, ha facilitado enormemente la creación y difusión de información, lo que nos ha convertido –a quienes hasta hace 
+			poco no lo éramos– en creadores de información.
+		</para>
+		<para>
+			También ha cambiado el soporte de la información. Hasta hace bien poco ésta se fijaba sobre todo en papel. Ha ido cediendo el terreno a 
+			lo digital, que –en un primer término<footnote><para>Ocurrió con la imprenta, que imitaba la redacción manual. En el mundo bibliotecario 
+			con los catálogos en línea que primero sólo reproducían las fichas en papel. Después se fueron liberando de esta atadura para hacerse 
+			hipertextuales y cada vez más multimedia. Ahora estamos en la etapa de permitir recoger aportaciones ajenas y hacerse intuitivos...</para></footnote>– 
+			sigue manteniendo esquemas similares a lo preexistente; pero en un tiempo no demasiado lejano dejará de hacerlo. De hecho ¿quién escribe 
+			en papel hoy en día? (tal vez los apuntes, que cada vez serán más digitales: sobre todo si se generaliza la tecnología en la escuela 
+			sustituyendo a la mochila escolar).
+		</para>
+		<para>
+			No estamos hablando de cuestiones baladíes. Pensemos en cómo han cambiado muchos modelos de negocio. En la mente de todos está la evolución 
+			del mercado del disco, que no negociaba sino con un tipo de información. También en la situación de la prensa, con los periódicos gratuitos 
+			y las ediciones en línea, la de los cines recluidos en centros comerciales, la de los cada vez más escasos videoclubs... Ya buena parte del 
+			mercado está tomando posiciones ante el libro digital. Y ¿vamos a entrar a discutir el papel futuro de los bibliotecarios?
+		</para>
+		<para>
+			El cambio no se da únicamente de lo que era papel a lo que es digital. Hay disciplinas científicas que precisan de documentos complejos o 
+			acumulan sobre la misma investigación multitud de recursos de información de diferente tipo (datasets) o que se valen de enormes cantidades 
+			de datos binarios (simulaciones de todo tipo: meteorológicas, demográficas, geológicas, matemáticas...). Situaciones semejantes se dan con 
+			los propios materiales de aprendizaje que crean los profesores de cualquier disciplina o en las nuevas formas de edición que están incluyendo 
+			en lo que hasta ahora eran documentos meramente literarios elementos tales como música, juegos o aditamentos que son parte consustancial de 
+			las historias que cuentan...
+		</para>
+		<para>
+			Este soporte (mejor estos soportes) supone un elemento cualitativo y no únicamente cuantitativo que enraiza firmemente en la propia 
+			información haciendo indisolubles<footnote><para>“Las tecnologías del conocimiento son no sólo, como se suele asumir, un soporte o un 
+			formato, sino que más allá de ello afectan a la propia naturaleza del conocimiento y los espacios en los que se transmite... Podemos decir 
+			que las formas de pensar y concebir el conocimiento están estrechamente ligadas a las tecnologías de la información y el conocimiento 
+			dominantes en cada sociedad”. POZO, Juan Ignacio y MONEREO, Carles: La nueva cultura del aprendizaje universitario o por qué cambiar 
+			nuestras formas de enseñar y aprender. En Psicología del aprendizaje universitario: la formación en competencias (2009, p. 14).</para></footnote> 
+			continente y contenido. Del mismo modo que no puedo leer un libro si no entiendo su sofisticado mecanismo tampoco podré “leer” la información 
+			que se presente en un formato para el que desconozco los rudimentos esenciales<footnote><para>Leer la web ya no es lo mismo si no se entienden 
+			sus iconos, participar en ellas no es posible si no se usan estas herramientas, aprender y hablar su mismo lenguaje es fundamental para 
+			considerarse alfabetizado en un mundo digital (González Fernández de Villavicencio, 2010a, p. 17).</para></footnote>.
+		</para>
+		<para>
+			De igual manera que no es lo mismo decir te quiero con un beso, con un susurro, con un papelito arrugado y escrito, que mientras no se 
+			levanta la vista del periódico o se siguen fijamente las evoluciones de un futbolista en la pantalla... tampoco lo es promocionar la 
+			biblioteca de viva voz en un pasillo, con un cartel hecho a mano, con una página web <emphasis>ex profeso</emphasis>, con un vídeo con 
+			diseño adecuado al destinatario, con ese mismo vídeo incluido dentro de una web social o en una conferencia en línea ante autoridades 
+			de alto rango... La información –que teóricamente es la misma– adquiere nuevo significado con el uso de unos determinados medios o 
+			canales; por tanto, esos medios y canales son elementos informativos en sí mismos y deben ser contemplados por la ALFIN.
+		</para>
+		<para>
+			En realidad no queremos decir otra cosa sino que dentro de las competencias en información deben contemplarse las digitales, 
+			llamémoslas informáticas o de cualquier otra manera. Y entendidas en todas sus dimensiones, una de las cuales ahora mismo es la de 
+			compartir en red.
+		</para>
+		<note>
+			<para>
+				Dentro de las competencias en información deben contemplarse las digitales, 
+				llamémoslas informáticas o de cualquier otra manera.
+			</para>
+		</note>
+		<para>
+			Este cambio en la información está ligado íntimamente con dos conceptos más: el aprendizaje a lo largo de la vida y el multialfabetismo.
+		</para>
+		<para>
+			<emphasis role="strong">El aprendizaje a lo largo de la vida</emphasis> cobra sentido porque, como hemos dicho, las disciplinas 
+			se modifican constantemente y a gran velocidad, y su consecuencia inmediata es que cualquiera que quiera ser experto en una materia 
+			tiene que estar actualizándose constantemente.
+		</para>
+		<para>
+			Hemos de ser conscientes de que la necesidad de este aprendizaje afecta a todas las instancias de la sociedad; pero sobre todo a las 
+			que tienen que abordar la educación, comenzando por la inicial o primaria y finalizando en la superior, incluyendo en esta última la 
+			universidad para mayores. Sin olvidar, la universidad en línea, no únicamente porque rompa con la necesidad de la presencia física, 
+			sino por algunas repercusiones de este hecho, como la posibilidad de acoger a estudiantes de cualquier lugar del mundo.
+		</para>
+		<para>
+			El multialfabetismo<footnote><para>Lo tratan en profundidad Cristóbal Pasadas en Brecha digital y nuevas alfabetizaciones...(2008, 
+			p. 59-85) y en el capítulo pri- mero “La biblioteca pública en la actual sociedad del conocimiento: la nueva dimensión de la 
+			Alfabetización múltiple” en la obra colectiva Alfabetización múltiple desde la biblioteca pública (2009, p. 13-48).</para></footnote> 
+			deriva en buena medida del desarrollo tecnológico que nos descubre nuevas herramientas y, con ellas, nuevos caminos. Pero se ha llegado 
+			a una cierta impostura<footnote><para>Consistiría en descubrir o realzar una carencia para aportar las soluciones oportunas previo pago.</para></footnote> 
+			en la que para cualquier cosa que haya que aprender se habla de una alfabetización nueva, aunque abarque campos, actitudes o competencias 
+			que deberían entenderse en el alfabetismo tradicional. No decimos –ni exigimos– que los alumnos sean alfabetizados en matemáticas, en 
+			conocimiento del medio, en historia, en educación física o en dibujo (o en cualquiera de las asignaturas que ahora mismo reciben). 
+			Tampoco en las que hasta ahora no eran tan explícitas como la alfabetización en comunicación, la del trabajo en equipo...
+		</para>
+		<para>
+			Sí tienen sentido todas aquellas que se han derivado de la existencia de nuevas herramientas o del avance de herramientas viejas que han 
+			cambiado las exigencias para su uso, como todas las que tienen que ver con el mundo de las tecnologías de la información y de la comunicación: 
+			alfabetización digital, alfabetización en medios...
+		</para>
+		<para>
+			Esto crea una controversia nueva que lleva a discutir si una es más importante que otra, si aquélla incluye a ésta, si la otra se 
+			solapa con la de más allá.
+		</para>
+		<para>
+			Pensamos que la ALFIN abarca a todas ellas, sin que esto signifique establecer categorías, despreciar o supeditar a unas frente a otras. Y 
+			para plantear nuestra postura es válido el sentido tradicional de alfabetización. Una vez que considerábamos a alguien como alfabetizado, 
+			capaz de leer y escribir, no nos planteábamos si estaba alfabetizado en lectura de pergaminos (en todo caso en la lengua que estuviera 
+			sobre él), en códices, en documentos manuscritos o en libros hechos con ácida pasta de papel; del mismo modo que no diferenciábamos si 
+			sabía escribir en una pizarra, sobre la arena de la playa, con un <emphasis>spray</emphasis> sobre una pared, con una navaja en un árbol 
+			o con la pluma más cara para dedicar un libro.
+		</para>
+		<para>
+			De igual manera, siempre y cuando hayamos admitido que existe la ALFIN como concepto o disciplina, creemos que debe abarcar todo lo que 
+			tenga que ver con la información en el sentido de nuestra definición: para seleccionar, para buscar, para gestionarla, para crear con 
+			ella y comunicarla... Si es con papel, muy bien; si es con señales de humo, también; con banderas, o Morse, o lenguaje de signos, con 
+			expresión corporal... mediante una máquina de escribir, con un ordenador, utilizando un dispositivo móvil, una red social, otra red 
+			social, un chat, un programa de mensajería instantánea, un vídeo, un tutorial, una plataforma de e-learning, un blog, una wiki, un libro 
+			electrónico, con una semanticona web o con un <emphasis>ThingusesThink</emphasis> estaremos hablando de ALFIN.
+		</para>
+		<para>
+			La información debe ser entendida como algo en continuo cambio y en expansión. En este sentido es conveniente no olvidar que la novedad 
+			no supone olvido de lo anterior sino su asunción con una nueva forma. Es posible que los que tienen más años no sean capaces de utilizar 
+			(o sacar todo su partido a) determinados dispositivos móviles; pero aquéllos que los manejan con la mayor naturalidad saben (o deberían) 
+			utilizar los que hacen hábiles a los primeros; aunque sus modos de comunicación y expresión predominantes sean otros.
+		</para>
+		<section xml:id="ch01a1">
+			<title>Cuándo y por qué</title>
+			<para>
+				Hemos hablado ya del concepto de información. Saber <emphasis role="strong">cuándo y por qué</emphasis> la necesitas no es cuestión 
+				de poca importancia, sobre todo porque se reproduce muy rápidamente, se difunde de manera casi instantánea y nos llega incluso sin 
+				haberla solicitado. Muchas veces la respuesta es proporcionada por la propia pregunta que nos hacemos. Ser consciente de lo que se 
+				necesita supone cuando menos haber sido un receptor satisfactorio en el acto de la comunicación<footnote><para>Por ejemplo, respecto 
+				a lo que ha solicitado un profesor para superar un examen, lo que requiere una institución para conse- guir una acreditación, un 
+				documento..., lo que requiere esa idea genial que acabamos de discutir en nuestro grupo o con el socio para mejorar nuestro negocio, 
+				la laguna que se nos ha generado al ver un documental o leer una novela...</para></footnote>, salvo que responda a un impulso interior 
+				más emocional que intelectual. En realidad es un paso fundamental que influirá decisivamente en los siguientes. Todavía recordamos el 
+				ejemplo clásico de Guinchat y Menou<footnote><para>GUINCHAT, Claire y MENOU, Michel: Sciences et techniques de l’information et de la 
+				documentation. Introduction générale. Paris: Unesco, 1981. 402 p. ISBN 92-3-201860-8. Disponible (casi en su totalidad) en: 
+				&lt;<link xl:href="http://unesdoc.unesco.org/images/0018/ 001842/184242fo.pdf"/>&gt;. La imagen es de la página 234.</para></footnote> 
+				(<xref linkend="ich01a3" xreflabel="ver imagen"/>) al hablar de la entrevista documental y contrastar lo que realmente necesita un usuario con lo que 
+				transmite que necesita al documentalista, lo que éste último entiende, cómo lo traduce en búsqueda y lo que finalmente se obtiene. 
+				Imaginemos que el punto de partida inicial fuera erróneo (el usuario no sabe qué necesita ni por qué)...
+			</para>
+		</section>
+		<section xml:id="ch01a2">
+			<title>Dónde encontrarla</title>
+			<para>
+				Para encontrar es preciso buscar. En muchas ocasiones se confunde ALFIN únicamente con la <emphasis role="strong">búsqueda de información</emphasis> 
+				o se ha identificado la formación de usuarios como la enseñanza de las herramientas de búsqueda. Lo que es evidente, hasta que se encuentre 
+				un sistema que busque por nosotros con la simple acción de pensar, es que se trata de un elemento fundamental como queda demostrado hasta en 
+				los mejores ejemplos: la Universidad Carlos III de Madrid ha conseguido un hito en el deseo de incluir la ALFIN en el currículo, y el curso 
+				que utiliza para ello se llama “<emphasis>Técnicas de búsqueda y uso de la información</emphasis>”.
+			</para>
+			<para>
+				La búsqueda de información está caracterizada hoy por 3 rasgos fundamentales:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						Cada vez hay <emphasis role="strong">más focos de información</emphasis>, tanto formal como informal
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Cada vez aparece en <emphasis role="strong">más formatos</emphasis>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Las <emphasis role="strong">herramientas de búsqueda</emphasis>, al alcance de cualquiera, son cada vez más poderosas
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				Los dos primeros rasgos requieren de un conocimiento de todas las fuentes o de aquéllas que sirven para recuperar información de otras 
+				muchas (recolectores...). También del conocimiento de los nuevos medios utilizados para crear la información y para comunicarla, 
+				incluyendo las redes sociales, los colaboratorios... que en ciertos aspectos pueden funcionar como lo que en la literatura tradicional 
+				se conocía como colegios invisibles (los que se citan entre sí, o intercambian información, experiencias, fuentes, herramientas... 
+				seguramente acudirán a lugares semejantes en la red).
+			</para>
+			<informalfigure xreflabel="Fig 3" xml:id="ich01a3">
+				<mediaobject>
+					<imageobject fileref="resource/INF-5-008.jpg"/>
+				</mediaobject>
+				<caption><para>Guinchat; Menou (1981). La entrevista documental</para></caption>
+			</informalfigure>
+			<para>
+				El tercero, la existencia de potentes herramientas de búsqueda al alcance de todos, tiene implicaciones importantes. Por un lado, 
+				le sirven al propio experto en información para ayudarse en su tarea diaria. Por otra, proporcionan al usuario de la calle la 
+				seguridad de haber encontrado aquello que le resulta útil; aunque desconoce que esas herramientas no pueden buscar en cualquier 
+				lugar ni en realidad en buena parte de la información disponible; y probablemente no es consciente de que las ordenan según 
+				criterios que conllevan un sesgo indudable.
+			</para>
+			<para>
+				Pero tiene también un resultado inesperado: los usuarios consideran a estas herramientas como sus interlocutores válidos y dejan de 
+				lado a bibliotecas, profesionales de la información, centros documentales... que se vuelven invisibles a menos que se encuentren 
+				dentro de los resultados del buscador o se muestren de alguna manera útiles en los lugares de la web que frecuenta el usuario.
+			</para>
+			<para>
+				Esta es una de las caras del <emphasis role="strong">cambio de negocio en el mundo de las bibliotecas</emphasis>, que pone en 
+				cuestión su papel. Igual que Carles Monereo se pregunta para qué sirve un profesor en el mundo de Internet, podríamos preguntarnos 
+				para qué sirve un bibliotecario en ese mismo mundo. Creo que debemos tomar la actitud que Fernando Juárez defiende en más de una 
+				ocasión: no podemos obligarles que acudan a nosotros ni que dejen de usar sus “diabólicos cacharros” que les conectan con todo 
+				desde cualquier lugar; pero, ¿por qué no podemos nosotros utilizar esos mismos cacharros y aparecer en ellos?
+			</para>
+		</section>
+		<section xml:id="ch01a3">
+			<title>¿Cómo evaluarla?</title>
+			<para>
+				En primer lugar deberíamos preguntarnos por qué hay que <emphasis role="strong">evaluar la información</emphasis>.
+			</para>
+			<para>
+				Una cuestión evidente es que su cantidad es enorme para cualquier cometido. En este sentido evaluar supone elegir, ya que no 
+				toda la información tiene la misma importancia o es pertinente para un determinado cometido, en ocasiones es contradictoria... 
+				o carente de sentido.
+			</para>
+			<para>
+				Tampoco hay que olvidar cuál es el origen de la información, qué objetivos busca, su calidad, su legalidad… porque toda información 
+				tiene una razón de ser, que puede estar oculta o buscar el engaño, consiguiendo precisamente lo contrario de aquello para lo que 
+				debería servir; es decir, desinforma en vez de informar<footnote><para>Pensemos en las señales de tráfico contradictorias, en la 
+				letra pequeña de los contratos, en las fabulosas promociones para ser nuevo cliente (también con mucha letra pequeña), en los 
+				gráficos estadísticos parciales (ver imagen)...</para></footnote>. En realidad una de las razones por las que no nos gusta 
+				llamarla sociedad de la información es porque del mismo modo podría denominarse sociedad de la desinformación.
+			</para>
+			<informalfigure xreflabel="Fig 4">
+				<mediaobject>
+					<imageobject fileref="resource/INF-5-009.jpg"/>
+				</mediaobject>
+			</informalfigure>
+			<para>
+				¿Cómo se evalúa esta información? Una vez más recordamos una época lejana, en la que en la Escuela de Biblioteconomía nos enseñaban 
+				las pautas para analizar las obras de referencia según las cuales había que determinar la autoridad de autor y editor, las 
+				diferentes coberturas (espacial, temática, temporal, lingüística...) con su grado de exhaustividad, las fuentes, la estructura y 
+				metodología, la actualización...
+			</para>
+			<para>
+				Hoy en día prima la información en la web. Y en cierto modo los criterios son similares aunque adaptados. El número de criterios 
+				puede ser enorme: Lluís Codina (2003) llegó a identificar hasta 509, y acabó creando un esquema con 4 secciones (contenido, 
+				navegación, visibilidad y usabilidad) que incluyen 9 parámetros (qué es lo queremos evaluar) y 55 indicadores (cómo evaluamos esos 
+				parámetros) tal y como se puede ver en el cuadro anejo.
+			</para>
+			<para>
+				Hay muchas aportaciones en el ámbito de la evaluación de páginas web<footnote><para>El propio Codina ha prologado una obra 
+				monográfica dedicada a esta tarea: JIMÉNEZ PIANO, Marina y ORTIZ REPISO, Virginia: Evaluación y calidad de sedes web. Gijón: 
+				Trea, 2007, 270 p. ISBN: 978-84-9704-318-2. Los trabajos de Codina y Pere Marqués han sido mencionados en CUEVAS, Aurora 
+				(2007; p. 93-100).</para></footnote>. Destacaremos a Pere Marqués Graels, que busca analizar las páginas web con materiales 
+				educativos y las de docentes. Su esquema tiene similitudes con el de Codina; pero como su intención es la aplicación didáctica 
+				incluye elementos como “cuáles son los posibles usuarios –con sus características y su contexto educativo–, las principales 
+				aportaciones educativas de la página y las actividades que pueden realizar los estudiantes con la web. Además se valoran la 
+				capacidad de motivación, la adecuación a los destinatarios de los contenidos y actividades, el uso de recursos didácticos y 
+				de búsqueda y procesamiento de la información, la capacidad de fomentar el autoaprendizaje junto a la iniciativa en la toma 
+				de decisiones, el enfoque aplicativo-creativo de las actividades y el trabajo cooperativo”<footnote><para>CALDERÓN, Antonio 
+				(2006): Incluye –además de una panorámica sobre la evaluación de páginas web– los esquemas de Codina y Pere Marqués; y da 
+				algunos pinceladas sobre la evaluación cuantitativa de la web.</para></footnote>.
+			</para>
+			<para>
+				Cabe preguntarse si no sería conveniente establecer criterios adicionales para analizar determinadas cuestiones de las 
+				redes sociales que no queden cubiertas con estos esquemas como la recomendación del grupo; aunque seguramente pueden 
+				asimilarse a alguno de los criterios de calidad descritos. No hay que olvidar, sin embargo, que el resultado de evaluar es 
+				identificar aquella información que es relevante y pertinente para la necesidad que tenemos en una circunstancia concreta.
+			</para>
+		</section>
+		<section xml:id="ch01a4">
+			<title>Utilizarla</title>
+			<para>
+				<emphasis role="strong">Utilizarla</emphasis> supone organizarla. La organizamos para asimilarla mejor y para poder extraer 
+				su esencia. Esta es una de las tareas en la que los especialistas en la información (bibliotecarios, documentalistas, 
+				archiveros...) son más expertos, ya que han trabajado en ello durante mucho tiempo. Y éste es uno de los roles que pueden 
+				reivindicar para sí.
+			</para>
+			<para>
+				Después nos enfrentaremos al acto más importante: crear con ella, generar conocimiento, producir una nueva información, que 
+				no es sino conseguir el objetivo que buscábamos (solucionar un problema, elaborar un trabajo, redactar un artículo, informar 
+				de un descubrimiento o invento, disfrutar de una obra, ensamblar imágenes, construir un tutorial, hacer el guión de una 
+				película o un cómic, organizar una clase, establecer un itinerario, diseñar un calendario...).
+			</para>
+		</section>
+		<section xml:id="ch01a5">
+			<title>Comunicarla...</title>
+			<para>
+				Salvo que la estemos buscando únicamente para solaz propio, la utilizaremos en un nuevo acto de <emphasis role="strong">comunicación</emphasis>; 
+				es decir, para contactar con alguien. Este acto de comunicación puede consistir meramente en hacerla disponible, aunque nadie la 
+				utilice (¿cuántas obras se han escrito que no han sido leídas?).
+			</para>
+			<para>
+				Para poder establecer esa comunicación necesitamos tener siempre presente cuál es el destinatario, lo que condicionará su estructura 
+				formal, igual que el contenido. Es evidente, como ya hemos dicho en el primer estadio del proceso, que es preciso ser ducho en las 
+				herramientas necesarias para su creación y comunicación.
+			</para>
+			<para>
+				El acto de comunicación dependerá de las circunstancias, pudiendo limitarse a un intercambio oral o a un breve apunte escrito; podrá 
+				ser formal o informal, académico... Puede concretarse en la carga de vídeos, fotografías o presentaciones en determinadas webs o en 
+				redes sociales específicas. Es posible que se consiga mediante la creación de un post o de un comentario en un blog, tal vez a través 
+				de la redacción de un artículo en una wiki, el uso de una lista de correo, de un foro, o... del campus virtual. Habrá que saber cómo 
+				funcionan estas herramientas para poder hacerlo.
+			</para>
+			<para>
+				En el ambiente académico una de las cuestiones que más se ponderan es <emphasis role="strong">cómo elaborar un trabajo académico</emphasis>. 
+				En diferentes ámbitos, especialmente universidades, se dan algunas directrices para llevarlo a buen término. Ponemos algunos ejemplos de 
+				universidades españolas:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						Biblioteca de la Universidad Pompeu Fabra &lt;<link xl:href="http://www.upf.edu/bibtic/es/guiesiajudes/tre-aca.html"/>&gt;
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Biblioteca de la Universidad Complutense &lt;<link xl:href="http://www.ucm.es/BUCM/alfin/21087.php"/>&gt;
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Biblioteca de la Universidad Carlos III de Madrid 
+						&lt;<link xl:href="http://www.uc3m.es/portal/page/portal/biblioteca/aprende_usar/autoformacion"/>&gt;
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Biblioteca de la Universidad de Valencia &lt;<link xl:href="http://www.uv.es/bibsoc/GM/dosieres/como.html"/>&gt;
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para><emphasis role="strong">Parámetros e indicadores para la evaluación de páginas web</emphasis></para>
+			<informalfigure xreflabel="Fig 6">
+				<mediaobject>
+					<imageobject fileref="resource/INF-5-053.png"/>
+					<caption>
+						<para>Elaborado a partir de: CODINA, Lluís: Metodología de análisis y evaluación de recursos digitales en línea. Octubre 2003.</para>
+					</caption>
+				</mediaobject>
+			</informalfigure>
+		</section>
+		<section xml:id="ch01a6">
+			<title>...de manera ética</title>
+			<para>
+				En el apartado de la comunicación, la definición de CILIP que estamos siguiendo añade un elemento más: “<emphasis role="strong">de manera ética</emphasis>”.
+			</para>
+			<para>
+				Caben dos vertientes fundamentales sobre esta cuestión. La primera trataría del respeto a la autoría de 
+				cualquier información. La segunda el destino, el fin último que se persigue.
+			</para>
+			<para>
+				Con respecto a la autoría, normalmente no suele discutirse el reconocimiento de quién es el creador intelectual; aunque el plagio, 
+				consciente o no, es frecuente. Los problemas reales se dan cuando entran en juego los derechos económicos que se asocian a esta autoría; 
+				máxime cuando cambiando de paradigma (o al menos de modelo de negocio como hemos apuntado) los que más poder tienen pretenden ganar más 
+				por menos (“a río revuelto...”). Uno de los ejemplos que podríamos poner es la pretensión apuntada en algunos ámbitos por cobrar a la 
+				hora de citar. Precisamente es la cita uno de los principales reconocimientos que se puede hacer a un autor y una de las herramientas 
+				que más ha ayudado al progreso científico, que –se diga lo que se diga– es un progreso social y no individual. Nuria Amat mencionaba en 
+				su obra “El ladrón de libros” cómo todos los libros están construidos con citas de otros libros.				
+			</para>
+			<para>
+				Tanto unos derechos como otros quedan reflejados en leyes que protegen la propiedad intelectual, que es otro de los aspectos que están en 
+				continuo cambio por las implicaciones que tienen las TIC en la evolución de los medios de creación, reproducción y difusión de la 
+				información que han convertido a prácticamente cualquier consumidor de información en potencial creador de información.
+			</para>
+			<para>
+				No obstante, también es conveniente mencionar cómo con los movimientos de <emphasis>open access</emphasis> y el desarrollo de redes sociales se van 
+				extendiendo otras formas alternativas al copyright (todos los derechos reservados), como la de <emphasis>Creative Commons</emphasis> 
+				(algunos derechos reservados) bajo la que se acoge esta obra.
+			</para>
+			<para>
+				El otro aspecto al que aludíamos es el objetivo que buscamos con nuestra creación, que debe respetar los criterios éticos, uno de los 
+				principales sería no engañar, que es equivalente a desinformar. Es preciso considerar en este sentido que no es lo mismo legal, legítimo 
+				o justo. Podríamos decir que bastaría con respetar las leyes; pero éstas no siempre son justas.
+			</para>
+			<para>
+				La vigencia de estas cuestiones puede apreciarse en multitud de foros, especialmente en las bibliotecas. Un ejemplo, que además lo es 
+				también de repositorio de objetos de aprendizaje, sería la página dedicada al plagio en el Information Resource Bank 
+				&lt;<link xl:href="https://ilrb.cf.ac.uk/plagiarism/index.html"/>&gt; de la Universidad de Cardiff.
+			</para>
+			<para>
+				Pero el ejemplo más destacado de su importancia es el <emphasis role="strong">proyecto de código de ética para la sociedad de la 
+				información</emphasis><footnote><para>Disponible en &lt;<link xl:href="http://portal.unesco.org/ci/en/files/29593/126901525775_-_IFAP-2010-COUNCIL.VI-5.pdf/5%2B-%2BIFAP-2010-COUNCIL.VI-5.pdf"/>&gt;.</para></footnote>
+				elaborado por la UNESCO este mismo año, que recoge aportaciones previas de la propia UNESCO, del Consejo de Europa, de la Unión 
+				Europea o de la <emphasis>Carta de los Derechos de los Ciudadanos en la Sociedad del Conocimiento</emphasis><footnote><para>Puede ser 
+				consultada en &lt;<link xl:href="http://www.comune.bologna.it/iperbole/eurocities/images/documenti/e-rights%20charter.pdf"/>&gt;</para></footnote>, en el que se incluyen aspectos como:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						Igualdad en el acceso a redes y servicios, en el acceso a la creación y el uso de información y contenidos y en la capacidad de 
+						utilizar equipos y programas de información
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Libertad de expresión
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Protección de la vida privada
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Libertad de reunión y asociación
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Libertad de utilizar la tecnología con fines creativos
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Democracia
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Seguridad en Internet
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Protección de la ley
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Derechos de propiedad intelectual acordes con los tratados internacionales
+					</para>
+				</listitem>
+			</itemizedlist>
+		</section>
+	</section>
+	<section xml:id="ch01b">
+		<title>Las competencias</title>
+		<para>
+			Hemos visto cómo en una buena parte de este recorrido se menciona o hace referencia al concepto de competencia. También lo encontraremos 
+			más adelante en las normas, en los modelos, en los marcos o en los perfiles de los profesionales que intervienen en la ALFIN. ¿De qué 
+			estamos hablando? Es posible que de muchas cosas diferentes; dado que aunque en todos ellos se hace referencia al término, parece que 
+			hay interpretaciones distintas sobre cuál es su ámbito, en especial cuando se habla de un tipo de competencias específicas.
+		</para>
+		<informalfigure xreflabel="Fig 6">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-010.jpg"/>
+			</mediaobject>
+		</informalfigure>
+		<para>
+			Las competencias cobran un relieve especial porque han entrado de lleno en el mundo educativo al formar parte esencial del aprendizaje, 
+			que ya no se entiende como meramente reproductivo y asimilador de conocimientos sino como algo dinámico, compuesto de múltiples facetas 
+			y orientado a la resolución de problemas: las competencias se adquieren para ser capaz de desenvolverse ante situaciones y contextos 
+			diferentes, sin la existencia de verdades absolutas<footnote><para>“Aprender ya no es apropiarse de una verdad absoluta, válida en 
+			todo contexto y situación, sino adquirir diversos conocimientos y saber usar el más adecuado en cada situación o contexto” 
+			(Psicología...; p. 16).</para></footnote>, dialogando con la incertidumbre<footnote><para>La idea es de Edgar Morin: “conocer y 
+			pensar no es llegar a la verdad absolutamente cierta, sino que es dialogar con la incerti- dumbre” (Psicología...; p. 17).</para></footnote>.
+		</para>
+		<para>
+			Según la norma UNE 66173:2003 las competencias son el “<emphasis>conjunto de atributos personales y aptitud demostrada para aplicar 
+			conocimientos y habilidades</emphasis>”, entendida como sinónimo de la “<emphasis>capacidad de resolver problemas en un determinado 
+			contexto</emphasis>”. Partiendo de esta definición, Marta de la Mano y Manuela Moro (2009) hablan de varias dimensiones en su concepto: 
+			los atributos personales (lo que la persona es), las aptitudes demostradas (lo que la persona hace) y la capacidad de resolver problemas 
+			en cualquier contexto apoyándose en Joan Rué que las expresa mediante<footnote><para>Similares a las que Jacques Delors planteaba en 
+			1996 en su informe “La educación encierra un tesoro”: aprender a ser, apren- der a saber, conocer, aprender a hacer y aprender a 
+			convivir.</para></footnote>:
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>
+					<emphasis role="strong">Ser</emphasis>: actitudes
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Saber</emphasis>: conocimiento, enfoques, teorías
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Saber hacer</emphasis>: habilidades
+				</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			A continuación mostramos algunos ejemplos de esquemas de competencia en los que nos limitaremos a mencionarlas. Hay que considerar que 
+			cada una de las competencias específicas se puede desplegar de manera compleja. Es en buena medida lo que hacen los modelos y las normas 
+			de ALFIN.
+		</para>
+		<para>
+			El primer ejemplo proviene del ámbito de la ALFIN. En él Jesús Lau y Ralph Catts –en el documento de la <citetitle>UNESCO. Programa de 
+			Información para Todos (IFAP) (2008)</citetitle> en el que intentan encontrar unos indicadores útiles para la ALFIN– utilizan una pirámide 
+			sobre lo que consideran el mapa de habilidades de comunicación, incluyendo de abajo a arriba (y entendiendo que la parte superior engloba 
+			a las anteriores):
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>
+					<emphasis role="strong">Razonamiento</emphasis>: Habilidades del pensamiento
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Comunicación oral</emphasis>: Hablar y escuchar
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Alfabetización</emphasis>: Lectura, escritura, aritmética y... otras habilidades básicas
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Habilidades TIC-Alfabetización en medios</emphasis>: Uso de tecnología digital, uso de herramientas de comunicación, 
+					uso de redes, cambiar medio de mensajería, análisis de medios, otras habilidades en TIC y medios.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Alfabetización informacional</emphasis>: Definición y articulación de necesidad de información, 
+					localización y acceso de información, evaluación de la información, uso de la información, comunicación y uso técnico de 
+					información... otras habilidades de información
+				</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			El segundo nace de un organismo internacional, la OCDE, que describe las competencias que se consideran esenciales para la vida de las 
+			personas. Se conoce como Proyecto DeSeCo<footnote><para>El Proyecto DeSeCo puede consultarse en 
+			&lt;<link xl:href="http://www.deseco.admin.ch/bfs/deseco/en/index/03/02.parsys.78532.down loadList.94248.DownloadFile.tmp/2005.dscexecutivesummary.sp.pdf"/>&gt;</para></footnote> 
+			(Definición y Selección de Competencias) y habla de 9 competencias agrupadas en 3 categorías:
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>
+					Categoría 1. <emphasis role="strong">Usar herramientas de manera interactiva</emphasis>
+				</para>
+				<itemizedlist>
+					<listite>
+						<para>
+							1.A  Uso interactivo del lenguaje, los símbolos y los textos
+						</para>
+					</listite>
+					<listite>
+						<para>
+							1.B  Uso interactivo del conocimiento y la información
+						</para>
+					</listite>
+					<listite>
+						<para>
+							1.C  Uso interactivo de la tecnología
+						</para>
+					</listite>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>
+					Categoría 2. <emphasis role="strong">Interactuar en grupos hetereogéneos</emphasis>
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>
+							2.A Relacionarse con los demás
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							2.B Cooperar y trabajar en equipo
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							2.C Gestionar y resolver conflictos
+						</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>
+					Categoría 3. <emphasis role="strong">Actuar de manera autónoma</emphasis>
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>3.A Actuar dentro del contexto</para>
+					</listitem>
+					<listitem>
+						<para>3.B Diseño de proyectos personales</para>
+					</listitem>
+					<listitem>
+						<para>3.C Defender y asegurar intereses, límites y capacidades</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+		</itemizedlist>
+		<para>
+			El tercero tiene su origen en el mundo universitario desde el punto de vista de la psicología del aprendizaje. Se trata de una obra 
+			colectiva coordinada por Jesús del Pozo y M. del Puy Pérez Echeverría<footnote><para>Psicología del aprendizaje universitario: la 
+			formación en competencias (2009). No nos resistimos a citar su defensa de la for- mación estratégica ya que recuerda la definición 
+			de CILIP que hemos tomado como base: “la formación estratégica implica no sólo saber qué hacer y cómo hacerlo... sino también cuándo, 
+			por qué y para qué... “. Y a continuación defienden la enseñanza basada en la solución de problemas, que no trata únicamente de 
+			resolverlos sino que enseña a plantearse problemas. (p. 27).</para></footnote> en la que analizan las competencias transversales 
+			comunes a todas las áreas:
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>
+					<emphasis role="strong">Enseñar a encontrar información</emphasis> pertinente y ajustada al contexto
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Aprender a leer</emphasis> como herramienta para construir conocimiento
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Aprender a escribir textos académicos,</emphasis> incluyendo los aspectos de comunicación discursiva 
+					(exposición, explicación y argumentación) así como la interactividad y la escritura colaborativa (facilitada por las TIC y 
+					la web social)
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Aprender con imágenes e información gráfica</emphasis> y enseñar a leer, utilizar y construir gráficas e imágenes.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Aprender a pensar<footnote><para>“El pensamiento es una capacidad que se aprende y que, por tanto, también se 
+						puede enseñar o favorecer” (Psicología del aprendizaje..., 2009; p. 150-151). También en 153.</para></footnote> y a argumentar,</emphasis>
+						incluyendo la capacidad de análisis y la de síntesis.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Aprender a fijarse metas</emphasis>(como método motivacional) mediante tareas abiertas y multidimensionales, fomentando 
+					la autonomía, creando tareas desafiantes, activando la curiosidad, sabiendo comunicar, activar y planificar la interacción, mostrando la 
+					relevancia y la utilidad.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Aprender a cooperar</emphasis> es considerada una competencia clave incluyendo el trabajo con los otros, el 
+					pensamiento crítico y reflexivo, la capacidad de comunicar adecuadamente el conocimiento, el entendimiento y las habilidades, la 
+					regulación del propio aprendizaje y de los compañeros de equipo, la evaluación de uno mismo y de los demás (que también te evalúan). 
+					Su corolario es el <emphasis role="strong">Aprendizaje entre iguales,</emphasis> que conlleva una interdependencia positiva, 
+					interacciones personales ricas, responsabilidad individual, enseñanza de habilidades sociales y autorreflexión de equipo. 
+				</para>
+			</listitem>
+		</itemizedlist>
+		<informalfigure xreflabel="Fig 7">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-011.jpg"/>
+			</mediaobject>
+			<caption>
+				<para>Framework for 21st Century Learning (Partnership for 21st Century Skills)
+				&lt;<link xl:href="http://www.p21.org/index.php?option=com_content&amp;task=view&amp;id=254&amp;Itemid=119"/>&gt;</para>
+			</caption>
+		</informalfigure>
+		<para>
+			El cuarto nos llega desde el MIT (Massachusetts Institute of Technology) y habla de algunas nuevas destrezas que se suman a las 
+			ya existentes, como consecuencia del desarrollo de las TIC y de la importancia de las redes sociales como medio para trabajar juntos. 
+			En este marco, Henry Jenkins propone las siguientes New media literacies for the 21st century<footnote><para>JENKINS, H. (2008): Tíscar 
+			Lara ha traducido el vídeo donde se habla de estas competencias &lt;<link xl:href="http://tiscar.com/2009/02/23/video-new-media-literacies-en-espanol"/>&gt; 
+			NIJBOER, Jelke and HAMMELBURG, Esther (2010); p. 38-39.</para></footnote>:
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>
+					<emphasis role="strong">Juego</emphasis>: experimentar para resolver problemas.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Representación</emphasis>: Habilidad para adoptar identidades alternativas con el propósito de improvisar y 
+					descubrir (y conocer al otro).
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Simulación</emphasis>: crear e interpretar modelos del mundo real. Tiene una cierta vinculación con el juego 
+					aunque lo trasciende.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Apropiación</emphasis>: reinterpretar y remezclar el contenido de otros. Lo que en buena medida ha sido el 
+					punto de partida para el avance científico desde siempre.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Multitarea</emphasis>: habilidad para examinar el propio entorno y centrar la atención cuando se necesite 
+					en los detalles significativos.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Pensamiento distribuido</emphasis>: habilidad para interactuar con sentido con herramientas que expanden 
+					las capacidades mentales.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Inteligencia colectiva</emphasis>: aportar conocimiento, compartir y comparar.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Juicio</emphasis>: capacidad de evaluar de manera crítica diferentes fuentes de información.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Navegación transmediática</emphasis>: capacidad para utilizar diferentes medios y seguir los acontecimientos 
+					o la información a través de múltiples caminos.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Trabajo en red</emphasis>: habilidad para buscar, sintetizar y difundir información.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Negociación</emphasis>: capacidad de moverse en comunidades diversas, respetando y comprendiendo diferentes 
+					perspectivas, formas de actuar y normas alternativas.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Visualización</emphasis>: habilidad de interpretar y crear representaciones de datos para expresar ideas, 
+					encontrar patrones e identificar tendencias.
+				</para>
+			</listitem>
+		</itemizedlist>
+		<informalfigure xreflabel="Fig 8">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-012.jpg"/>
+				<caption>
+					<para>
+						Lara, Tíscar. Competencias digitales en un entorno de conocimiento abierto
+						<link xl:href="http://www.slideshare.net/tiscar/competencias-digitales-y-conocimiento-abierto?src=embed"/>
+					</para>
+				</caption>
+			</mediaobject>
+		</informalfigure>
+		<para>
+			En este mismo ámbito de media literacy se encuentran ejemplos como la <emphasis>European Charter for Media Literacy</emphasis><footnote><para>Véase 
+			&lt;<link xl:href="http://www.euromedialiteracy.eu/charter.php"/>&gt;</para></footnote>. Y transcendiéndolas o englobándolas en el ámbito general 
+			de la comunicación, aportaciones como el <emphasis>Framework for 21st Century Learning</emphasis><footnote><para>Véase 
+			&lt;<link xl:href="http://www.p21.org/index.php?option=com_content&amp;task=view&amp;id=254&amp;Itemid=119"/>&gt;</para></footnote> o la de Tíscar Lara 
+			que incluye las nuevas competencias en entornos no formales de aprendizaje, reconociendo 3 ámbitos de actuación (el de las personas, con nuevos roles; 
+			el de las estructuras, donde estés y a la hora que estés; y el de los contenidos, que debe estar constituido por recursos educativos abiertos) 
+			y menciona:
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>
+					<emphasis role="strong">Contrastar</emphasis> información y crítica.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Hablar</emphasis> en varios ámbitos: el privado, el íntimo y el de las redes sociales.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Crear</emphasis> la autoría contemplada en sentido individual y colectivo, reconocida de diferentes maneras 
+					(copyright, copyleft) y teniendo en cuenta el remix (la mezcla de soportes y contenidos).
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Producir, escribir y construir</emphasis> que conlleva <emphasis role="strong">analizar y deconstruir</emphasis>
+					en un proceso constante a través de la reflexión crítica y la producción creativa.
+				</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			Es interesante la tabla que el JISC ha realizado en un informe respecto a las competencias digitales para el siglo XXI, en la que se recogen una 
+			parte importante de las competencias mencionadas (Beetham, Helen, 2009; p. 35-38). Esta tabla se puede consultar al final de este documento, 
+			en el Anexo III.
+		</para>
+		<para>
+			La responsabilidad de impartir estas competencias, que –recordemos– están en continuo cambio a lo largo de toda la vida, es de la educación 
+			a todos sus niveles: desde la escuela hasta la educación superior, universitaria o no.
+		</para>
+		<para>
+			En este itinerario, la ayuda y colaboración de los que trabajan diariamente con la información (entre ellos los bibliotecarios) es 
+			fundamental; como lo es, la existencia de activas bibliotecas en todos esos niveles educativos, desde las bibliotecas escolares (el 
+			agujero negro de nuestro país) a las universitarias. Sin olvidar a las públicas, que tienen la ardua tarea de intentar no ya cubrir las 
+			lagunas provocadas por la inexistencia de determinadas bibliotecas educativas, sino que deben ayudar al autoaprendizaje a lo largo de la 
+			vida a todos aquellos que no están matriculados en una educación reglada, o simplemente a los que matricularon sin pedir permiso en la ardua 
+			asignatura de la vida.
+		</para>
+	</section>
+	<section xml:id="ch01c">
+		<title>La brecha digital</title>
+		<para>
+			Podríamos decir que esta cuestión que ahora abordamos se encuentra en la encrucijada entre la información y las competencias; ya que 
+			entendemos la brecha digital al menos en dos sentidos: la imposibilidad de acceder a las nuevas TIC y el desconocimiento de las competencias 
+			básicas para poder utilizarlas. El mero hecho de que sea una cuestión de la que se habla en cualquier foro es una demostración de la importancia 
+			de estas tecnologías, aunque en algunos aspectos responda a intereses económicos.
+		</para>
+		<informalfigure xreflabel="Fig 9">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-013.jpg"/>
+			</mediaobject>
+		</informalfigure>
+		<para>
+			Es indudable la importancia que tiene el acceso y el uso de las TIC puesto que como hemos dicho, es equivalente a decir el acceso y uso de la 
+			información, utilizada no sólo para la investigación o el estudio, sino también para el esparcimiento... o para las cuestiones más elementales 
+			de la vida cotidiana (administración electrónica, servicios de atención telefónica al usuario, tecnología móvil, comercio en línea... o las 
+			taquillas automáticas del transporte público).
+		</para>
+		<para>
+			En muchas ocasiones cuando se mide el alcance de la brecha digital se relaciona directamente con el número de ordenadores, la amplitud y 
+			velocidad de las redes, su introducción en los hogares o las escuelas<footnote><para>Véanse como ejemplo los indicadores incluidos en 
+			i2010 High Level Group (2009). Benchmarking Digital Europe 2011-2015: a conceptual framework; p. 18 y 19: &lt;<link xl:href="http://www.csi.map.es/csi/pdf/benchmarking_digital_europe_2011-2015.pdf"/>&gt;. 
+			Han incluido análisis del uso.</para></footnote>... cuando lo realmente importante es la medida en que pueden ser utilizadas. Todo 
+			ello está inevitablemente unido a las desigualdades económicas y sociales, abismales entre países y significativas (cuando no 
+			también abisales) dentro de algunos.
+		</para>
+		<para>
+			Manuel Castells afirma que la verdadera brecha es educacional y que cuando desaparezca la “generación analógica” desaparecerá la 
+			digital. La cuestión es que esa brecha educacional también es consecuencia de la situación política, económica y social y no únicamente 
+			generacional.
+		</para>
+		<para>
+			Sobre esta última, Carles Monereo habla de <emphasis role="strong">brecha cognitiva</emphasis><footnote><para>MONEREO, Carles: La brecha 
+			cognitiva. En Brecha digital y nuevas alfabetizaciones...(2008; p. 163-173).</para></footnote>, según la cual los que se acostumbran a 
+			utilizar determinados medios de comunicación desarrollan unas formas de relación diferente; pero también una manera diferente de pensar.
+		</para>
+		<para>
+			Sobre la primera, Daniel Pimienta habla de brecha <emphasis role="strong">paradigmática</emphasis><footnote><para>PIMIENTA, Daniel: Brecha 
+			digital, brecha social y brecha paradigmática. En Brecha digital y nuevas alfabetizaciones... (2008;p. 11-21).</para></footnote>, planteando 
+			la necesidad de cambiar las estructuras, superando la idea simple de equiparar desarrollo en el ámbito de las TIC con el desarrollo de 
+			infraestructuras y enunciando la “ley Pimienta” que sostiene que cuando los esfuerzos para superar la brecha digital se centran en un % 
+			significativo en la dotación de ordenadores y redes, lo que realmente se está evidenciando es algún tipo de corrupción.
+		</para>
+		<para>
+			En este aspecto no hay que olvidar el lugar del mundo en que vivimos. Tendemos a ver la realidad de acuerdo con nuestro nivel de vida o 
+			el de las personas que nos rodean y nos olvidamos de que formamos parte (quien esto escribe y sus cotidianos) de la parte del mundo más 
+			privilegiada.
+		</para>
+		<para>
+			La ALFIN tiene un papel evidente en una de las dos caras de la brecha digital que hemos mencionado; en concreto en la referida a las 
+			competencias para utilizar las herramientas tecnológicas. Las aportaciones en el ámbito de las infraestructuras necesarias para el 
+			acceso requieren de la intervención de esferas con alto poder de decisión; pero también, en la medida de sus posibilidades tienen un 
+			papel todas aquellas entidades comprometidas con la ALFIN que pueden poner a disposición de sus usuarios los medios técnicos con los 
+			que cuentan.
+		</para>
+		<para>
+			Además pueden hacer accesible toda la documentación que no está sujeta a derechos de autor, desarrollando el libre acceso; incluso el 
+			uso de sofware libre. Y sobre todo, luchando a favor de la inclusión social y fomentando la multiculturalidad. Recientemente la UNESCO 
+			aprobó en su Conferencia General un texto, ya aprobado previamente por la IFLA que conocemos como Manifiesto por la Biblioteca 
+			Multicultural, y puede ser consultado en la dirección &lt;<link xl:href="http://www.ifla.org/VII/s32/pub/MulticulturalLibraryManifesto-es.pdf"/>&gt;.
+		</para>
+		<para>
+			El fomento de redes sociales, que apoyen la actitud de compartir, colaborar y trabajar en equipo es un elemento importante para conseguir 
+			alcanzar el aprendizaje permanente y eliminar brechas cognitivas, sociales... y hasta las paradigmáticas.
+		</para>
+	</section>	
+</chapter>

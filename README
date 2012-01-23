@@ -1,0 +1,8 @@
+En este repositorio se encuentran disponibles los contenidos del Informe Apei sobre Alfabetización Informacional.
+
+Los contenidos están distribuidos de la siguiente forma:
+- ePub: Directorio que contiene el documento en formato ePub del informe
+- ePub_src: Directorio que contiene la estructura de carpetas, documentos (xhtml, css), im√°genes y fuentes necesarias para la creaci√≥n de documento en formato ePub
+- src: Directorio con los contenidos del informe en formato XML (DocBook) para la creaci√≥n de las diferentes versiones del informe.
+
+Estos contenidos, al igual que el propio Informe Apei sobre Alfabetización Informacional se distribuyen bajo una licencia Reconocimiento-No comercial-Compartir bajo la misma li- cencia 2.5 España de Creative Commons: http://creativecommons.org/licenses/by-nc-sa/2.5/es.

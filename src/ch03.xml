@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch03"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+	<title>Modelos teórico-prácticos</title>
+	<para>
+		Como hemos comentado existen modelos que buscan definir cuáles son los ingredientes que debe reunir una persona alfabetizada en información. En buena 
+		parte proceden de iniciativas personales más que institucionales, aunque también existen excepciones a esta “regla”; en su mayor parte son anteriores 
+		a las normas que acabamos de analizar y como ellas se han modificado a lo largo del tiempo.
+	</para>
+	<para>
+		Los ejemplos son numerosos. En ocasiones son esquemas simples sin gran desarrollo aunque no exentos de utilidad. Otros alcanzan niveles altos de 
+		complejidad con múltiples posibilidades. En buena medida, como refleja la imagen, contemplan pasos o tareas similares, que a su vez son asimilables 
+		a los de las normas.
+	</para>
+	<para>
+		Dividen todo el proceso de resolución de un problema de información en diferentes etapas; en cada una de las cuáles hay que considerar determinados 
+		aspectos. Casi todos están relacionados con qué necesito, con qué medios lo conseguiría, cómo debo utilizar esos medios, qué hago con lo que obtengo, 
+		cómo analizo si he logrado lo que buscaba...
+	</para>
+	<para>
+		Una buena panorámica sobre los diferentes modelos es la que proporciona Educación y Pedablogía para el siglo XXI: blog de análisis educativo y temas 
+		culturales<footnote><para>Véase &lt;<link xl:href="http://pedablogia.wordpress.com/2007/09/05/competencias-en-el-manejo-de-informacion-modelos-para-elegir/"/>&gt;.</para></footnote> 
+		donde se defiende el aprendizaje por proyectos. Describe brevemente hasta 11 modelos (Competencias en 
+		el Manejo de la Información los llama) en post individuales, en los que analiza su estructura y contenido, destaca sus virtudes y enlaza –cuando 
+		es posible– con el modelo completo, desarrollado en su propia página web. Dos de dichos modelos los desarrollamos a continuación; otro ha sido 
+		mencionado dentro de los marcos (Big 6).
+	</para>
+	<para>
+		Mencionamos brevemente otros tres:
+	</para>
+	<itemizedlist>
+		<listitem>
+			<para>
+				<emphasis role="strong">Kuhlthau</emphasis> (1989): Fue uno de los pioneros. Destaca porque dentro del proceso se tienen en cuenta los 
+				sentimientos de quien participa.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				<emphasis role="strong">OSLA</emphasis> &lt;<link xl:href="http://www.accessola.com/data/6/rec_docs/113_Information_Studies.pdf"/>&gt; (1999) de 
+				la Asociación de Bibliotecas Escolares de Ontario cuyo título es Information Studies: Kindergarten to Grade 12 (Curriculum for Schools and School 
+				Library Information Centres): Félix Benito<footnote><para>&lt;<link xl:href="http://pinakes.educarex.es/numero3/articulo5.htm"/>&gt;</para></footnote> 
+				lo consideraba uno de los más completos porque cuenta con un módulo llamado Información y Sociedad y porque contempla la transferencia de lo aprendido 
+				a otros contextos. Se aplicaría de manera transversal a todos los niveles de la educación obligatoria.
+			</para>
+			<informalfigure xreflabel="Fig 17">
+				<mediaobject>
+					<imageobject fileref="resource/INF-5-020.jpg"/>
+				</mediaobject>
+			</informalfigure>
+		</listitem>
+		<listitem>
+			<para>
+				El <emphasis role="strong">modelo Gavilán</emphasis> &lt;<link xl:href="http://www.eduteka.org/modulos/1/356"/>&gt; (2006) tiene importancia por varias razones:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						Es prácticamente el único que se ha creado en castellano, en Colombia.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Surgió tras un intento de adaptar el Big6 y habiendo analizado otros, como el Osla.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Cuenta con muchísimos materiales y muy buenos ejemplos para cada uno de los pasos necesarios, como puede comprobarse con la Guía 
+						&lt;<link xl:href="http://www.eduteka.org/pdfdir/GuiaGavilan.pdf"/>&gt; para su aplicación en el aula.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Utiliza la evaluación en cada uno de los pasos y no únicamente al final.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						La página web en la que se aloja (EDUTEKA: &lt;<xl:link xl:href="http://www.eduteka.org"/>&gt;) contiene una gran cantidad de documentación interesante 
+						y materiales aplicables en la escuela, incluyendo otros modelos (ver imagen con resumen: los llama Modelos para la solución de problemas de información).
+					</para>
+					<informalfigure xreflabel="Fig 19">
+						<mediaobject>
+							<imageobject fileref="resource/INF-5-023.jpg"/>
+						</mediaobject>
+						<caption><para>Eduteka. Competencia para Manejar Información</para></caption>
+					</informalfigure>
+				</listitem>
+			</itemizedlist>
+		</listitem>
+	</itemizedlist>
+	<informalfigure xreflabel="Fig 18">
+		<mediaobject>
+			<imageobject fileref="resource/INF-5-022.jpg"/>
+		</mediaobject>
+		<caption><para><link xl:href="http://www.eduteka.org/CMI.php" /></para></caption>
+	</informalfigure>
+	<section xml:id="ch03a">
+		<title>Modelo Info-Paint</title>
+		<para>
+			&lt;<link xl:href="http://pedablogia.wordpress.com/2007/09/06/aprendizaje-por-proyectos-el-modelo-info-paint/"/>&gt; (2006)
+		</para>
+		<para>
+			Reproducimos el modelo completo que fue el resultado del <emphasis role="strong">trabajo en equipo</emphasis> de 38 alumnos de unos 14 años del 1º Medio 
+			A del Colegio Alexander Fleming, que conocían los otros modelos pero “decidió crear uno propio, considerando las características especiales del trabajo 
+			que ellos enfrentan a diario e incorporando variantes novedosas, como la publicación digital y la reelaboración de los textos finales a partir de los 
+			comentarios y aportes que produzcan sus publicaciones 2.0”.
+		</para>
+		<para>
+			El desarrollo del modelo incluyó la elección y diseño de la imagen que lo simboliza: la paleta de colores que representa que “la información se despliega 
+			ante nosotros con múltiples colores y matices y, al igual que el pintor, debemos ir combinando adecuadamente dicha información para crear una nueva obra 
+			o, en este caso, un nuevo conocimiento.”
+		</para>
+		<para>
+			Es un ejemplo por sí mismo de trabajo colaborativo, realizado en el aula por los propios estudiantes, y de lo que podría afrontarse como una tarea más 
+			de la propia ALFIN.
+		</para>
+		<para>
+			El modelo tiene los siguientes 13 pasos:
+		</para>
+		<orderedlist>
+			<listitem>
+				<para>
+					Plantear un problema:
+				</para>
+				<itemizedlist>
+					<listitem>
+						<para>Plantearme una hipótesis</para>
+					</listitem>
+					<listitem>
+						<para>Definir lo que sé del problema</para>
+					</listitem>
+					<listitem>
+						<para>Plantear los objetivos que busco alcanzar</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>Elegir el tema</para>
+				<itemizedlist>
+					<listitem>
+						<para>Subdividir en distintas áreas (si corresponde)</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>Reconocer los recursos:</para>
+				<itemizedlist>
+					<listitem>
+						<para>Qué es lo que quiero</para>
+					</listitem>
+					<listitem>
+						<para>Qué es lo que tengo</para>
+					</listitem>
+					<listitem>
+						<para>Qué es lo que necesito</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>Elegir los medios:</para>
+				<itemizedlist>
+					<listitem>
+						<para>Herramientas que podría utilizar para investigar, como web, libros, revistas, vídeos, archivos de audio, entrevistas, etc.</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>Buscar información:</para>
+				<itemizedlist>
+					<listitem>
+						<para>Definir los lugares donde buscar la información</para>
+					</listitem>
+					<listitem>
+						<para>Definir los recursos necesarios para obtenerla</para>
+					</listitem>
+					<listitem>
+						<para>Definir el soporte en que respaldaré la información</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>Seleccionar:</para>
+				<itemizedlist>
+					<listitem>
+						<para>Evaluarla</para>
+					</listitem>
+					<listitem>
+						<para>Organizarla</para>
+					</listitem>
+					<listitem>
+						<para>Sintetizarla</para>
+					</listitem>
+					<listitem>
+						<para>Definir formato para entregarla (si no está predeterminado)</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>Diseño:</para>
+				<itemizedlist>
+					<listitem>
+						<para>Decidir si se usarán imágenes, sonido, etc.</para>
+					</listitem>
+					<listitem>
+						<para>Formato de la letra</para>
+					</listitem>
+					<listitem>
+						<para>Orden en que se pondrán los contenidos</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>Crear documento:</para>
+				<itemizedlist>
+					<listitem>
+						<para>Introducción</para>
+					</listitem>
+					<listitem>
+						<para>Desarrollo</para>
+					</listitem>
+					<listitem>
+						<para>Conclusión</para>
+					</listitem>
+					<listitem>
+						<para>Bibliografía y notas</para>
+					</listitem>
+					<listitem>
+						<para>Anexos necesarios</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>Revisar:</para>
+				<itemizedlist>
+					<listitem>
+						<para>Diseño</para>
+					</listitem>
+					<listitem>
+						<para>Ortografía</para>
+					</listitem>
+					<listitem>
+						<para>Contenidos</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>Concluir:</para>
+				<itemizedlist>
+					<listitem>
+						<para>Imprimir y multicopiar documento (si corresponde)</para>
+					</listitem>
+					<listitem>
+						<para>Entregarlo debidamente</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>Reelaborar:</para>
+				<itemizedlist>
+					<listitem>
+						<para>Reescribir el proyecto, con los errores corregidos</para>
+					</listitem>
+					<listitem>
+						<para>Discutir o conversar sobre la reelaboración en el grupo y con quien lo evalúa</para>
+					</listitem>
+					<listitem>
+						<para>Definir e implementar los ajustes al documento</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>Compartir la información:</para>
+				<itemizedlist>
+					<listitem>
+						<para>Presentarla al curso</para>
+					</listitem>
+					<listitem>
+						<para>Publicarla en forma impresa (si se puede)</para>
+					</listitem>
+					<listitem>
+						<para>Publicarla en forma digital (siempre)</para>
+					</listitem>
+					<listitem>
+						<para>Revisar los comentarios que provoque la información publicada y, si son pertinentes, incorporarlos al documento digital</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>
+				<para>Evaluar (Plantearse el resultado del proceso):</para>
+				<itemizedlist>
+					<listitem>
+						<para>¿Quedé conforme con el producto?</para>
+					</listitem>
+					<listitem>
+						<para>¿Quedé conforme con el proceso?</para>
+					</listitem>
+					<listitem>
+						<para>¿Trabajamos bien?</para>
+					</listitem>
+					<listitem>
+						<para>¿Podríamos haberlo hecho mejor?</para>
+					</listitem>
+					<listitem>
+						<para>¿Qué aprendí del trabajo?</para>
+					</listitem>
+					<listitem>
+						<para>¿Puse todo mi esfuerzo en él?</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+		</orderedlist>
+		<informalfigure xreflabel="Fig 20">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-024.jpg"/>
+			</mediaobject>
+		</informalfigure>
+	</section>
+	<section xml:id="ch03b">
+		<title>Modelo SCONUL: los 7 pilares</title>
+		<para>
+			En 1999 SCONUL publicó “<citetitle>Information Skills in Higher Education: a SCONUL position Paper</citetitle> &lt;<link xl:href="http://www.sconul.ac.uk/groups/information_literacy/papers/Seven_pillars.html"/>&gt; 
+			que se ha convertido en referencia ineludible en el ámbito universitario.
+		</para>
+		<para>
+			Identificaba ALFIN con un concepto amplio que incluía las destrezas o habilidades informativas y las relacionadas con las tecnologías de la información, 
+			creando un modelo con siete conjuntos de habilidades que pueden analizarse desde 5 niveles de destreza (desde el principiante al experto). Se conoce 
+			como los 7 pilares de SCONUL, que no son sino las “aptitudes para...”:
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>Reconocer la necesidad de información</para>
+			</listitem>
+			<listitem>
+				<para>Distinguir las diferentes maneras de cubrir esa necesidad</para>
+			</listitem>
+			<listitem>
+				<para>Construir estrategias de localización de la información</para>
+			</listitem>
+			<listitem>
+				<para>Localizar y acceder a la información</para>
+			</listitem>
+			<listitem>
+				<para>Comparar y evaluar la información obtenida</para>
+			</listitem>
+			<listitem>
+				<para>Organizar, aplicar y comunicar la información a otras personas, de forma adecuada a cada situación</para>
+			</listitem>
+			<listitem>
+				<para>Sintetizar y crear a partir de la información existente, construyendo nuevo conocimiento</para>
+			</listitem>
+		</itemizedlist>
+		<para>En el <xref linkend="ch04" xreflabel="punto 4"/> se hace mención también a este modelo.</para>
+		<informalfigure xreflabel="Fig 21">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-025.jpg"/>
+			</mediaobject>
+			<caption><para>SCONUL. Information skills in higher education</para></caption>
+		</informalfigure>
+		<informalfigure xreflabel="Fig 22">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-026.jpg"/>
+			</mediaobject>
+			<caption><para><link xl:href="http://www.sconul.ac.uk/groups/information_literacy/sp/sp/spportbw.gif"/></para></caption>
+		</informalfigure>
+		<informalfigure xreflabel="Fig 23">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-027.jpg"/>
+			</mediaobject>
+			<caption><para><link xl:href="http://www.jisc.ac.uk/media/documents/events/2010/04/presentations/supportinglearners1.pdf"/></para></caption>
+		</informalfigure>
+	</section>
+	<section xml:id="ch03c">
+		<title>La definición de CILIP<footnote><para>CILIP (Chartered Institute of Library and Information Professionals) es una asociación del Reino Unido.</para></footnote></title>
+		<para>
+			&lt;<link xl:href="http://www.um.es/gtiweb/jgomez/doctorado/AlfinCILIP.doc"/>&gt; (2004)
+		</para>
+		<para>
+			Volvemos a la definición inicial. Tenemos dos razones para ello.
+		</para>
+		<para>
+			La primera, porque cuando CILIP (Chartered Institute of Library and Information Professionals) presentó su definición, la explicó 
+			con ejemplos y con posibles actividades, lo que en cierto modo la convierte en un modelo.
+		</para>
+		<para>
+			El enlace a dicha definición lleva a una traducción al castellano realizada por Cristóbal Pasadas, que aparecería en: <citetitle><emphasis role="strong">Boletín de 
+			la Asociación Andaluza de Bibliotecarios, n. 77, diciembre de 2004, p. 79-84.</emphasis></citetitle>
+		</para>
+		<para>
+			Vamos a recordar la definición, reproduciendo la grafía de la fuente comentada:
+		</para>
+		<blockquote>
+			<para>Alfabetización informacional es saber cuándo y por qué necesitas información, dónde encontrarla, y cómo evaluarla y comunicarla de forma ética.</para>
+		</blockquote>
+		<para>
+			La segunda razón es porque queremos acabar un ciclo con una discusión sobre parte de lo expuesto hasta ahora (ver punto siguiente).
+		</para>
+	</section>
+</chapter>

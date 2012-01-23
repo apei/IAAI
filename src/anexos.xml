@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<appendix xml:id="anexos"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  	<title>Anexos</title>
+	<section xml:id="anexos1">
+		<title>Anexo I. Taxonomía Big Blue de modelos, normas y marcos para la ALFIN</title>
+		<informalfigure xreflabel="Fig 42">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-044.jpg"/>
+			</mediaobject>
+		</informalfigure>
+		<informalfigure xreflabel="Fig 43">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-045.jpg"/>
+			</mediaobject>
+		</informalfigure>
+		<informalfigure xreflabel="Fig 44">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-046.jpg"/>
+			</mediaobject>
+		</informalfigure>
+	</section>
+	<section xml:id="anexos2">
+		<title>Anexo II. Skills for everyone. Marco escocés para la ALFIN</title>
+		<informalfigure xreflabel="Fig 45">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-047.jpg"/>
+			</mediaobject>
+		</informalfigure>
+	</section>
+	<section xml:id="anexos3">
+		<title>Anexo III. Marco de marcos relevantes para las alfabetizaciones del aprendizaje</title>
+		<informalfigure xreflabel="Fig 46">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-048.jpg"/>
+			</mediaobject>
+		</informalfigure>
+		<informalfigure xreflabel="Fig 47">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-049.jpg"/>
+			</mediaobject>
+		</informalfigure>
+		<informalfigure xreflabel="Fig 48">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-050.jpg"/>
+			</mediaobject>
+		</informalfigure>
+		<section>
+			<title>Notas del Anexo III</title>
+			<para>(se ha mantenido la numeración del texto original)</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						18 Cartwright, Kelly B. (Ed.) (2008). Literacy Processes: Cognitive Flexibility in Learning and Teaching. NY: The Guilford Press Cartwright, 
+						Kelly B. (Ed.) (2008). Literacy Processes: Cognitive Flexibility in Learning and Teaching. NY: The Guilford Press 
+						<link xl:href="http://edrev.asu.edu/reviews/rev731.htm"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						19 Quintana, C et al. (2005) A Framework for Supporting Metacognitive Aspects of Online Inquiry Through Software-Based Scaffolding in 
+						Educational Psychologist, V4, N4. pp 235-244 <link xl:href="http://www.informaworld.com/smpp/content~content=a784751538~db=all"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						20 McGuinness, C (1999) From thinking skills to thinking classrooms, DfeS, 1999 <link xl:href="http://www.dcsf.gov.uk/research/data/uploadfiles/RB115.doc"/>.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						21 Hoskins, B and Deakin Crick, R (2008) Learning to Learn and Civic Competences: different currencies or two sides of the same coin? Centre for 
+						Research on Lifelong Learning 
+						<link xl:href="http://active-citizenship.jrc.it/Documents/learning%20to%20learn/Learning%20to%20Learn%20and%20Civic%20Competences%20FINAL%20final.pdf"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						22 i-curriculum –a European framework for defining information skills and a curriculum appropriate for living and learning in the digital age (Primary, 
+						Secondary and vocational education) <link xl:href="http://promitheas.iacm.forth.gr/i-curriculum/overview.html"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						23 The framework for higher education qualifications in England, Wales and Northern Ireland 2007 Quality Assurance Agency for Higher Education 
+						<link xl:href="http://www.qaa.ac.uk/academicinfrastructure/FHEQ/EWNI/default.asp#framework"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						24 Undergraduate levels framework (OU, UK) 2005 –Centre for Outcomes-Based Education 
+						<link xl:href="http://www.open.ac.uk/cobe/docs/KnowAbout/FS4-LevelsFramework.pdf"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						25 OU Open Learn Learning framework <link xl:href="http://openlearn.open.ac.uk/mod/resource/view.php?id=188602"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						26 General Medical Council (2003) Tomorrows Doctors UK policy document to support medical Schools includes curriculum framework 
+						<link xl:href="http://www.gmc-uk.org/education/undergraduate/undergraduate_policy/tomorrows_doctors.asp"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						27 i-curriculum –a European framework for defining information skills and a curriculum appropriate for living and learning in the digital age (Primary, 
+						Secondary and vocational education) <link xl:href="http://promitheas.iacm.forth.gr/i-curriculum/overview.html"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						28 Seven pillars of information literacy (UK) SCONUL 2003 <link xl:href="http://www.sconul.ac.uk/groups/information_literacy/papers/Seven_pillars.html"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						29 The Big Blue information literacy model (UK) 2006 
+						<link xl:href="http://www.library.mmu.ac.uk/bigblue/ppt/themodel4.ppt"/> 
+						<link xl:href="http://www.library.mmu.ac.uk/bigblue/index.html"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						30 Australian and New Zealand Information Literacy Framework: principles, standards and practice 2004 
+						<link xl:href="http://www.anziil.org/resources/Info%20lit%202nd%20edition.pdf"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						31 Eisenberg (2001) Big six: Information &amp; Technology Skills for Student Achievement (US) 
+						<link xl:href="http://www.big6.com/2001/11/19/a-big6%e2%84%a2-skills-overview/"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						32 Bruce, C. (1997)The Seven Faces of Information Literacy (Australia) Bruce 1997 
+						<link xl:href="http://sky.fit.qut.edu.au/~bruce/inflit/faces/faces1.php"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						33 CSCW matrix <link xl:href="http://en.wikipedia.org/wiki/CSCW"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						34 i-curriculum –a European framework for defining information skills and a curriculum appropriate for living and learning in the digital age (Primary, 
+						Secondary and vocational education) <link xl:href="http://promitheas.iacm.forth.gr/i-curriculum/overview.html"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						35 The NHS Knowledge and Skills Framework (NHS KSF) (2004) Dept. of Health. Appendix 2 Core Dimension 1: Communication 
+						<link xl:href="http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_4090843?IdcService=GET_FILE&amp;dID=5786&amp;Rendition=Web"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						36 UK Charter for Media Literacy (2006) <link xl:href="http://www.medialiteracy.org.uk/"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						37 Media literacy (Ofcom-UK) 2007 –Office of Communications <link xl:href="http://www.ofcom.org.uk/advice/media_literacy/"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						38 i-curriculum –a European framework for defining information skills and a curriculum appropriate for living and learning in the digital 
+						age (Primary, Secondary and vocational education) <link xl:href="http://promitheas.iacm.forth.gr/i-curriculum/overview.html"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						39 Digital transformation: a framework for ITC literacy 2002 –International ICT Literacy Panel 
+						<link xl:href="http://www.ets.org/Media/Tests/Information_and_Communication_Technology_Literacy/ictreport.pdf"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						40 i2010 - (EU) 2007 initiative equipping people with ICT skills looking at eCompetancy and a pending Digital Literacy Review 
+						<link xl:href="http://ec.europa.eu/information_society/activities/einclusion/policy/competences/index_en.htm"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						41 Employability encompasses all or many of the other skills but is included here as a distinctive framework for theorising about and 
+						organising these skills, i.e. the production of the learner as a competent worker/employee. Component skills are those distinctive to 
+						this framework: the CBI is also concerned with literacy, numeracy, communication, ICT.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						42 Student Employability Profiles, 2004/5, Higher Education Academy, ESECT and Council for Industry and Higher Education Includes a 
+						glossary of competencies <link xl:href="http://www.heacademy.ac.uk/resources/detail/Employability/employability542"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						43 UK Commission for Employability and Skills (2009) The employability challenge: full report, Appendix C 
+						<link xl:href="http://www.ukces.org.uk/pdf/8080-UKCES-Employability%20ChallengeFinal.pdf"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						44 Employability skills map, University of Kent. <link xl:href="http://www.kent.ac.uk/careers/sk/skillsmap.htm"/> (2008)
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						45 Winterton, J et al. (2005) Typology of knowledge, skills and competences: clarification of the concept and prototype. Centre for 
+						European Research on Employment and Human Resources Groupe 
+						<link xl:href="http://www.ecotec.com/europeaninventory/publications/method/CEDEFOP_typology.pdf"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						46 Again, digital citizenship encompasses many other skills but is included as a distinctive framework for theorising about and organising 
+						these skills, i.e. the production of the learner as a competent citizen or member of wider society
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						47 Citizenship For 16-19 Year Olds In Education And Training, FEFC, 2000 <link xl:href="http://www.qca.org.uk/qca_4858.aspx"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						48 Hoskins, B and Deakin Crick, R (2008) Learning to Learn and Civic Competences: different currencies or two sides of the same coin? 
+						Centre for Research on Lifelong Learning 
+						<link xl:href="http://active-citizenship.jrc.it/Documents/learning%20to%20learn/Learning%20to%20Learn%20and%20Civic%20Competences%20FINAL%20final.pdf"/>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						49 Mainguet, C and Baye, A. (2006) Defining a framework of indicators to measure the social outcomes of learning in Measuring the effects of education on 
+						health and civic engagement: proceedings of the Copenhagen Symposium OECD 2006 
+						<link xl:href="http://www.oecd.org/dataoecd/15/20/37425733.pdf"/> 50 de Weerd, M et al. (2005) Indicators for active citizenship and citizenship education: 
+						final report. European Commission Research report.
+					</para>
+				</listitem>
+			</itemizedlist>
+		</section>
+	</section>
+	
+</appendix>

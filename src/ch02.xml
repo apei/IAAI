@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch02"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+	<title>Declaraciones, normas, organizaciones</title>
+	<para>
+		El auge y desarrollo de la ALFIN no ha surgido de la nada. Como en otros ámbitos de la sociedad se ha trabajado para fomentarla a través 
+		de declaraciones, programas, planes, directrices, normas, modelos... Detrás de todos ellos hay organizaciones e instituciones que los han 
+		desarrollado, defendido e impulsado. Es de ellas de las que vamos a hablar en primer lugar.
+	</para>
+	<section xml:id="ch02a">
+		<title>Las organizaciones implicadas en la ALFIN</title>
+		<para>
+			La ONU declaró en diciembre de 2001 que el 1 de enero de 2003 comenzaba el <emphasis role="strong">Decenio de la Alfabetización de las Naciones 
+			Unidas</emphasis><footnote><para>Disponible en &lt;<link xl:href="http://www.un.org/spanish/Depts/dpi/boletin/alfabetizacion/res116.html"/>&gt;</para></footnote>, 
+			incluyendo en su declaración los objetivos de que “<emphasis>para el año 2015, los niños y las niñas de todo el mundo puedan terminar un ciclo completo 
+			de enseñanza primaria y que las niñas y los niños tengan igual acceso a todos los niveles de la enseñanza</emphasis>,” además de que deberían “aumentar 
+			en un 50% todos los índices de alfabetización de adultos para el año 2015”, así como que la UNESCO era la encargada de desarrollar programas 
+			para conseguirlos y en velar por su cumplimiento.
+		</para>
+		<section xml:id="ch02a1">
+			<title>UNESCO</title>
+			<para>
+				De todos es conocido que la UNESCO tiene competencias en el ámbito de la Educación, la Ciencia y la Cultura, todos ellos relacionados 
+				con la cuestión que estamos analizando. No obstante, hay un programa en que la ALFIN tiene un papel importante: <emphasis role="strong">Information for All</emphasis> 
+				(IFAP)<footnote><para>Disponible en &lt;<link xl:href="http://portal.unesco.org/ci/en/ev.php-URL_ID=1627&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html"/>&gt;</para></footnote>.
+			</para>
+			<para>
+				El Programa IFAP continúa la labor del Programa Intergubernamental de Informática (PII) y del Programa General de Información (PGI), 
+				con dos objetivos fundamentales<footnote><para>Disponible en &lt;<link xl:href="http://www.csi.map.es/csi/pg4805.htm"/>&gt;
+				</para></footnote>: constituirse en una “plataforma para el debate internacional sobre las políticas y acciones que 
+				promuevan el acceso equitativo y universal a la información y a las nuevas tecnologías” y ser un “escenario de reflexión sobre las 
+				consecuencias éticas, jurídicas y sociales del uso de las mismas”.
+			</para>
+			<para>
+				En las reuniones de dicho programa participan –además de 26 países– organizaciones como la IFLA (<emphasis>International Federation of Library 
+				Associations and Institutions</emphasis>) o el ICA (<emphasis>International Council on Archives</emphasis>).
+			</para>
+			<para>
+				Entre sus prioridades están la ALFIN, las implicaciones sociales, éticas y legales de las TIC o la preservación de la información, 
+				disponiendo de espacios específicos dedicados tanto a <emphasis>Information Literacy</emphasis> como a <emphasis>Information and Media 
+				Literacy</emphasis><footnote><para>Véase Information Literacy &lt;<link xl:href="http://portal.unesco.org/ci/en/ev.php-URL_ID=27055&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html"/>&gt; 
+				como a Information and Media Literacy &lt;<link xl:href="http://portal.unesco.org/ci/en/ev.php-URL_ID=15886&amp;URL_DO=DO_ TOPIC&amp;URL_SECTION=201.html"/>&gt;.</para></footnote>. 
+				Dispone, además, de una base de datos con unos 500 proyectos relacionados con el programa.
+			</para>
+			<para>
+				En su plan estratégico 2008-2013 identifica cinco áreas prioritarias para conseguir un marco para la políticas del conocimiento y la 
+				información: información para el desarrollo, preservación de la información, acceso a la información, ética de la información y 
+				alfabetización informacional. Además aparece la ALFIN en dos líneas de acción, en una de ellas ligada a la alfabetización en medios.
+			</para>
+			<para>
+				En el caso de <emphasis>Information Literacy</emphasis> la iniciativa crucial tuvo lugar hace dos años con varios workshops que se 
+				repartieron a lo largo del mundo buscando formar a lo formadores (<emphasis>Training The Trainers</emphasis>). Uno de esos Workshops 
+				tuvo lugar en Granada (España). Fruto de dicha experiencia nació un espacio de acceso libre en la web en el que se recopila información 
+				sobre la ALFIN que se ha convertido en un <emphasis role="strong">excelente repositorio de materiales</emphasis>, disponible en 
+				&lt;<link xl:href="http://medina-psicologia.ugr.es/biblioteca/course/view.php?id=3"/>&gt;.
+			</para>
+			<para>
+				Hemos visto en el apartado de competencias un esquema que Jesús Lau y Ralph Catts han incluido dentro de una obra en la que buscan 
+				indicadores de ALFIN. Este documento se ha redactado con el soporte de la UNESCO. En este momento se está estudiando la posibilidad 
+				de realizar un congreso internacional a finales de 2010 que trataría sobre indicadores y alfabetización desde 3 perspectivas, la de 
+				los informáticos, los documentalistas/bibliotecarios y los profesionales de la comunicación.
+			</para>
+			<para>
+				Por otro lado, la UNESCO acaba de publicar un documento titulado “Hacia inclusivas sociedades del 
+				conocimiento”<footnote><para>Este documento puede ser consultado en &lt;<link xl:href="http://unesdoc.unesco.org/images/0018/001878/187832e.pdf"/></para></footnote> 
+				relacionado con la Cumbre Mundial sobre la Sociedad de la Información (WSIS) donde reivindica que su papel se centra en la dimensión 
+				humana de la información y la comunicación y por ello en la libertad de expresión, la igualdad en la educación para todos, el acceso 
+				universal a la información y el conocimiento y el respeto a la diversidad lingüística y cultural.
+			</para>
+			<para>
+				Además, colabora estrechamente con otras organizaciones, como comprobaremos a continuación en el caso de la IFLA. En ocasiones incluso 
+				a nivel personal. Por ejemplo, Natalia Gendina es miembro de IFAP y del Comité Permanente de la Sección de ALFIN de la IFLA a la que ha 
+				acudido en varias ocasiones el hoy Presidente del Consejo Intergubernamental del Programa IFAP, Eugeny Kuzmin, e impulsor del congreso 
+				al que hemos hecho referencia.
+			</para>
+		</section>
+		<section xml:id="ch02a2">
+			<title>IFLA</title>
+			<para>
+				La IFLA es un organismo fundamental en el mundo bibliotecario. Su larga tradición de cooperación y trabajo en todas las áreas 
+				relacionadas con las bibliotecas la han convertido en referente internacional, incluyendo el ámbito de las normas, las directrices 
+				o los manifiestos.
+			</para>
+			<informalfigure xreflabel="Fig 10">
+				<mediaobject>
+					<imageobject fileref="resource/INF-5-014.jpg"/>
+				</mediaobject>
+			</informalfigure>
+			<para>
+				Su organización ha cambiado con el tiempo, adaptándose a las cuestiones más relevantes de cada momento, como demuestra el cambio 
+				de su estructura en 2009.
+			</para>
+			<para>
+				En su seno trabaja una sección dedicada especialmente a la ALFIN; pero antes de describir sus rasgos característicos es importante 
+				destacar algunos aspectos que se relacionan con lo ya mencionado y con lo que diremos, como son:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						La existencia de secciones o grupos dedicados a la Lectura y la Alfabetización, a las Bibliotecas para Poblaciones 
+						Multiculturales, al e-Learning, a los diferentes tipos de biblioteca
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						La elaboración de manifiestos imprescindibles que son resultado de su trabajo, como son por orden cronológico:
+					</para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								Manifiesto por la Biblioteca Pública (1994) &lt;<link xl:href="http://archive.ifla.org/VII/s8/unesco/span.htm"/>&gt;
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Manifiesto por la Biblioteca Escolar (1999) &lt;<link xl:href="http://archive.ifla.org/VII/s11/pubs/mani-s.htm"/>&gt;
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Manifiesto sobre Internet (2002) &lt;<link xl:href="http://archive.ifla.org/III/misc/im-s.htm"/>&gt;
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Manifiesto por la Biblioteca Multicultural (2009) &lt;<link xl:href="http://www.ifla.org/VII/s32/pub/MulticulturalLibraryManifesto-es.pdf"/>&gt;
+							</para>
+						</listitem>
+					</itemizedlist>
+				</listitem>
+			</itemizedlist>
+			<para>
+				Como acabamos de mencionar, existe una Sección de ALFIN de la IFLA &lt;<link xl:href="http://www.ifla.org/en/information-literacy"/>&gt;, 
+				que es de las más recientes ya que consigue este status en 2003. Es la encargada de impulsar la ALFIN en el mundo de las bibliotecas y en 
+				su esfera de influencia, que es enorme puesto que contempla a todos los tipos de bibliotecas: escolares, públicas, académicas, 
+				universitarias, de prisiones, de hospitales, parlamentarias...
+			</para>
+			<para>
+				En la actualidad acoge a personas relacionadas con el mundo de la información y de la educación de al menos 16 países diferentes, 
+				habla 6 de las lenguas oficiales de la IFLA (además de otras 8) y tiene representación de todos los continentes.
+			</para>
+			<para>
+				Buena parte de sus actividades hasta la fecha han consistido en sentar las bases sobre las que construir nuevas relaciones y está 
+				en la actualidad trabajando para conseguir tener un intercambio más fluido y real con todos los implicados en las tareas de ALFIN. 
+				Por ejemplo, con la inminente creación de una página en Facebook que permitirá compartir experiencias de todo el mundo o de un perfil 
+				en Twitter.
+			</para>
+			<para>
+				Una buena idea de la importancia de la ALFIN es el interés que muestran otras Secciones o Grupos de Especial Interés<footnote><para>Son los 
+				elementos básicos que articulan el trabajo dentro de la IFLA.</para></footnote> en colaborar con esta sección en la celebración de eventos 
+				en el entorno de los Congresos de la IFLA. Se ha compartido trabajo con Bibliotecas Académicas y de Investigación, UNESCO, Lectura y 
+				Alfabetización, Bibliotecas de Ciencias Sociales, Referencia y Atención al Usuario, se ha negociado con Marketing, Bibliotecas 
+				Multiculturales, Grupo de Mujeres... Se apoya a E-learning.
+			</para>
+			<para>
+				También se le ha pedido colaboración para el Congreso sobre indicadores que promulga la UNESCO y para realzar el papel de la ALFIN 
+				dentro del Programa IFAP.
+			</para>
+			<para>
+				Buena parte de sus iniciativas han estado sostenidos en una cooperación estrecha con la UNESCO. Algunos se han convertido en 
+				recursos importantes:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						<emphasis role="strong">Guideliness on information literacty for lifelong learning</emphasis> &lt;<link xl:href="http://medina-psicologia.ugr.es/biblioteca/mod/resource/view.php?id=62"/>&gt;
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">Directrices para la alfabetización informativa</emphasis> (LAU, 2006)
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">International Information Literacy Resources Directory:</emphasis> base de datos con recursos 
+						de todo el mundo relacionados con la ALFIN.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">State-of-Art Report:</emphasis> estado de la cuestión de la ALFIN en el mundo. Abarca la mayor parte 
+						de las zonas geográficas. El problema es que se desactualiza fácilmente en cuanto hay recursos nuevos<footnote><para>Mientras 
+						realizábamos este trabajo se han incluido dos apartados nuevos y se han actualizado cinco.</para></footnote>
+						 Se está estudiando la posibilidad de elaborarlo con otros medios que permitan una actualización casi continua (por ejemplo una Wiki)
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">Information Literacy Logo:</emphasis> que ya ha sido presentado al inicio de este documento.
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				Estos tres últimos recursos están accesibles desde la misma página web Infolit Global &lt;<link xl:href="http://www.infolitglobal.info"/>&gt;.
+			</para>
+			<para>
+				También en el ámbito de la IFLA se creó un Comité Presidencial para la Agenda Internacional sobre la Alfabetización a lo Largo de 
+				la Vida, en el que participan Cristóbal Pasadas y Jesús Lau cuyo informe final está accesible en 
+				&lt;<link xl:href="http://www.webcitation.org/5Nr823INU"/>&gt;. De este Comité, en colaboración con la UNESCO (bajo el paraguas 
+				del Programa de Información para Todos, IFAP) ha partido el documento sobre los indicadores que hemos utilizado en el apartado 
+				de competencias.
+			</para>
+		</section>
+		<section xml:id="ch02a3">
+			<title>Asociaciones de bibliotecarios</title>
+			<para>
+				En la IFLA se encuentra la mayor parte de las asociaciones de bibliotecarios del mundo trabajando en equipo. Cada una de ellas, 
+				no obstante, tiene sus propios ámbitos y espacios de actuación. Algunas de las más importantes para la ALFIN, que están 
+				relacionadas con declaraciones, normas, buenas prácticas... las mencionamos a continuación.
+			</para>
+			<section xml:id="ch02a3a">
+				<title>ALA: American Library Association</title>
+				<para>
+					Es la asociación de bibliotecarios más poderosa a nivel mundial. Se encuentra en Estados Unidos, país con una gran tradición en 
+					el desarrollo bibliotecario. La ALA cuenta con diferentes divisiones &lt;<link xl:href="http://www.ala.org/ala/mgrps/divs/index.cfm"/>&gt; relacionadas 
+					con los tipos de bibliotecas; de las que nos interesa destacar la ACRL (Association of College &amp; Research Libraries 
+					&lt;<link xl:href="http://www.ala.org/ala/mgrps/divs/acrl/issues/infolit/index.cfm"/>&gt;) y la AASL (American Association of School Librarians 
+					&lt;<link xl:href="http://www.ala.org/ala/mgrps/divs/aasl/index.cfm"/>&gt;) porque son las que han creado algunas normas importantes para la cuestión 
+					que venimos tratando.
+				</para>
+				<para>
+					Recientemente la ACRL ha creado un Comité Coordinador de la ALFIN &lt;<link xl:href="http://www.ala.org/ala/mgrps/divs/acrl/issues/infolit/ilcc/index.cfm"/>&gt;, 
+					que incluye un Comité Interdivisional entre ACRL y AASL cuya finalidad es centrarse en cómo preparar a los jóvenes para estar alfabetizados 
+					en información.
+				</para>
+				<para>
+					Algunos de sus documentos son clave en el desarrollo de la ALFIN. Estos ejemplos son suficientes: el <emphasis role="strong">Informe 
+					Final del Comité Presidencial de la ALA</emphasis> de 1989, en el que se pedía que las escuelas y los colleges incluyeran la ALFIN 
+					dentro de los programas de enseñanza y que recogía una de las definiciones más utilizadas sobre quién está alfabetizado 
+					informacionalmente: “son aquéllos que han aprendido a aprender. Saben cómo aprender porque saben cómo se organiza el conocimiento, 
+					cómo encontrar información y cómo usarla de manera que otros puedan aprender de ellas. Son personas preparadas para el aprendizaje 
+					permanente, porque pueden encontrar siempre al alcance de su mano la información necesitada para cualquier tarea o decisión”. 
+					También como resultado de ese mismo informe se creó en 1989 el <emphasis role="strong">National Forum on Information Literacy</emphasis> 
+					&lt;<link xl:href="http://www.infolit.org/index.html"/>&gt;, que fue el impulsor de la Declaración de Praga.
+				</para>
+				<para>
+					Las <emphasis role="strong">normas sobre bibliotecas universitarias</emphasis> que publicó la ACRL, que sirvieron de modelo a las 
+					del CAUL y ANZIIL. Así como otro conjunto de directrices &lt;<link xl:href="http://www.ala.org/ala/mgrps/divs/acrl/standards/infolit.cfm"/>&gt; 
+					relacionadas con el particular.
+				</para>
+				<para>
+					Del mismo modo, hay que mencionar las que estableció la AASL <emphasis role="strong">sobre bibliotecas escolares</emphasis> 
+					&lt;<link xl:href="http://www.ala.org/ala/mgrps/divs/aasl/guidelinesandstandards/guidelinesandstandards.cfm"/>&gt;.
+				</para>
+			</section>
+			<section xml:id="ch02a3b">
+				<title>CAUL y ANZIIL</title>
+				<para>
+					Oceanía tiene un peso importante en el mundo de la ALFIN. Los documentos generados por el CAUL y ANZIIL han servido de guía a 
+					nivel internacional. Véase si no el caso de REBIUN.
+				</para>
+				<informalfigure xreflabel="Fig 11">
+					<mediaobject>
+						<imageobject fileref="resource/INF-5-015.jpg"/>
+					</mediaobject>
+				</informalfigure>
+				<para>
+					<emphasis role="strong">CAUL</emphasis> (Council of Australian University Librarians) 
+					&lt;<link xl:href="http://www.caul.edu.au/caul-programs/information-literacy/working-group"/>&gt; creó un grupo de trabajo sobre 
+					ALFIN en 2003 entre cuyos objetivos destaca promover la inclusión de la ALFIN en la enseñanza y el aprendizaje y proporcionar apoyo 
+					y recursos para conseguir una adecuada evaluación de las competencias y el conocimiento de la ALFIN; así como de los cursos que se 
+					imparten en las bibliotecas universitarias.
+				</para>
+				<para>
+					En su plan estratégico 2010-2012 recogen como uno de sus objetivos el de compartir las buenas prácticas en ALFIN. Disponen también 
+					del documento sobre buenas prácticas para la implantanción de los programas de ALFIN en las bibliotecas que ha sido traducido y 
+					adaptado por REBIUN.
+				</para>
+				<para>
+					ANZIIL &lt;<link xl:href="http://www.anziil.org/"/>&gt; (Australian and New Zealand Institute for Information Literacy) une los 
+					esfuerzos de australianos y neozelandeses para crear un marco que se libera de su adscripción a las bibliotecas universitarias.
+				</para>
+			</section>
+			<section xml:id="ch02a3c">
+				<title>SCONUL</title>
+				<para>
+					SCONUL (Society of College, National and University Libraries) &lt;<link xl:href="http://www.sconul.ac.uk/topics_issues/info_literacy"/>&gt; 
+					es una asociación que acoge a todas las universidades británicas e irlandesas. Es clásica su obra “Information skills in higher education” 
+					(1999) en la que se recogen los famosos 7 pilares de la información 
+					&lt;<link xl:href="http://www.sconul.ac.uk/groups/information_literacy/papers/Seven_pillars2.pdf"/>&gt;.
+				</para>
+				<para>
+					Tiene un grupo de trabajo en ALFIN &lt;<link xl:href="http://www.sconul.ac.uk/groups/information_literacy"/>&gt; en el que participa 
+					Sheila Webber, destacada figura en el mundo de la ALFIN y desde 2009 miembro del Comité Permanente de la Sección de ALFIN de la IFLA.
+				</para>
+			</section>
+		</section>
+		<section xml:id="ch02a4">
+			<title>Subdirección General de Coordinación Bibliotecaria (Ministerio de Cultura, España)</title>
+			<para>
+				Es importante destacar la labor de la Subdirección de Coordinación Bibliotecaria dentro de la Dirección del Libro y Bibliotecas, no ya por 
+				el apoyo a bibliotecas de todo tipo sino también por cuestiones relacionadas directamente con la ALFIN.
+			</para>
+			<para>
+				Impulsó el Consejo de Cooperación Bibliotecaria, del que hablaremos más adelante, en cuyo seno hay un grupo de trabajo dedicado a la ALFIN.
+			</para>
+			<para>
+				Fue uno de los principales patrocinadores e impulsores del I Encuentro de Toledo <emphasis>Biblioteca, Aprendizaje y Ciudadanía de 2006, 
+				donde se</emphasis> redactó la declaración que se ha convertido en punto de referencia en nuestro país. Con motivo de ese encuentro, hubo 
+				otras tres cuestiones que se desarrollaron:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						un logo, anterior al del concurso de la UNESCO/IFLA, cuya idea se mantiene en el diseño gráfico de ALFARED.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						ALFARED, plataforma en la que se han incluido espacios para que cada tipo de biblioteca vuelque los contenidos importantes sobre 
+						ALFIN, además de contar con un blog para recoger las novedades. ALFARED tuvo su origen en el excelente blog que creó José Antonio 
+						Gómez “<emphasis>ALFIN: Recursos e ideas sobre cultura de la información y nuevas alfabetizaciones</emphasis>” 
+						&lt;<link xl:href="http://alfin.blogspirit.com"/>&gt; en 2005.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						La idea de un curso de verano, que tuvo lugar en 2008 dentro de los cursos de verano de El Escorial, con el título <emphasis>Brecha digital 
+						y nuevas alfabetizaciones: el papel de las bibliotecas</emphasis>; entre cuyos frutos se encuentra la obra homónima (Brecha digital 
+						y nuevas alfabetizaciones, 2008). Uno de sus principales patrocinadores fue la Subdirección General.
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				También patrocinó el II Encuentro Biblioteca, Aprendizaje, Ciudadanía, que tuvo lugar en enero de 2009 en Vilanova i la Geltrú con el título 
+				“<emphasis>Prácticas y experiencias de alfabetización informacional</emphasis>” (ver conclusiones: 
+				&lt;<link xl:href="http://www.alfared.org/blog/informaci-n-general/516"/>&gt;).
+			</para>
+			<para>
+				Por su intermediación se consiguió el escenario donde tuvo lugar el I Encuentro de Responsables de ALFIN de bibliotecas universitarias, en 
+				mayo de 2009, y que luego trataremos con más profundidad.
+			</para>
+		</section>
+		<section xml:id="ch02a5">
+			<title>REBIUN</title>
+			<para>
+				REBIUN es otro tipo de organización; en este caso una red de bibliotecas que acoge a todas las universitarias españolas y a las bibliotecas 
+				del CSIC (Centro Superior de Investigaciones Científicas).
+			</para>
+			<para>
+				REBIUN es una sectorial de la CRUE (Conferencia de Rectores de Universidades Españolas). Otra de ellas es CRUE/TIC, con la que colabora en 
+				algunas actividades.
+			</para>
+			<para>
+				En su seno trabaja un grupo de trabajo dedicado a la ALFIN que se ha ido dotando de nuevas herramientas (adaptación de normas existentes, 
+				creación de vídeos…) y organizado diferentes eventos (Encuentros de Responsables de ALFIN, Jornadas CRAI) en los que han colaborado 
+				diferentes colectivos. Desarrollaremos todo ello en el apartado de bibliotecas universitarias.
+			</para>
+		</section>
+	</section>
+	<section xml:id="ch02b">
+		<title>Declaraciones</title>
+		<para>
+			Hay múltiples declaraciones, casi tantas como reuniones de expertos sobre la materia. Con las tres<footnote><para>Pueden encontrarse en CUEVAS 
+			(2007; p. 225-231).</para></footnote> que destacaremos a continuación (la Declaración de Praga, la de Alejandría y la de Toledo) veremos cómo 
+			quedan referidas la mayor parte de las cuestiones mencionadas en el capítulo anterior y también algunas que analizaremos en los posteriores. 
+			Por último mencionaremos la Declaración por la Administración Obama de octubre de 2009 como el mes de la ALFIN.
+		</para>
+		<section xml:id="ch02b1">
+			<title>Declaración de Praga (2003)</title>
+			<para>
+				Entre el 20 y el 23 de septiembre de 2003 tiene lugar en Praga una Reunión de Expertos en Alfabetización en Información, organizada por la 
+				<emphasis>Comisión Nacional de los EE.UU. de Norteamérica para las Bibliotecas y la Documentación</emphasis> y por el <emphasis>Foro Nacional 
+				de Alfabetización en Información</emphasis>, con el apoyo de la UNESCO, que proponen unos principios básicos para la ALFIN con el lema 
+				“Hacia una sociedad alfabetizada en información”<footnote><para>Disponible en inglés en &lt;<link xl:href="http://portal.unesco.org/ci/en/files/19636/11228863531PragueDeclaration.pdf/PragueDeclaration.pdf"/>&gt; 
+				y en castellano &lt;<link xl:href="http://www.melangeinfo.com/Doc/Declaraci_Praga_castellano.pdf"/>&gt;.</para></footnote>.
+			</para>
+			<para>
+				Los rasgos fundamentales de la misma son:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						La ALFIN es un prerrequisito para la participación en la sociedad de la información y forma parte del <emphasis role="strong">derecho 
+						humano básico al aprendizaje a lo largo de toda la vida</emphasis>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Juega un papel de liderazgo en la reducción de las desigualdades entre personas y países. Estos deben desarrollar programas ALFIN 
+						<emphasis role="strong">necesarios para cerrar la brecha digital</emphasis>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Debe ser un componente importante del programa Educación para Todos y contribuir de manera fundamental al logro de las metas de la 
+						ONU para el Milenio y el respeto a la Declaración Universal de Derechos Humanos
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						La sociedad de la información es necesaria para el desarrollo social, cultural y económico
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Se solicita que sea incluida en la Década de la Alfabetización de las Naciones Unidas (2003-2012)
+					</para>
+				</listitem>
+			</itemizedlist>
+		</section>
+		<section xml:id="ch02b2">
+			<title>Declaración de Alejandría (2005)</title>
+			<para>
+				Los participantes en el <citetitle>Coloquio de Alto Nivel sobre la Alfabetización Informacional y el Aprendizaje a lo Largo de la Vida</citetitle>,
+				celebrado en la Biblioteca de Alejandría entre el 6 y el 9 de Noviembre de 2005, declaran que <quote><emphasis role="strong">la alfabetización 
+				informacional y el aprendizaje a lo largo de la vida son los faros de la Sociedad de la Información que iluminan las rutas hacia el desarrollo, 
+				la prosperidad y la libertad</emphasis></quote> y lo desarrollan con las siguientes notas distintivas<footnote><para>Disponible en 
+				&lt;<link xl:href="http://archive.ifla.org/III/wsis/BeaconInfSoc-es.html"/>&gt;.</para></footnote>:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						La ALFIN está en el corazón del aprendizaje a lo largo de la vida y constituye un <emphasis role="strong">derecho humano básico en el 
+						mundo digital</emphasis>.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Promueve la inclusión social de todas las naciones y crea valor público
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Incluye las <emphasis role="strong">competencias</emphasis> para reconocer las necesidades de información y para localizar, evaluar, aplicar y 
+						<emphasis role="strong">crear información</emphasis> dentro de contextos sociales y culturales.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Se extiende <emphasis role="strong">más allá de las meras tecnologías actuales</emphasis> para cubrir el aprendizaje, el pensamiento crítico 
+						y las competencias de interpretación.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Son elementos clave para el desarrollo de competencias genéricas, que son requisito para la acreditación de todos los programas educativos 
+						y de formación.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Debe incluirse en la educación inicial y continua
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Ambos principios deben formar parte del desarrollo profesional del personal de los sectores de la educación y la información
+					</para>
+				</listitem>
+			</itemizedlist>
+		</section>
+		<section xml:id="ch02b3">
+			<title>Declaración de Toledo (2006)</title>
+			<para>
+				<citetitle>Bibliotecas por el aprendizaje permanente</citetitle> fue el lema que escogieron numerosos profesionales del mundo de la educación y de la 
+				información reunidos en Toledo para analizar el estado de la ALFIN y su alcance en España. En la declaración<footnote><para>La documentación del 
+				Encuentro está disponible en &lt;<link xl:href="http://hdl.handle.net/10421/1545"/>&gt;. Al final del documento se puede con- sultar la Declaración de 
+				Toledo.</para></footnote> se considera la ALFIN como una herramienta esencial para la adquisición de competencias en información y el desarrollo de 
+				los ciudadanos y se hacen recomendaciones a las autoridades de diferentes niveles y a la sociedad en general:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						Es necesario disponer de los conocimientos precisos para el acceso a la información y su uso eficaz, crítico y creativo.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Contribuye a la mejora de los niveles educativos de la población.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Debe proporcionarse el desarrollo profesional permanente del personal de bibliotecas con una política formativa específica en ALFIN.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						El sistema educativo obligatorio debería dar protagonismo a la biblioteca escolar como centro de recursos para el aprendizaje y la adquisición 
+						de competencias.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Los planes de estudio de las universidades que forman a profesionales de la información deberían integrar contenidos de ALFIN y las cuestiones 
+						pedagógicas necesarias para su enseñanza.
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				Además, se pide elaborar un modelo marco propio, una propuesta curricular adaptable, la concienciación social, la recogida de buenas prácticas, la 
+				creación de un sitio web específico, la identificación de socios clave y establecer un mecanismo eficaz para participar en la agenda internacional.
+			</para>
+			<para>
+				Son importantes también las conclusiones &lt;<link xl:href="http://www.alfared.org/blog/informaci-n-general/516"/>&gt; del II Seminario que tuvo lugar 
+				en Vilanova en 2009.
+			</para>
+		</section>
+		<section xml:id="ch02b4">
+			<title>Octubre de 2009: mes de la ALFIN en EE.UU<footnote><para>NATIONAL INFORMATION LITERACY AWARENESS MONTH, 2009 October 1, 2009. The White House. Office 
+				of the Press Secretary &lt;<link xl:href="http://www.whitehouse.gov/the_press_office/Presidential-Proclamation-National-Information-Literacy-Awa reness-Month"/>&gt;</para></footnote></title>
+			<para>
+				Lejos de parecer una frivolidad, esta declaración o nombramiento tiene trascendencia porque proviene de la Administración del país que continúa siendo 
+				el líder económico y político mundial, acompañada de una exposición de motivos, en la que además de hablar de elementos clave de lo que significa la 
+				ALFIN argumenta que:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						La explosión de la información ha cambiado la concepción de la gestión de la información
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Más que disponer de datos debemos aprender las destrezas necesarias para adquirir, contrastar y evaluar la información en cualquier circunstancia
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Esta nueva alfabetización (<emphasis>literacy</emphasis>) abarca competencias en las tecnologías de la comunicación
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Todos los estadounidenses deben ser expertos en todas las destrezas necesarias para moverse en la Edad de la Información y ser conscientes 
+						de su importancia.
+					</para>
+				</listitem>
+			</itemizedlist>
+		</section>
+	</section>
+	<section xml:id="ch02c">
+		<title>Normas</title>
+		<para>
+			Si las declaraciones establecen el marco general de la ALFIN al mismo tiempo que llaman la atención a la sociedad, a los gobiernos, autoridades e 
+			instituciones culturales y académicas, las normas, los modelos, las directrices y los marcos nos acercan más a su aplicación práctica, indicándonos 
+			qué es lo que se debe buscar y cómo, aunque no siempre lo logren. Proporcionan el esquema general de cuáles son las competencias que se deben conseguir, 
+			acompañadas de ejemplos de cómo lograrlo.
+		</para>
+		<para>
+			Hay una gran confusión terminológica, especialmente entre modelos y normas, que trataremos en el punto 4. Sin embargo Aurora Cuevas, lo ve de la siguiente 
+			manera: <quote>un <emphasis role="strong">modelo de alfabetización en información</emphasis> es un marco teórico que trata de presentar el nivel de 
+			competencias para que una persona adquiera las habilidades que le hagan ser alfabetizado en información en un determinado estadio evolutivo. Su desarrollo 
+			se lleva a cabo a través de normas</quote> (Cuevas, 2007, p. 135).
+		</para>
+		<para>
+			Lo vamos a presentar mediante ejemplos de la siguiente manera: veremos algunas normas, después los marcos y acabaremos con los modelos.
+		</para>
+		<para>
+			En el caso de las normas todas están redactadas<footnote><para>Y la mayor parte traducidas por Cristóbal Pasadas.</para></footnote> por alguna de las 
+			asociaciones que acabamos de mencionar, se influyen unas en otras y están íntimamente ligadas a su naturaleza formadora, puesto que están destinadas a los 
+			estudiantes en todas sus etapas.
+		</para>
+		<para>
+			La mayor parte de ellas son el resultado de un trabajo multidisciplinar en el que han intervenido fundamentalmente profesionales del mundo de la información 
+			y de la enseñanza pero también del de la informática. Permiten ser utilizadas y adaptadas siempre que se reconozca el origen y los resultados no se utilicen 
+			con fines comerciales.
+		</para>
+		<section xml:id="ch02c1">
+			<title>Escolares</title>
+			<para>
+				Las primeras normas sobre ALFIN fueron redactadas por la AASL y la AECT (<citetitle>Association for Educational Communications and Technology</citetitle>) 
+				en 1998, con el título <emphasis role="strong">Normas de alfabetización en información para el aprendizaje de los estudiantes</emphasis> 
+				&lt;<link xl:href="http://medina-psicologia.ugr.es/biblioteca/mod/resource/view.php?id=107"/>&gt; (traducidas por Aurora Cuevas) recogían 9 normas (con 29 
+				indicadores) agrupadas en 3 categorías (alfabetización en información, aprendizaje independiente y responsabilidad social). Las normas nos dicen que:
+			</para>
+			<para>“El estudiante alfabetizado en información...”</para>
+			<itemizedlist>
+				<listitem>
+					<para>Accede a la información de manera eficaz y eficiente</para>
+				</listitem>
+				<listitem>
+					<para>Evalúa la información de forma crítica y competente</para>
+				</listitem>
+				<listitem>
+					<para>Usa la información de manera precisa y creativa</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				“El estudiante que aprende independientemente es aquél que es alfabetizado en información y...”
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						Busca la información relacionada con sus intereses personales
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Aprecia y disfruta de la literatura y otras expresiones creativas de la información
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Persigue la excelencia en la búsqueda de información y la generación de conocimiento
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				“El estudiante que contribuye de forma positiva a la comunidad de aprendizaje y a la sociedad es aquél que es alfabetizado en información y...”
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>Reconoce la importancia de la información en una sociedad democrática</para>
+				</listitem>
+				<listitem>
+					<para>Practica una conducta ética en lo que concierne a la información y las tecnologías de la información</para>
+				</listitem>
+				<listitem>
+					<para>Participa eficazmente en grupos para buscar y generar información</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				En 2007 la misma AASL publica unas <emphasis role="strong">Normas para los estudiantes del siglo XXI</emphasis> 
+				&lt;<link xl:href="http://www.ala.org/ala/mgrps/divs/aasl/guidelinesandstandards/learningstandards/AASL_LearningStandards.pdf"/>&gt; con el 
+				objetivo de proporcionar una herramienta que permita sustentar el programa de la biblioteca y sirva al bibliotecario escolar para diseñar el 
+				aprendizaje de los estudiantes en la escuela.
+			</para>
+			<para>
+				Es importante su llamémosla “exposición de motivos” en la que destacan los siguientes aspectos:
+			</para>
+			<informalfigure xreflabel="Fig 13">
+				<mediaobject>
+					<imageobject fileref="resource/INF-5-016.jpg"/>
+				</mediaobject>
+				<caption><para>AASL. Normas para los estudiantes del siglo XXI</para></caption>
+			</informalfigure>
+			<itemizedlist>
+				<listitem>
+					<para>
+						La lectura (en todos los formatos) es una competencia esencial para el aprendizaje, el crecimiento personal y el 
+						entretenimiento, convirtiéndose en un indicador del éxito en la escuela y en la vida.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Las destrezas deben tenerse y usarse bajo la responsabilidad individual y mediante la autoevaluación.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Los estudiantes deben ser enseñados a mirar desde diferentes perspectivas a compartir y usar la información éticamente y a usar las 
+						herramientas sociales con responsabilidad.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Deben desarrollar las competencias en información que les permitan usar la tecnología como herramienta para el aprendizaje actual y futuro.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						El acceso equitativo a la información y a las TIC es un componente clave de la educación.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						La ALFIN ha progresado de la simple definición de usar recursos de referencia a encontrar información; y múltiples alfabetizaciones se 
+						han incorporado a la ALFIN como competencias para este siglo: digital, visual, textual y tecnológica.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						El constante incremento de la información requiere que todos los individuos adquieran las competencias intelectuales que les permitan 
+						aprender por sí mismos.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						El aprendizaje se realiza dentro de un contexto social, compartiendo y aprendiendo con los demás, bien cara a cara bien mediante la tecnología.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Las bibliotecas escolares son esenciales para desarrollar las competencias del aprendizaje.
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				El esquema toma forma de una matriz en la que 4 objetivos amplios se conjugan con 4 perspectivas para obtener unos 83 enunciados.
+			</para>
+			<para>
+				Los estudiantes usan habilidades, recursos y herramientas para:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						Preguntar, pensar críticamente y alcanzar el conocimiento
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Dibujar conclusiones, tomar decisiones informadas, aplicar el conocimiento a las nuevas situaciones y crear nuevo conocimiento
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Compartir conocimiento y participar ética y productivamente como miembro de nuestra sociedad democrática
+					</para>
+				</listitem>
+				<listitem>
+					<para>Perseguir el crecimiento estético y personal</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				Cada uno de esos objetivos generales se concreta en otros específicos al combinarse con cada uno de los siguientes elementos:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						Destrezas: habilidades clave par entender, aprender, pensar y dominar las materias
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Puesta en acción: creencias y actitudes que guían el pensamiento y la conducta intelectual que pueden medirse por las acciones tomadas.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Responsabilidades: Conductas seguidas por los estudiantes independientes en la investigación y en la resolución de problemas.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Estrategias de autoevaluación: Reflexión sobre cómo los 3 aspectos anteriores son efectivos.
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				La misma asociación publica un documento (no tiene acceso gratuito) en el que se ve cómo se aplican estas normas en la realidad, titulado 
+				<citetitle>“Standards for the 21st Century Learner in Action”</citetitle><footnote><para>Disponible en 
+				&lt;<link xl:href="http://www.ala.org/ala/mgrps/divs/aasl/guidelinesandstandards/learningstandards/standardsinaction.cfm"/>&gt;.</para></footnote>
+				y cuenta con un programa sobre <emphasis role="strong">cómo implementar las normas y aportar directrices para crear los programas de las bibliotecas escolares</emphasis>:
+				<citetitle>Learning 4 Life</citetitle><footnote><para>Disponible en &lt;<link xl:href="http://www.ala.org/ala/mgrps/divs/aasl/guidelinesandstandards/learning4life/document/l4lplan.pdf"/>&gt;.</para></footnote>
+			</para>
+		</section>
+		<section xml:id="ch02c2">
+			<title>Universitarias</title>
+			<para>
+				Las <emphasis role="strong">Normas sobre aptitudes para el acceso y uso a la información en la educación superior</emphasis> &lt;<link xl:href="http://www.aab.es/pdfs/baab60/60a6.pdf"/>&gt; 
+				(ACRL/ALA, 2000) constituían para quienes las redactaron la base para el aprendizaje permanente y las consideraban comunes a todas las 
+				disciplinas y niveles de educación. Una vez más en su origen se encontraban el desarrollo de las tecnologías de la información, considerando 
+				un punto de partida básico las destrezas con ellas.
+			</para>
+			<para>
+				Su esquema se condensa en 5 normas que contienen 22 indicadores de rendimiento y cerca de 90 ejemplos de resultados esperados. Fueron adoptadas por la 
+				<citetitle>American Association of Higher Education</citetitle> y por agencias acreditativas.
+			</para>
+			<para>
+				Su enunciado dice que <quote>“El estudiante que es competente en el acceso y uso de la información...”</quote>:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						es capaz de determinar la naturaleza y nivel de información que necesita
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						accede a la información requerida de manera eficaz y eficiente
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						evalúa la información y sus fuentes de manera crítica e incorpora la información seleccionada a su propia base de conocimientos y a 
+						su sistema de valores
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						a título individual o como miembro de un grupo, utiliza la información eficazmente para cumplir un propósito específico
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para>
+				Las <emphasis role="strong">Normas sobre alfabetización informacional</emphasis><footnote><para>Véase 
+				&lt;<link xl:href="http://medina-psicologia.ugr.es/biblioteca/mod/resource/view.php?id=27"/>&gt;.</para></footnote> del CAUL se aprobaron 
+				en octubre de 2000 y se basan en las recién mencionadas: ambas pueden ser utilizadas y adaptadas si se reconoce su origen. La diferencia 
+				fundamental entre unas y otras estriba en que la australiana añade dos normas más: una sobre el control y el manejo de la información y 
+				otra sobre el aprendizaje a lo largo de la vida.
+			</para>
+			<para>
+				Así <quote>La persona con aptitudes para el acceso y uso de la información...</quote>
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						reconoce la necesidad de información y determina la naturaleza y nivel de la información que necesita
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						accede a la información requerida de manera eficaz y eficiente
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						evalúa la información y sus fuentes de forma crítica e incorpora la información seleccionada a su propia base de conocimientos y a 
+						su sistema de valores
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						 clasifica, almacena, manipula y reelabora la información reunida o generada
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						individualmente o como miembro de un grupo, amplía, reestructura o crea nuevos conocimientos integrando el saber anterior y la nueva 
+						comprensión
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						comprende los problemas y cuestiones culturales, económicos, legales y sociales que rodean el uso de la información, y accede y 
+						utiliza la información de forma respetuosa, ética y legal
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						reconoce que el aprendizaje a lo largo de la vida y la participación ciudadana requieren alfabetización informacional
+					</para>
+				</listitem>
+			</itemizedlist>
+		</section>
+	</section>
+	<section xml:id="ch02d">
+		<title>Marcos</title>
+		<para>
+			La principal característica que parece acompañar a los marcos es su intento de insertarlos en el aprendizaje a lo largo de la vida y por tanto, 
+			no reducirse a un único ámbito como el escolar y el universitario.
+		</para>
+		<para>
+			El ejemplo del marco escocés es significativo en este sentido (y un ejemplo de la importancia del <emphasis>remix</emphasis>), al contemplar todos 
+			los estadios educativos conjugados con modelos diferentes. El marco de la Universidad Tecnológica de Queensland<footnote><para>Véase 
+			&lt;<link xl:href="http://library.qut.edu.au/services/teaching/infolit/framework.jsp"/>&gt;</para></footnote>, que sólo mencionamos, se centra 
+			en la universidad (utiliza las normas de CAUL) pero tiene en cuenta a la comunidad externa que se relaciona con ella y a todos los elementos de 
+			la comunidad universitaria (no únicamente a los estudiantes). Por su parte el Big6 es el resultado de la evolución de uno de los modelos 
+			teórico-prácticos que veremos en el punto 3.
+		</para>
+		<para>
+			El <emphasis role="strong">Marco para la Alfabetización Informacional en Australia y Nueva Zelanda</emphasis><footnote><para>Existe una traducción 
+			al español en &lt;<link xl:href="http://www.aab.es/pdfs/baab73/73a4.pdf"/>&gt;. La versión original completa está en 
+			&lt;<link xl:href="http://www.caul.edu.au/info-literacy/InfoLiteracyFramework.pdf"/>&gt;.</para></footnote>
+		</para>
+		<para><quote>“La persona alfabetizada en información...”</quote></para>
+		<itemizedlist>
+			<listitem>
+				<para>
+					reconoce la necesidad de información y determina la naturaleza y nivel de la información que necesita
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					encuentra la información que necesita de manera eficaz y eficiente
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					evalúa críticamente la información y el proceso de búsqueda de la información
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					gestiona la información reunida o generada
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					aplica la información anterior y la nueva para elaborar nuevos conceptos o crear nueva comprensión
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					utiliza la información con sensibilidad y reconoce los problemas y cuestiones culturales, éticas, económicas, legales y sociales que 
+					rodean el uso de la información
+				</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			¿Por qué esto es un marco y lo otro es una norma? Tal vez la clave esté en los principios (Gómez y Pasadas, 2007):
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>
+					se implica en el aprendizaje independiente mediante la construcción de nuevo significado, comprensión y conocimiento
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					obtiene satisfacción y realización personal gracias al uso eficaz de la información
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					busca y utiliza la información, individualmente y en grupo, para la toma de decisiones y la solución de problemas 
+					frente a cuestiones personales, profesionales y sociales
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					demuestra responsabilidad social gracias al compromiso con el aprendizaje continuo y la participación comunitaria.
+				</para>
+			</listitem>
+		</itemizedlist>
+		<informalfigure xreflabel="Fig 14">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-017.jpg"/>
+			</mediaobject>
+		</informalfigure>
+		<informalfigure xreflabel="Fig 15">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-018.jpg"/>
+			</mediaobject>
+			<caption><para>Fuente: &lt;<link xl:href="http://caledonianblogs.net/information-literacy/files/2008/09/baninfolit4.jpg"/>&gt;</para></caption>
+		</informalfigure>
+		<para>
+			El <emphasis role="strong">Scotish Information Literacy Project</emphasis> &lt;<link xl:href="http://www.gcu.ac.uk/ils/index.html"/>&gt; perseguía una Escocia 
+			alfabetizada en información. En sus inicios buscaban un marco para la educación superior, pero acabaron ampliándolo a todos los sectores educativos y al 
+			aprendizaje a lo largo de la vida.
+		</para>
+		<para>
+			El título del borrador en el que establecían el marco era esclarecedor: <citetitle><emphasis role="strong">Skills for everyone</emphasis></citetitle> 
+			&lt;<link xl:href="http://caledonianblogs.net/nilfs/files/2009/03/draft-information-literacy-framework-1h.pdf"/>&gt;: A National Information Literacy Framework: 
+			Scotland Literacy Framework. Después se convirtió en un blog: &lt;<link xl:href="http://caledonianblogs.net/information-literacy"/>&gt;.
+		</para>
+		<para>
+			Es un proyecto que se ha extendido durante 5 años y ha incluido a personas de muchos sectores: de la educación, del mundo laboral, ONGs y cuerpos profesionales.
+		</para>
+		<para>
+			Es un proyecto integrador que contempla todos los niveles educativos y adopta modelos ya existentes, como el de SCONUL o el propio de CILIP<footnote><para>La 
+			definición de CILIP se presenta acompañada de ejemplos, que en buena medida la asemejan a una norma o un modelo.</para></footnote>, además de las 
+			<citetitle>Habilidades de Manejo de la Información de la Agencia de Calificación Escocesa</citetitle>.
+		</para>
+		<para>
+			Para cada uno de los niveles establece un conjunto de habilidades que deben alcanzarse. Cada una de las habilidades básicas va acompañada de habilidades específicas, 
+			como se muestra en el cuadro que aparece al final de este apartado.
+		</para>
+		<para>
+			En los <emphasis role="strong">niveles inferiores de la educación</emphasis>, este esquema se acompaña de documentación adicional. Además describe qué debe 
+			ser capaz de hacer quien reúna los requisitos de la habilidad descrita y cuáles son los niveles de evaluación a los que se aplica.
+		</para>
+		<para>
+			Para la <emphasis role="strong">educación</emphasis> superior se aplica el modelo SCONUL. En este caso las habilidades específicas se establecen para cada uno 
+			de los “pilares” del modelo (los veremos en el punto 3).
+		</para>
+		<para>
+			También es diferente el apartado de <emphasis role="strong">aprendizaje a lo largo de la vida:</emphasis> se utiliza el esquema de CILIP con ejemplos de 
+			su cumplimiento.
+		</para>
+		<para>
+			<emphasis role="strong">Big6</emphasis> &lt;<link xl:href="http://www.big6.com/category/big6-resources/"/>:&gt; <citetitle>Information &amp; Technology Skills for 
+			Student Achievement</citetitle> fue creado en 1990 como un modelo con los 6 pasos que le proporcionan su nombre; pero se ha reconvertido totalmente en fechas 
+			recientes, convirtiéndose (Gómez y Pasadas, 2007) en un marco.
+		</para>
+		<para>
+			En él se incluyen todos los niveles del aprendizaje de la estructura de la educación en EE.UU. Permite acceder a la documentación por temas, por cada una de las 
+			seis habilidades (definición de la tarea, estrategias de búsqueda de información, localización y acceso, uso de la información, síntesis y evaluación). Cuenta 
+			con un apartado interesante &lt;<link xl:href="http://www.big6.com/category/national-state-local-standards/"/>&gt; en el que relaciona Big6 con las normas 
+			nacionales y estatales, incluyendo las de la AASL y de la ACRL que ya hemos analizado. El big6 muestra gráficamente sus seis etapas:
+		</para>
+		<informalfigure xreflabel="Fig 16">
+			<mediaobject>
+				<imageobject fileref="resource/INF-5-019.jpg"/>
+			</mediaobject>
+			<caption><para>Big6: &lt;<link xl:href="http://www.big6.com"/>&gt;</para></caption>
+		</informalfigure>
+		<para>
+			Ejemplo de cómo se describe una de las habilidades generales en el Marco Escocés (<xref linkend="anexos2" xreflabel="ver Anexo II"/>)
+		</para>
+	</section>
+</chapter>

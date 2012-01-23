@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch07"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+	<title>Recursos de información</title>
+	<para>
+		En un mundo como el que habitamos hoy día, ¿qué pretendemos abarcar con un epígrafe así? ¿Qué subconjunto de subconjunto tomaremos como conjunto válido?
+	</para>
+	<para>
+		Creo que una buena parte de los recursos ya han sido expuestos de una manera u otra y volverán a aparecer en la relación que sigue, con un breve comentario.
+	</para>
+	<section xml:id="ch07a">
+		<title>Repositorios y fuentes generales</title>
+		<itemizedlist>
+			<listitem>
+				<para>
+					<emphasis role="strong">Infolit Global</emphasis> &lt;<link xl:href="http://www.infolitglobal.info"/>&gt; Acoge un repositorio internacional de 
+					recursos sobre ALFIN. Era una de las asignaturas pendientes que se requería en las primeras grandes reuniones de expertos. Se llevó a cabo gracias a 
+					la colaboración entre la UNESCO y la Sección de ALFIN de la IFLA. Ha habido algunas críticas en cuanto a si no sería mejor en vez de realizar un 
+					macrodepósito mundial realizar varios depósitos limitados geográficamente. Si bien es cierto que puede ser muy difícil de gestionar un gran depósito 
+					también lo es tener que conocer multitud de ellos diseminados. Si optáramos por esta opción tendríamos que utilizar algún tipo de recolector similar 
+					a los utilizados con los repositorios institucionales. Dentro de ese espacio hay otro elemento importante, el <emphasis role="strong">State-of-art Report</emphasis>. 
+					Como hemos dicho busca ser un estado de la cuestión de la ALFIN en el mundo, que a sus vez recopila fuentes de información. Se está estudiando 
+					convertirlo a un formato más fácilmente actualizable (como una wiki).
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					El <emphasis role="strong">Taller de Formación de Formadores</emphasis> &lt;<link xl:href="http://medina-psicologia.ugr.es/biblioteca/course/view.php?id=3"/>&gt;
+					es una excelente fuente de información con multitud de recursos muy bien escogidos que tocan todos los aspectos de la ALFIN y se encuentra en la plataforma 
+					Moodle de la Biblioteca de la Universidad de Granada.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">ALFARED</emphasis> &lt;<link xl:href="http://www.alfared.org/"/>&gt; es otra fuente de información que será muy importante en nuestra 
+					lengua si alcanza los objetivos que se ha marcado. Pretende convertirse en un depósito y/o referencia de todas las experiencias que tengan lugar en los 
+					diferentes tipos de biblioteca.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">IL: Information Literacy</emphasis> &lt;<link xl:href="http://www.informationliteracy.org.uk"/>&gt; es una página web dedicada a 
+					la ALFIN que se creó gracias al apoyo de CILIP, SCONUL, Eduserv, School Library Association, MLA (Museum, Libraries &amp; Archives) y The Higher Education 
+					Academy: Information &amp; Computing Sciences Subject Centre. Una de sus editoras, Ruth Stubbings, es miembro del Comité Permanente de la Sección de ALFIN 
+					de la IFLA.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">EDUTEKA: Tecnologías de Información y Comunicaciones para la Enseñanza Media y Básica</emphasis> &lt;<link xl:href="http://www.eduteka.org"/>&gt;
+					es una excelente web con multitud de recursos para el aula. Recoge ejemplos de varios modelos y desarrolla totalmente el Modelo Gavilán, que es propio.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Proyecto de Lectura para Centros Escolares</emphasis> &lt;<link xl:href="http://sol-e.com/plec/index.php"/>&gt;. Página web creada 
+					con el patrocinio del Ministerio de Cultura, el Plan de Fomento de la Lectura, la Federación de Gremios de Editores de España y la FGSR. Recoge diferentes 
+					enlaces relacionados con el mundo escolar. Entre ellos directorios de bibliotecas, sugerencias de lectura, documentos sobre primaria, secundaria y 
+					bachillerato, experiencias prácticas (entre ellas los proyectos digitales integrados de Rosa Piquín) y recursos didácticos para el mundo de la educación.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Desarrollo de Habilidades Informativas</emphasis> &lt;<link xl:href="http://bivir.uacj.mx/dhi/Default.asp"/>&gt; se encuentra en la 
+					Universidad Autónoma de Ciudad Juárez, con larga tradición en encuentros sobre ALFIN.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">21st Century Information Fluency</emphasis> &lt;<link xl:href="http://21cif.com/"/>&gt; Todo tipo de recursos sobre las competencias 
+					en información digital, incluyendo un modelo.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">ALFINBUC</emphasis> &lt;<link xl:href="http://www.ucm.es/BUCM/alfin/index.php"/>&gt; Es la página destinada a la formación en la 
+					Biblioteca de la Universidad Complutense de Madrid. Participa en el <emphasis>Literacy Project</emphasis> &lt;<link xl:href="http://www.google.com/intl/es/literacy/index.html/"/>&gt;
+					de Google, recopila muchos de los recursos mencionados aquí y recoge en su apartado de vídeos, la grabación de varias conferencias 
+					&lt;<link xl:href="http://www.universia.tv/ES/VIDEOS/TAG/brecha%20digital/TODOS-LOS-VIDEOS"/>&gt; del curso de verano “<emphasis>Brecha digital y nuevas 
+					alfabetizaciones: el papel de las bibliotecas</emphasis>”.
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section xml:id="ch07b">
+		<title>Blogs, wikis y fuentes personales</title>
+		<itemizedlist>
+			<listitem>
+				<para>
+					<emphasis role="strong">Alfabetización Informacional 2.0</emphasis> &lt;<link xl:href="http://www.netvibes.com/nievesglez"/>&gt; El Netvibes de Nieves González 
+					recopila muchísima información relacionada con ALFIN, especialmente en su vertiente 2.0.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Information Literacy Weblog</emphasis> &lt;<link xl:href="http://information-literacy.blogspot.com"/>&gt; es ya un clásico de la 
+					ALFIN internacional, que alimenta Sheila Webber, actualmente miembro del Comité Permanente de la Sección de ALFIN de la IFLA.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">ALFINCOLOMBIA</emphasis> &lt;<link xl:href="http://alfincolombia.blogspot.com"/>&gt; es una web cada vez más activa y con más recursos 
+					cuyo principal responsable es Alejandro Uribe Tirado: Además de interesantes posts (véase sino el que establece <emphasis role="strong">relaciones entre 
+					definiciones y definidores de ALFIN</emphasis> &lt;<link xl:href="http://alfincolombia.blogspot.com/2009/12/interrelaciones-entre-veinte.html"/>&gt;), 
+					hace uso de las principales herramientas de la web 2.0 e incluso del mundo virtual, como Second Life y utiliza toda la columna derecha para incluir 
+					información muy diversa y rica: definiciones, normas, programas y cursos, documentos fundamentales, repositorios, libros, revistas, artículos, congresos, 
+					presentaciones, vídeos...
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">ALFINENARGENTINA</emphasis> &lt;<link xl:href="http://alfinenargentina.blogspot.com/"/>&gt; es un blog que mantiene Ángela Chiesa. 
+					Junto a las noticias que aparecen regularmente también recopila enlaces a recursos ALFIN en todo el mundo, destacando en este caso los dedicados a otros 
+					países iberoamericanos y la inclusión de enlaces a juegos que ayudan a aprender.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">ALFINURUGUAY</emphasis> &lt;<link xl:href="http://alfinuruguay.blogspot.com"/>&gt; mantenido por Sandra García Rivadulla.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">ALFINSALUD: Alfabetización informacional en Ciencias de la Salud</emphasis> &lt;<link xl:href="http://alfabetizacionccss.blogspot.com"/>&gt;.
+					Mª Teresa García Ballesteros mantiene un blog que se centra en un campo específico de la ciencia. Forma parte del Grupo de Trabajo sobre ALFIN del Consejo de 
+					Cooperación Bibliotecaria.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Carpeta Integral de Ejercicios de Competencias informativas para el Aprendizaje</emphasis> &lt;<link xl:href="http://www.jesuslau.com/cia/pro.htm"/>&gt;
+					es un documento creado por Jesús Lau que puede asimilarse a un portafolio personal sobre ALFIN.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">e-Learning for librarians: an ideas playground</emphasis> &lt;<link xl:href="http://library.queensu.ca/wiki/elearning/doku.php" />&gt; 
+					Espacio wiki para compartir ideas sobre el diseño y desarrollo de herramientas e-learning para la ALFIN.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">2.0 meets Information Fluency</emphasis> &lt;<link xl:href="http://informationfluency.wikispaces.com"/>&gt; Wiki con muchos recursos 
+					sobre Information Fluency, incluye perfil de bibliotecarios, derechos de autor, bibliotecas escolares...
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Information Literacy and web 2.0</emphasis> &lt;<link xl:href="http://infolitweb20.blogspot.com/"/>&gt;
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section xml:id="ch07c">
+		<title>Organizaciones</title>
+		<itemizedlist>
+			<listitem>
+				<para>
+					<emphasis role="strong">UNESCO. Programa de Información para Todos</emphasis>
+					&lt;<link xl:href="http://portal.unesco.org/ci/en/ev.php-URL_ID=21293&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html"/>&gt;
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">IFLA (International Federation of Library Associations and Institutions). Information Literacy Section</emphasis>
+					&lt;<link xl:href="http://www.ifla.org/en/information-literacy"/>&gt;
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">ACRL (Association of College and Research Libraries)</emphasis>
+					&lt;<link xl:href="http://www.acrl.org/ala/mgrps/divs/acrl/standards/infolit.cfm"/>&gt;
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">AASL (American Association of School Librarians)</emphasis>
+					&lt;<link xl:href="http://www.ala.org/ala/mgrps/divs/aasl/guidelinesandstandards/guidelinesandstandards.cfm"/>&gt;
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">CAUL (Council of Australian University Librarians)</emphasis>
+					&lt;<link xl:href="http://www.caul.edu.au/info-literacy/index.html"/>&gt;
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">ANZIIL (Australian &amp; New Zealand Institute for Information Literacy)</emphasis>
+					&lt;<link xl:href="http://www.anziil.org/" />&gt;
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">SCONUL (Society of College, National and University Libraries)</emphasis>
+					&lt;<link xl:href="http://www.sconul.ac.uk/topics_issues/info_literacy/"/>&gt;
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">National Forum in Information Literacy</emphasis>
+					&lt;<link xl:href="http://www.infolit.org/resources.html"/>&gt;
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">CILIP (Chartered Insitute of library and Information Professionals)</emphasis>
+					&lt;<link xl:href="http://www.cilip.org.uk/get-involved/advocacy/learning/information-literacy/pages/default.aspx"/>&gt;
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">ENSIL (European Network for School Libraries and Information Literacy)</emphasis>
+					&lt;<link xl:href="http://www.ensil.eu"/>&gt;
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">NORDINFOLIT (The Nordic Council for Scientific Information)</emphasis>
+					&lt;<link xl:href="http://www.nordinfolit.org/default.asp?nid=59"/>&gt;
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">LILAC (Librarians’ Information Literacy Annual Conference)</emphasis>
+					&lt;<link xl:href="http://www.lilacconference.com/dw/index.html"/>&gt;
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Creating Knowledge</emphasis>
+					&lt;<link xl:href="https://ck-vi.uib.no/index.php/creatingknowledge/2010/schedConf/overvie"/>&gt; Conferencia anual de NordinfoLIT. En esta dirección se tiene acceso a 
+					las anteriores: &lt;<link xl:href="http://www.congress.utu.fi/creatingknowledge2008/"/>&gt; 
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section xml:id="ch07d">
+		<title>Revistas en acceso abierto</title>
+		<itemizedlist>
+			<listitem>
+				<para>
+					<emphasis role="strong">Journal of Information Literacy</emphasis>
+					&lt;<link xl:href="http://ojs.lboro.ac.uk/ojs/index.php/JIL/index" />&gt; Mantenida por CILIP
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Nordic Journal of Information Literacy in Higher Education</emphasis>
+					&lt;<link xl:href="https://noril.uib.no/index.php/noril" />&gt;. Publicada por la Universidad de Bergen.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Communications in Information Literacy</emphasis>
+					&lt;<link xl:href="http://www.comminfolit.org/index.php/cil/index" />&gt;. Parte de los números en acceso abierto.
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section xml:id="ch07e">
+		<title>Tutoriales</title>
+		<para>
+			Los hay de muy diferentes características; algunos de ellos bastante atractivos. Incluimos algunos ejemplos (están también en ALFINBUC):
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>
+					<emphasis role="strong">Search &amp; Write</emphasis>
+					&lt;<link xl:href="http://www.sokogskriv.no/english" />&gt;: un tutorial de la Universidad de Bergen<footnote><para>En él ha intervenido la 
+					actual presidenta de la Sección de ALFIN de la IFLA</para></footnote> (en inglés).
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">InfoSphere</emphasis>
+					&lt;<link xl:href="http://www.bib.umontreal.ca/infosphere/sciences/index.html" />&gt;: para aprender a hacer una búsqueda de información eficaz por 
+					la Universidad de Montreal (en francés).
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Viko</emphasis>
+					&lt;<link xl:href="http://www.ntnu.no/viko/en" />&gt;: guía para la alfabetización informacional de la Universidad de Trondheim.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">Safari</emphasis>: una expedición a través del mundo de la información
+					&lt;<link xl:href="http://www.open.ac.uk/safari" />&gt;: la herramienta para buscar y manejar la información de la Open University del Reino Unido (en inglés).
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">OLAS</emphasis>: Information Literacy Online
+					&lt;<link xl:href="http://library.wit.ie/olas/intro.html" />&gt;: Waterford Institute of Technology Libraries (en inglés).
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">PILOT</emphasis>: &lt;<link xl:href="https://pilot.library.qut.edu.au/index.jsp" />&gt;: tutorial ALFIN de la Universidad de 
+					Queensland (en inglés).
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section xml:id="ch07f">
+		<title>Materiales educativos</title>
+		<para>
+			En el apartado de materiales educativos podríamos hablar en primer lugar de los <emphasis role="strong">Open Courseware</emphasis> que no son sino cursos en línea 
+			gratuitos que diferentes instituciones han puesto a disposición del público en general. No sirven para conseguir una titulación; pero es posible que muchos sean mejores 
+			que los cursos que dan derecho a ella (previo pago). El pionero fue el <emphasis role="strong">MIT</emphasis> &lt;<link xl:href="http://ocw.mit.edu/OcwWeb/web/home/home/index.htm"/>&gt;, 
+			y siguieron su estela en muchos lugares, como en España con <emphasis role="strong">Universia</emphasis> &lt;<link xl:href="http://mit.ocw.universia.net"/>&gt;. Hay un 
+			Consorcio Internacional de este tipo de cursos que cuenta con una página web &lt;<link xl:href="http://www.ocwconsortium.org/use/use-dynamic.html"/>&gt; en la que se 
+			relacionan las universidades que proporcionan estos cursos de modo gratuito.
+		</para>
+		<para>
+			La <emphasis role="strong">Open University</emphasis> es un híbrido entre los Open Courseware y los recursos que mostramos a continuación. Desde Open Learn 
+			&lt;<link xl:href="http://www.open.ac.uk/openlearn/home.php"/>&gt; se puede acceder a multitud de cursos y recursos de información que están dispuestos mediante Moodle o 
+			similar. Un ejemplo sobre ALFIN: <citetitle>Key skill assessment unit: information literacy</citetitle>, disponible en &lt;<link xl:href="http://openlearn.open.ac.uk/course/view.php?id=2962" />
+		</para>
+		<para>
+			<emphasis role="strong">The Gateway to 21st century skills</emphasis> &lt;<link xl:href="http://www.thegateway.org/abou"/>&gt; Un ejemplo de híbrido de una sede web que 
+			reúne materiales al mismo tiempo que enlaza con entidades relacionadas con la educación que proponen sus propios cursos, previo pago, es, proyecto del Departamento de 
+			Educación de los Estados Unidos.
+		</para>
+		<para>
+			<emphasis role="strong">Teaching for Information Literacy</emphasis> &lt;<link xl:href="http://cms0.lskysd.ca/pd/hom"/>&gt; es una iniciativa canadiense que pretende 
+			aportar información y materiales a los estudiantes para que puedan tomar las decisiones oportunas en el contacto con la información, con gran importancia a las nuevas 
+			tecnologías. Su lema es “<emphasis>Living to Learn</emphasis>”
+		</para>
+		<para>
+			También hay otra serie de recursos que recoge distintos tipos de <emphasis role="strong">materiales educativos</emphasis>, que en ocasiones, son tutoriales:
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>
+					<emphasis role="strong">Intute</emphasis> (Virtual Training Suite) &lt;<link xl:href="http://www.vts.intute.ac.uk"/>&gt;: en realidad es un híbrido, puesto que es 
+					una recopilación de tutoriales para cursos de diferentes disciplinas.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">LION</emphasis> (Library Information Literacy Online Network) &lt;<link xl:href="http://liontv.blip.tv" />&gt;: otro híbrido, con la 
+					particularidad de que en este caso son tutoriales dinámicos de recursos de información (bases de datos, herramientas bibliotecarias...) realizados con programas 
+					similares a Camtasia Studio, Adobe Captivate o Exelearn.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">ANTS</emphasis> &lt;<link xl:href="http://ants.wetpaint.com" /> fomenta la misma idea, e incluye un documento de directrices sobre cómo hacer 
+					tutoriales animados en línea, disponible en &lt;<link xl:href="http://www.acts.twu.ca/Library/antsguidelines2008.htm"/>&gt;.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">MERLOT</emphasis> (Multimedia Educational Resource for Learning and Online Teaching)
+					&lt;<link xl:href="http://www.merlot.org/merlot/materials.ht"/>&gt;: más de 20.000 recursos de más de 18 tipos que abarcan todas las disciplinas. Se puede filtrar 
+					la información tanto por temas como por tipos. Uno de estos se refiere a repositorios de objetos de aprendizaje incluyendo casi 500.
+				</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			Podemos encontrar iniciativas en castellano:
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>
+					<emphasis role="strong">Comunidad Latinoamericana de Objetos de Aprendizaje</emphasis>
+					&lt;<link xl:href="http://www.laclo.espol.edu.ec"/>&gt; (LACLO) cuenta con un buscador de estos objetos en la Federación Latinoamericana de Repositorios (FLOR) 
+					&lt;<link xl:href="http://ariadne.cti.espol.edu.ec/lacloFinde"/>&gt; y forma parte del proyecto GLOBE 
+					&lt;<link xl:href="http://www.globe-info.org/es"/>&gt;, de nivel internacional.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					El <emphasis role="strong">Proyecto Agrega</emphasis> &lt;<link xl:href="http://www.proyectoagrega.es/default/Inicio"/>&gt; incluye muchos recursos de diferente 
+					índole en una página web atractiva, apoyada por varios ministerios españoles y relacionada con el Programa Internet en el Aula del <emphasis role="strong">Proyecto Avanza2</emphasis>
+					&lt;<link xl:href="http://www.planavanza.es/Paginas/Inicio.aspx"/>&gt;. Dirigido a alumnos no universitarios y profesores, recoge los contenidos del curriculum 
+					en España; pero puede adaptarse o servir para cualquier otro entorno.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					El <emphasis role="strong">Banco de recursos de Educarex</emphasis> &lt;<link xl:href="http://www.educarex.es"/>&gt; también es interesante, ya que muestra el 
+					trabajo realizado por una comunidad autónoma española que desde el principio ha defendido el uso de software libre en la administración pública y en la educación.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					El <emphasis role="strong">Instituto de Tecnologías Educativas</emphasis> &lt;<link xl:href="http://www.ite.educacion.e"/>&gt; del Ministerio de Educación dispone 
+					de una página web con mucha información, para el ámbito no universitario en el que agrupa la información dependiendo a qué público se dirige: profesores, alumnos, 
+					padres... En sedes web muy amplias cabe la posibilidad de no encontrar información relevante o a determinados departamentos que tienen buena documentación. Este 
+					es el caso del <emphasis role="strong">Observatorio del CNICE</emphasis> &lt;<link xl:href="http://observatorio.cnice.mec.es"/>&gt;, que reúne materiales 
+					interesantes de apoyo en las tecnologías de la información y la comunicación.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<emphasis role="strong">MOREA</emphasis> (Múltiples Objetos Reutilizables para la Enseñanza y el Aprendizaje)
+					&lt;<link xl:href="http://www.usc.es/morea"/>&gt; ha sido creado por la Universidad de Santiago de Compostela.
+				</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			Otro punto de vista es el de Wikisaber &lt;<link xl:href="http://www.wikisaber.es"/>&gt; que busca compartir entre todos; pero que requiere registro previo (y pide 
+			demasiados datos para el mismo).
+		</para>
+	</section>
+</chapter>
