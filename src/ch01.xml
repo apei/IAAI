@@ -132,7 +132,9 @@
 	</para>
 	<informalfigure xreflabel="Fig 2">
 		<mediaobject>
-			<imageobject fileref="resource/INF-5-007.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-5-007.jpg"/>
+			</imageobject>
 		</mediaobject>
 	</informalfigure>
 	<para>
@@ -334,7 +336,9 @@
 			</para>
 			<informalfigure xreflabel="Fig 3" xml:id="ich01a3">
 				<mediaobject>
-					<imageobject fileref="resource/INF-5-008.jpg"/>
+					<imageobject>
+						<imagedata fileref="resource/INF-5-008.jpg"/>
+					</imageobject>
 				</mediaobject>
 				<caption><para>Guinchat; Menou (1981). La entrevista documental</para></caption>
 			</informalfigure>
@@ -378,7 +382,9 @@
 			</para>
 			<informalfigure xreflabel="Fig 4">
 				<mediaobject>
-					<imageobject fileref="resource/INF-5-009.jpg"/>
+					<imageobject>
+						<imagedata fileref="resource/INF-5-009.jpg"/>
+					</imageobject>
 				</mediaobject>
 			</informalfigure>
 			<para>
@@ -479,7 +485,9 @@
 			<para><emphasis role="strong">Parámetros e indicadores para la evaluación de páginas web</emphasis></para>
 			<informalfigure xreflabel="Fig 6">
 				<mediaobject>
-					<imageobject fileref="resource/INF-5-053.png"/>
+					<imageobject>
+						<imagedata fileref="resource/INF-5-053.png"/>
+					</imageobject>
 					<caption>
 						<para>Elaborado a partir de: CODINA, Lluís: Metodología de análisis y evaluación de recursos digitales en línea. Octubre 2003.</para>
 					</caption>
@@ -591,7 +599,9 @@
 		</para>
 		<informalfigure xreflabel="Fig 6">
 			<mediaobject>
-				<imageobject fileref="resource/INF-5-010.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-5-010.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<para>
@@ -796,7 +806,9 @@
 		</itemizedlist>
 		<informalfigure xreflabel="Fig 7">
 			<mediaobject>
-				<imageobject fileref="resource/INF-5-011.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-5-011.jpg"/>
+				</imageobject>
 			</mediaobject>
 			<caption>
 				<para>Framework for 21st Century Learning (Partnership for 21st Century Skills)
@@ -882,7 +894,9 @@
 		</itemizedlist>
 		<informalfigure xreflabel="Fig 8">
 			<mediaobject>
-				<imageobject fileref="resource/INF-5-012.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-5-012.jpg"/>
+				</imageobject>
 				<caption>
 					<para>
 						Lara, Tíscar. Competencias digitales en un entorno de conocimiento abierto
@@ -952,7 +966,9 @@
 		</para>
 		<informalfigure xreflabel="Fig 9">
 			<mediaobject>
-				<imageobject fileref="resource/INF-5-013.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-5-013.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<para>

@@ -232,14 +232,18 @@
 				</itemizedlist>
 				<informalfigure xreflabel="Fig 31">
 					<mediaobject>
-						<imageobject fileref="resource/INF-5-034.jpg"/>
+						<imageobject>
+							<imagedata fileref="resource/INF-5-034.jpg"/>
+						</imageobject>
 					</mediaobject>
 					<caption><para>Euroreferencial en información y documentación (2004)</para></caption>
 				</informalfigure>
 				<para>Euroreferencial en información y documentación (2004). Volumen 1, Competencias y aptitudes de los profesionales europeos de información y documentación; p. 13.</para>
 				<informalfigure xreflabel="Fig 32">
 					<mediaobject>
-						<imageobject fileref="resource/INF-5-055.jpg"/>
+						<imageobject>
+							<imagedata fileref="resource/INF-5-055.jpg"/>
+						</imageobject>
 					</mediaobject>
 					<caption><para>Euroreferencial en información y documentación (2004)</para></caption>
 				</informalfigure>
@@ -431,7 +435,9 @@
 				</itemizedlist>
 				<informalfigure xreflabel="Fig 33">
 					<mediaobject>
-						<imageobject fileref="resource/INF-5-035.jpg"/>
+						<imageobject>
+							<imagedata fileref="resource/INF-5-035.jpg"/>
+						</imageobject>
 					</mediaobject>
 					<caption>
 						<para>ANECA. Libro blanco del Grado en Información y Documentación (2005) <link xl:href="http://www.aneca.es"/></para>
@@ -592,7 +598,9 @@
 				</para>
 				<informalfigure xreflabel="Fig 34">
 					<mediaobject>
-						<imageobject fileref="resource/INF-5-036.jpg"/>
+						<imageobject>
+							<imagedata fileref="resource/INF-5-036.jpg"/>
+						</imageobject>
 					</mediaobject>
 					<caption><para>Information Literacy@Wartburg College <link xl:href="http://library.wartburg.edu/infolit/"/></para></caption>
 				</informalfigure>
@@ -839,7 +847,9 @@
 			</para>
 			<informalfigure xreflabel="Fig 35">
 				<mediaobject>
-					<imageobject fileref="resource/INF-5-037.jpg"/>
+					<imageobject>
+						<imagedata fileref="resource/INF-5-037.jpg"/>
+					</imageobject>
 				</mediaobject>
 				<caption><para>
 					Presentaciones de Nieves González sobre ALFIN
@@ -969,7 +979,9 @@
 		</para>
 		<informalfigure xreflabel="Fig 36">
 			<mediaobject>
-				<imageobject fileref="resource/INF-5-038.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-5-038.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<para>
@@ -1056,7 +1068,9 @@
 			</para>
 			<informalfigure xreflabel="Fig 37">
 				<mediaobject>
-					<imageobject fileref="resource/INF-5-039.jpg"/>
+					<imageobject>
+						<imagedata fileref="resource/INF-5-039.jpg"/>
+					</imageobject>
 				</mediaobject>
 			</informalfigure>
 		</section>
@@ -2051,7 +2065,9 @@
 					<title>CI2: Competencias informáticas e informacionales</title>
 					<informalfigure xreflabel="Fig 38">
 						<mediaobject>
-							<imageobject fileref="resource/INF-5-040.jpg"/>
+							<imageobject>
+								<imagedata fileref="resource/INF-5-040.jpg"/>
+							</imageobject>
 						</mediaobject>
 						<caption>
 							<para>&lt;<link xl:href="http://bib.us.es/aprendizaje_investigacion/formacion/images/logo_ci2.PNG"/>&gt;</para>
@@ -2066,7 +2082,9 @@
 					</para>
 					<informalfigure xreflabel="Fig 39">
 						<mediaobject>
-							<imageobject fileref="resource/INF-5-041.jpg"/>
+							<imageobject>
+								<imagedata fileref="resource/INF-5-041.jpg"/>
+							</imageobject>
 						</mediaobject>
 					</informalfigure>
 					<para>
@@ -2223,7 +2241,9 @@
 				</para>
 				<informalfigure xreflabel="Fig 40">
 					<mediaobject>
-						<imageobject fileref="resource/INF-5-042.jpg"/>
+						<imageobject>
+							<imagedata fileref="resource/INF-5-042.jpg"/>
+						</imageobject>
 					</mediaobject>
 					<caption>
 						<para>
@@ -2447,7 +2467,9 @@
 					</para>
 					<informalfigure xreflabel="Fig 41">
 						<mediaobject>
-							<imageobject fileref="resource/INF-5-043.jpg"/>
+							<imageobject>
+								<imagedata fileref="resource/INF-5-043.jpg"/>
+							</imageobject>
 						</mediaobject>
 					</informalfigure>
 				</listitem>

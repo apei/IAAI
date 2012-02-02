@@ -10,17 +10,23 @@
 		<title>Anexo I. Taxonomía Big Blue de modelos, normas y marcos para la ALFIN</title>
 		<informalfigure xreflabel="Fig 42">
 			<mediaobject>
-				<imageobject fileref="resource/INF-5-044.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-5-044.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<informalfigure xreflabel="Fig 43">
 			<mediaobject>
-				<imageobject fileref="resource/INF-5-045.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-5-045.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<informalfigure xreflabel="Fig 44">
 			<mediaobject>
-				<imageobject fileref="resource/INF-5-046.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-5-046.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 	</section>
@@ -28,7 +34,9 @@
 		<title>Anexo II. Skills for everyone. Marco escocés para la ALFIN</title>
 		<informalfigure xreflabel="Fig 45">
 			<mediaobject>
-				<imageobject fileref="resource/INF-5-047.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-5-047.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 	</section>
@@ -36,17 +44,23 @@
 		<title>Anexo III. Marco de marcos relevantes para las alfabetizaciones del aprendizaje</title>
 		<informalfigure xreflabel="Fig 46">
 			<mediaobject>
-				<imageobject fileref="resource/INF-5-048.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-5-048.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<informalfigure xreflabel="Fig 47">
 			<mediaobject>
-				<imageobject fileref="resource/INF-5-049.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-5-049.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<informalfigure xreflabel="Fig 48">
 			<mediaobject>
-				<imageobject fileref="resource/INF-5-050.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-5-050.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<section>

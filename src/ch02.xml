@@ -87,7 +87,9 @@
 			</para>
 			<informalfigure xreflabel="Fig 10">
 				<mediaobject>
-					<imageobject fileref="resource/INF-5-014.jpg"/>
+					<imageobject>
+						<imagedata fileref="resource/INF-5-014.jpg"/>
+					</imageobject>
 				</mediaobject>
 			</informalfigure>
 			<para>
@@ -256,7 +258,9 @@
 				</para>
 				<informalfigure xreflabel="Fig 11">
 					<mediaobject>
-						<imageobject fileref="resource/INF-5-015.jpg"/>
+						<imageobject>
+							<imagedata fileref="resource/INF-5-015.jpg"/>
+						</imageobject>
 					</mediaobject>
 				</informalfigure>
 				<para>
@@ -627,7 +631,9 @@
 			</para>
 			<informalfigure xreflabel="Fig 13">
 				<mediaobject>
-					<imageobject fileref="resource/INF-5-016.jpg"/>
+					<imageobject>
+						<imagedata fileref="resource/INF-5-016.jpg"/>
+					</imageobject>
 				</mediaobject>
 				<caption><para>AASL. Normas para los estudiantes del siglo XXI</para></caption>
 			</informalfigure>
@@ -912,12 +918,16 @@
 		</itemizedlist>
 		<informalfigure xreflabel="Fig 14">
 			<mediaobject>
-				<imageobject fileref="resource/INF-5-017.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-5-017.jpg"/>
+				</imageobject>
 			</mediaobject>
 		</informalfigure>
 		<informalfigure xreflabel="Fig 15">
 			<mediaobject>
-				<imageobject fileref="resource/INF-5-018.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-5-018.jpg"/>
+				</imageobject>
 			</mediaobject>
 			<caption><para>Fuente: &lt;<link xl:href="http://caledonianblogs.net/information-literacy/files/2008/09/baninfolit4.jpg"/>&gt;</para></caption>
 		</informalfigure>
@@ -968,7 +978,9 @@
 		</para>
 		<informalfigure xreflabel="Fig 16">
 			<mediaobject>
-				<imageobject fileref="resource/INF-5-019.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-5-019.jpg"/>
+				</imageobject>
 			</mediaobject>
 			<caption><para>Big6: &lt;<link xl:href="http://www.big6.com"/>&gt;</para></caption>
 		</informalfigure>

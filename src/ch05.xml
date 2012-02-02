@@ -158,7 +158,9 @@
 	</itemizedlist>
 	<informalfigure xreflabel="Fig 26">
 		<mediaobject>
-			<imageobject fileref="resource/INF-5-030.jpg"/>
+			<imageobject>
+				<imagedata fileref="resource/INF-5-030.jpg"/>
+			</imageobject>
 		</mediaobject>
 		<caption><para>Propuesta de Integración ALFIN en Titulaciones Universidad de Sevilla, 2009</para></caption>
 	</informalfigure>
@@ -407,7 +409,9 @@
 			</para>
 			<informalfigure xreflabel="Fig 27">
 				<mediaobject>
-					<imageobject fileref="resource/INF-5-031.jpg"/>
+					<imageobject>
+						<imagedata fileref="resource/INF-5-031.jpg"/>
+					</imageobject>
 				</mediaobject>
 			</informalfigure>
 			<para>
@@ -444,7 +448,9 @@
 			</para>
 			<informalfigure xreflabel="Fig 28">
 				<mediaobject>
-					<imageobject fileref="resource/INF-5-032.jpg"/>
+					<imageobject>
+						<imagedata fileref="resource/INF-5-032.jpg"/>
+					</imageobject>
 				</mediaobject>
 				<caption>
 					<para>
@@ -503,7 +509,9 @@
 			<para><emphasis role="strong">¿Cuáles eran esos principios?</emphasis></para>
 			<informalfigure xreflabel="Fig 29">
 				<mediaobject>
-					<imageobject fileref="resource/INF-5-054.jpg"/>
+					<imageobject>
+						<imagedata fileref="resource/INF-5-054.jpg"/>
+					</imageobject>
 				</mediaobject>
 			</informalfigure>
 			<para>
@@ -611,7 +619,9 @@
 		</para>
 		<informalfigure xreflabel="Fig 30">
 			<mediaobject>
-				<imageobject fileref="resource/INF-5-033.jpg"/>
+				<imageobject>
+					<imagedata fileref="resource/INF-5-033.jpg"/>
+				</imageobject>
 			</mediaobject>
 			<caption>
 				<para>Information literacy marketing <link xl:href="http://www.informationliteracy.org.uk/Marketing.aspx"/></para>
